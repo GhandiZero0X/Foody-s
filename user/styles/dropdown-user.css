@@ -1,20 +1,21 @@
-
 html {
-	font-size:62.5%;
+  font-size: 62.5%;
 }
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
-ul, li {
-	list-style: none;
+ul,
+li {
+  list-style: none;
 }
 input {
-	border: none;
+  border: none;
 }
 body {
   width: 20.055rem;
-}.dropdown-user-CZF {
+}
+.dropdown-user-CZF {
   width: 100%;
   height: 23.6rem;
 }
@@ -54,7 +55,7 @@ body {
   line-height: 1.7142857143;
   letter-spacing: -0.014rem;
   color: #ffffff;
-  font-family: Arial, 'Source Sans Pro';
+  font-family: Arial, "Source Sans Pro";
   white-space: nowrap;
   display: flex;
   align-items: center;
@@ -77,7 +78,7 @@ body {
   line-height: 1.7142857143;
   letter-spacing: -0.014rem;
   color: #ffffff;
-  font-family: Arial, 'Source Sans Pro';
+  font-family: Arial, "Source Sans Pro";
   white-space: nowrap;
   background-color: #ff0000;
   border-radius: 0.5rem;
