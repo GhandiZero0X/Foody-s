@@ -1,0 +1,1684 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.user-admin-transaksi-d9j {
+  width: 100%;
+  height: 232rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.user-admin-transaksi-d9j .section1-XW1 {
+  box-sizing: border-box;
+  padding: 2.2rem 3.8rem 13.7rem 2.3rem;
+  width: 37rem;
+  height: 65.9rem;
+  position: absolute;
+  left: 111rem;
+  top: 19rem;
+  background: linear-gradient(120.37deg, #42ff00 31.52%, #dfff1b 72.66%);
+  border-radius: 1.5rem;
+}
+.user-admin-transaksi-d9j .section1-XW1 .credit-debit-card-c1f {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2.75;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .section1-XW1 .group-395-tjs {
+  margin-bottom: 4.4rem;
+  width: 30.3rem;
+  height: 15.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2.75;
+  color: #cecece;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fbfbfb;
+  border-radius: 1rem;
+}
+.user-admin-transaksi-d9j .section1-XW1 .bank-account-YpR {
+  margin-bottom: 2.2rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2.75;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .section1-XW1 .group-396-fPF {
+  margin-left: 0.6rem;
+  width: 30.3rem;
+  height: 15.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2.75;
+  color: #cecece;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fbfbfb;
+  border-radius: 1rem;
+}
+.user-admin-transaksi-d9j .section2-ryX {
+  width: 69.8rem;
+  height: 43.9rem;
+  position: absolute;
+  left: 36.2rem;
+  top: 41.8rem;
+  border-radius: 1.5rem;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw {
+  box-sizing: border-box;
+  padding: 1.4rem 1.2rem 2.77rem 2.694rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(120.37deg, #42ff00 31.52%, #dfff1b 72.66%);
+  border-radius: 1.5rem;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .auto-group-ygqh-hz9 {
+  margin: 0rem 25.9rem 2.4rem 0.606rem;
+  width: calc(100% - 26.5063rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .auto-group-ygqh-hz9 .transaksi-terkini-1zq {
+  margin-right: 4.8rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.98;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .auto-group-ygqh-hz9 .tanggal-jR3 {
+  margin-top: 0.2rem;
+  width: 14rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 {
+  width: 100%;
+  height: 32.3303rem;
+  position: relative;
+  border: solid 0 #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .tbody-pBb {
+  width: 61.9169rem;
+  height: 12.9682rem;
+  position: absolute;
+  left: 2.2659rem;
+  top: 9.2758rem;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .tbody-pBb .row1-L9w {
+  box-sizing: border-box;
+  padding: 2.342rem 5.423rem 2.343rem 2.617rem;
+  width: 61.9169rem;
+  height: 6.4841rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  border: solid 0 #f0f0f0;
+  background-color: #ffffff;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .tbody-pBb .row1-L9w .item-1-Em7 {
+  margin-right: 52.3551rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .tbody-pBb .row1-L9w .group-96-APs {
+  margin-bottom: 0.3416rem;
+  width: 1.0213rem;
+  height: 0.3691rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .tbody-pBb .row2-UQZ {
+  width: 61.9169rem;
+  height: 10.7439rem;
+  position: absolute;
+  left: 0;
+  top: 2.2242rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .tbody-pBb .row2-UQZ .auto-group-xhvv-1QV {
+  margin: 0rem 12.677rem 2.36rem 16.54rem;
+  width: calc(100% - 29.2169rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .tbody-pBb .row2-UQZ .auto-group-xhvv-1QV .debit-Kg5 {
+  margin-right: 9.9rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .tbody-pBb .row2-UQZ .auto-group-xhvv-1QV .item-15000-4df {
+  margin-right: 4.1rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .tbody-pBb .row2-UQZ .auto-group-xhvv-1QV .september-2023-n3s {
+  margin-bottom: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .tbody-pBb .row2-UQZ .rectangle-292-gf3 {
+  width: 100%;
+  height: 6.4841rem;
+  border: solid 0 #f0f0f0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .thead-Qb3 {
+  box-sizing: border-box;
+  padding: 2.508rem 4.077rem 1.876rem 2.351rem;
+  width: 62.4276rem;
+  height: 6.4841rem;
+  position: absolute;
+  left: 1.7553rem;
+  top: 2.7918rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #857171;
+  background-color: #f3f3f3;
+  border-radius: 10rem;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .thead-Qb3 .id-transaksi-5hB {
+  margin: 0.1rem 4.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .thead-Qb3 .payment-method-z3T {
+  margin: 0.1rem 4.9rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .thead-Qb3 .amount-hCm {
+  margin: 0.1rem 8.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .thead-Qb3 .date-zxZ {
+  margin: 0.1rem 8.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-ryX .section1-zZw .order-GA5 .thead-Qb3 .action-upd {
+  margin-bottom: 0.1rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 {
+  width: 112rem;
+  height: 77.2rem;
+  position: absolute;
+  left: 36.2rem;
+  top: 92.9rem;
+  border-radius: 1.5rem;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 {
+  box-sizing: border-box;
+  padding: 3.4rem 2.4rem 4.1rem 3.1rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(120.37deg, #42ff00 31.52%, #dfff1b 72.66%);
+  border-radius: 1.5rem;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .auto-group-ztps-L2m {
+  margin: 0rem 66.8rem 4.4rem 1.2rem;
+  width: calc(100% - 68rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .auto-group-ztps-L2m .statistik-terkini-rG1 {
+  margin-right: 5.5rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.98;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .auto-group-ztps-L2m .tanggal-m85 {
+  width: 14rem;
+  height: 2.6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP {
+  box-sizing: border-box;
+  padding: 4.5rem 4.1rem 4.9rem 4.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-ze5h-Cz5 {
+  margin: 0rem 4.7rem 4.8rem 0.3rem;
+  width: calc(100% - 5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-ze5h-Cz5 .statistik-7r9 {
+  margin-right: 84.9rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-ze5h-Cz5 .group-96-EQy {
+  margin-bottom: 0.3267rem;
+  width: 1.6rem;
+  height: 0.3733rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .title-assesment-report-wKP {
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 2.0833333333;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH {
+  margin: 0rem 2.4rem 0.999rem 1.9rem;
+  width: calc(100% - 4.3rem);
+  height: 36.9009rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-pskf-mJR {
+  margin: 0rem 2.514rem 5.401rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-pskf-mJR .item-66-65o {
+  margin-bottom: 4.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1666666667;
+  color: #858585;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-pskf-mJR .item-65-DAR {
+  margin-bottom: 4.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1666666667;
+  color: #858585;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-pskf-mJR .item-64-wMK {
+  margin-bottom: 4.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1666666667;
+  color: #858585;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-pskf-mJR .item-63-skm {
+  margin-bottom: 4.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1666666667;
+  color: #858585;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-pskf-mJR .item-62-Qkh {
+  margin-bottom: 4.6rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1666666667;
+  color: #858585;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-pskf-mJR .item-61-Yru {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.1666666667;
+  color: #858585;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .vertical-lines-grid-67j {
+  margin-right: 0.0667rem;
+  opacity: 0.5;
+  width: 0.091rem;
+  height: 36.0872rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ {
+  margin: 0rem 1.638rem 0.001rem 0rem;
+  width: 86.1905rem;
+  height: calc(100% - 0.0009rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .horizontal-lines-grid-h7X {
+  opacity: 0.5;
+  width: 86.1905rem;
+  height: 30.1169rem;
+  position: absolute;
+  left: 0;
+  top: 0.7764rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .horizontal-lines-grid-h7X .line-7-bCu {
+  margin: 0rem 0.074rem 5.85rem 0rem;
+  width: 86.1169rem;
+  height: 0.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .horizontal-lines-grid-h7X .line-6-iHX {
+  margin: 0rem 0.074rem 5.849rem 0rem;
+  width: 86.1169rem;
+  height: 0.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .horizontal-lines-grid-h7X .line-5-dvH {
+  margin: 0rem 0rem 5.777rem 0.074rem;
+  width: 86.1169rem;
+  height: 0.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .horizontal-lines-grid-h7X .line-4-YXT {
+  margin: 0rem 0.074rem 6.212rem 0rem;
+  width: 86.1169rem;
+  height: 0.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .horizontal-lines-grid-h7X .line-3-51b {
+  margin: 0rem 0rem 5.85rem 0.074rem;
+  width: 86.1169rem;
+  height: 0.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .horizontal-lines-grid-h7X .line-2-bVj {
+  margin-right: 0.0736rem;
+  width: 86.1169rem;
+  height: 0.0966rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .shape-2-XeH {
+  width: 1.6rem;
+  height: 24.2rem;
+  position: absolute;
+  left: 2.7286rem;
+  top: 12.7rem;
+  background: linear-gradient(358.18deg, #60e730 113.56%, #deedef 258.3%);
+  border-radius: 5.5rem 5.5rem 0 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .shape-3-2L9 {
+  width: 1.7rem;
+  height: 28.2rem;
+  position: absolute;
+  left: 9.9286rem;
+  top: 8.6rem;
+  background: linear-gradient(358.18deg, #60e831 113.56%, #dfedef 258.3%);
+  border-radius: 5.5rem 5.5rem 0 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .shape-4-88H {
+  width: 1.7rem;
+  height: 12.2rem;
+  position: absolute;
+  left: 17.6286rem;
+  top: 24.7rem;
+  background: linear-gradient(358.18deg, #60e831 113.56%, #dfedef 258.3%);
+  border-radius: 5.5rem 5.5rem 0 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .shape-5-dKw {
+  width: 1.6rem;
+  height: 21rem;
+  position: absolute;
+  left: 25.2286rem;
+  top: 15.9rem;
+  background: linear-gradient(358.18deg, #60e831 113.56%, #dfedef 258.3%);
+  border-radius: 5.5rem 5.5rem 0 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .shape-6-XAR {
+  width: 1.6rem;
+  height: 25.2rem;
+  position: absolute;
+  left: 35.2286rem;
+  top: 11.5rem;
+  background: linear-gradient(358.18deg, #60e831 113.56%, #dfedef 258.3%);
+  border-radius: 5.5rem 5.5rem 0 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .shape-7-Dow {
+  width: 1.6rem;
+  height: 22.1rem;
+  position: absolute;
+  left: 41.7286rem;
+  top: 14.8rem;
+  background: linear-gradient(358.18deg, #60e831 113.56%, #dfedef 258.3%);
+  border-radius: 5.5rem 5.5rem 0 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .shape-8-Kry {
+  width: 1.6rem;
+  height: 15.9rem;
+  position: absolute;
+  left: 48.1286rem;
+  top: 21rem;
+  background: linear-gradient(358.18deg, #60e831 113.56%, #dfedef 258.3%);
+  border-radius: 5.5rem 5.5rem 0 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .background-mark-explanation-SAu {
+  width: 15.3rem;
+  height: 8.6rem;
+  position: absolute;
+  left: 28.5286rem;
+  top: 0;
+  background-color: #ffb000;
+  border-radius: 0.4rem;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .shape-9-Yzd {
+  width: 1.6rem;
+  height: 24.2rem;
+  position: absolute;
+  left: 55.4286rem;
+  top: 12.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 5.5rem 5.5rem 0 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .shape-10-GQq {
+  width: 1.7rem;
+  height: 28.3rem;
+  position: absolute;
+  left: 63.2286rem;
+  top: 8.6rem;
+  background: linear-gradient(358.18deg, #60e831 113.56%, #dfedef 258.3%);
+  border-radius: 5.5rem 5.5rem 0 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .shape-11-Nim {
+  width: 1.6rem;
+  height: 29.6rem;
+  position: absolute;
+  left: 71.9286rem;
+  top: 7.3rem;
+  background: linear-gradient(358.18deg, #60e831 113.56%, #dfedef 258.3%);
+  border-radius: 5.5rem 5.5rem 0 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .shape-12-H53 {
+  width: 1.5rem;
+  height: 27.4rem;
+  position: absolute;
+  left: 79.5286rem;
+  top: 9.5rem;
+  background: linear-gradient(358.18deg, #60e831 113.56%, #dfedef 258.3%);
+  border-radius: 5.5rem 5.5rem 0 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .base-NMP {
+  width: 13rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 29.7286rem;
+  top: 6.4rem;
+  background-color: #ffffff;
+  border-radius: 0.25rem;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .base-copy-uMK {
+  width: 9rem;
+  height: 0.5rem;
+  position: absolute;
+  left: 29.7286rem;
+  top: 6.4rem;
+  background: linear-gradient(265.14deg, #009a4d 22.62%, #f2f2f2 95.9%);
+  border-radius: 0.25rem;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .amount-all-19T {
+  width: 3.8rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 34.2286rem;
+  top: 3.9rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.03rem;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .text-information-hHB {
+  width: 6.1rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 32.4286rem;
+  top: 1.4rem;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .oval-4-bdT {
+  width: 5.9rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 33.0286rem;
+  top: 9.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .oval-5-ii5 {
+  width: 3.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 34.2286rem;
+  top: 10.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .auto-group-kgno-CgZ .oval-6-41F {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 35.1286rem;
+  top: 11.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-6cwd-fWH .shape-13-aVP {
+  margin-bottom: 0.0009rem;
+  width: 1.5rem;
+  height: 27.4rem;
+  background: linear-gradient(358.18deg, #60e831 113.56%, #dfedef 258.3%);
+  border-radius: 5.5rem 5.5rem 0 0;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX {
+  margin-left: 6.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-CWm {
+  margin-right: 2.7rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-XJ9 {
+  margin-right: 3.2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-FE9 {
+  margin-right: 4.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-Bdb {
+  margin-right: 7.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-KE1 {
+  margin-right: 4.2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-FtM {
+  margin-right: 4.3rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-Pjf {
+  margin-right: 4.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-L97 {
+  margin-right: 2.1rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-fx5 {
+  margin-right: 2.8rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-ooP {
+  margin-right: 2.2rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-9cM {
+  margin-right: 1.5rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section2-V29 .section1-Cx9 .statistics-tyP .auto-group-yxb5-gHX .jon-ford-hNy {
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB {
+  width: 151.2rem;
+  height: 62.512rem;
+  position: absolute;
+  left: 0;
+  top: 170.788rem;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj {
+  box-sizing: border-box;
+  padding: 13.2rem 7rem 3rem 7rem;
+  width: 151.2rem;
+  height: 56.4rem;
+  position: absolute;
+  left: 0;
+  top: 6.112rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #049904;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .pemisah-zFb {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK {
+  margin: 0rem 15.3rem 2.4rem 2.8rem;
+  width: calc(100% - 18.1rem);
+  height: 26.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .quotes-voT {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .quotes-voT .auto-group-4ey1-5gM {
+  margin-bottom: 0.6rem;
+  width: 6.9001rem;
+  height: 2.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .quotes-voT .auto-group-4ey1-5gM .tagline-p89 {
+  width: 6.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .quotes-voT .auto-group-4ey1-5gM .tagline-p89 .tagline-p89-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .quotes-voT .auto-group-4ey1-5gM .tagline-p89 .tagline-p89-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .quotes-voT .auto-group-4ey1-5gM .line-23-1bw {
+  width: 6.9001rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 2.225rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .quotes-voT .tujuan-kami-bukan-menciptakan-bisnis-yang-besar-tetapi-membangun-sesuatu-yang-membuat-perubahan-besar-kZX {
+  margin-bottom: 0.8rem;
+  max-width: 25.9rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .quotes-voT .semua-impian-kita-menjadi-kanyataan-jika-kita-mempunyai-keberanian-unutk-mengerjakannya-walt-disney-1kM {
+  margin: 0rem 0rem 0.8rem 5.3rem;
+  max-width: 25.7rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .quotes-voT .wirausahawan-sejadi-meciptakan-peluang-bisnis-sedangkan-wirausahawan-bisa-fokus-mengejar-uang-4Cq {
+  margin-left: 13.5rem;
+  max-width: 28.1rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu {
+  box-sizing: border-box;
+  padding-left: 7.4rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb {
+  margin-right: 12.8rem;
+  width: 25.5rem;
+  row-gap: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .auto-group-su11-BAy {
+  width: 7.4rem;
+  height: 2.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .auto-group-su11-BAy .line-24-7KX {
+  width: 7.4rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 2.2123rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .auto-group-su11-BAy .aboutus-qWR {
+  width: 7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .auto-group-su11-BAy .aboutus-qWR .aboutus-qWR-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .auto-group-su11-BAy .aboutus-qWR .aboutus-qWR-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .group-263-4nV {
+  margin-left: 0.1rem;
+  box-sizing: border-box;
+  padding-left: 0.3125rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .group-263-4nV .location-akq {
+  margin: 0.725rem 0.513rem 0rem 0rem;
+  width: 0.875rem;
+  height: 1.3028rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .group-263-4nV .jl-dharmawangsa-no138-d-airlangga-kec-gubeng-surabaya-jawa-timur-60282-H9T {
+  max-width: 23.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .group-264-XpV {
+  margin-right: 3.6rem;
+  width: calc(100% - 3.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .group-264-XpV .icon-envelope-closed-FkV {
+  margin: 0.2rem 0.5rem 0rem 0rem;
+  width: 1.6rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .group-264-XpV .foodysbussinesgmailcom-MHj {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .group-265-3wF {
+  margin-right: 13.5rem;
+  box-sizing: border-box;
+  padding-left: 0.1333rem;
+  width: calc(100% - 13.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .group-265-3wF .calling-Nid {
+  margin: 0rem 0.633rem 0.1rem 0rem;
+  width: 1.3333rem;
+  height: 1.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .about-us-rPb .group-265-3wF .item-0274-2885822-5d3 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .comunity-NMF {
+  margin-right: 7.9954rem;
+  width: 9.7046rem;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .comunity-NMF .comunity-6o3 {
+  margin: 0rem 0rem 0.1rem 1.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .comunity-NMF .comunity-6o3 .comunity-6o3-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .comunity-NMF .comunity-6o3 .comunity-6o3-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .comunity-NMF .line-26-QBT {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .comunity-NMF .group-266-whB {
+  width: 6.7rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .sosmed-52h {
+  margin-top: 0.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .sosmed-52h .social-media-1h3 {
+  margin-left: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .sosmed-52h .social-media-1h3 .social-media-1h3-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .sosmed-52h .social-media-1h3 .social-media-1h3-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .sosmed-52h .line-25-2Vf {
+  margin-bottom: 1.4rem;
+  width: 10.0045rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .isi-footer-XmK .auto-group-wu7v-7gu .sosmed-52h .list-sosmed-ZVb {
+  width: 14.1rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .pemisah-JCH {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .mark-list-e1F {
+  margin: 0rem 21.2rem 0rem 33.9rem;
+  width: calc(100% - 55.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .mark-list-e1F .copyright-2023-by-foodys-all-rights-reserved-Ze1 {
+  margin: 0rem 9.6rem 1.7rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .footer-VZj .mark-list-e1F .terima-kasih-telah-mengunjungi-foodys-jangan-ragu-untuk-menghubungi-kami-jika-anda-memiliki-pertanyaan-atau-saran-dtm {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .footer-ZRB .foodies-1-htd {
+  width: 30.1rem;
+  height: 27.3071rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.user-admin-transaksi-d9j .footer-ZRB .line-22-e3B {
+  width: 151.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 6.112rem;
+  background-color: #000000;
+}
+.user-admin-transaksi-d9j .transaksi-mNh {
+  width: 19.9rem;
+  height: 5rem;
+  position: absolute;
+  left: 36.7rem;
+  top: 12.2rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.2375;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .manage-account-fU5 {
+  width: 21.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 112.3rem;
+  top: 13.2rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.98;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .section1-9e9 {
+  box-sizing: border-box;
+  padding: 4.5rem 5.144rem 5.3rem 3.3rem;
+  width: 70rem;
+  height: 19.9rem;
+  position: absolute;
+  left: 36rem;
+  top: 19rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(120.37deg, #42ff00 31.52%, #dfff1b 72.66%);
+  border-radius: 1.5rem;
+}
+.user-admin-transaksi-d9j .section1-9e9 .group-386-dZK {
+  margin: 0rem 9.736rem 0.3rem 0rem;
+  box-sizing: border-box;
+  padding: 1.464rem 6.82rem 2.253rem 1.302rem;
+  height: 9.8rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #f0f0f0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section1-9e9 .group-386-dZK .desain-tanpa-judul-27-3-Wt1 {
+  margin-right: 1.7759rem;
+  width: 6.8667rem;
+  height: 6.0827rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section1-9e9 .group-386-dZK .auto-group-jixs-SFs {
+  margin: 0.338rem 0rem 0.379rem 0rem;
+  height: calc(100% - 0.7172rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section1-9e9 .group-386-dZK .auto-group-jixs-SFs .pendapatan-YZo {
+  margin-bottom: 0.5655rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #858585;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section1-9e9 .group-386-dZK .auto-group-jixs-SFs .item-1250000-gAD {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1cd1a1;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section1-9e9 .group-386-xNd {
+  box-sizing: border-box;
+  padding: 1.509rem 6.505rem 2.322rem 1.277rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #f0f0f0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section1-9e9 .group-386-xNd .desain-tanpa-judul-27-3-G8R {
+  margin-right: 1.7414rem;
+  width: 6.7333rem;
+  height: 6.2689rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section1-9e9 .group-386-xNd .auto-group-tr6b-auo {
+  margin: 0.348rem 0rem 0.483rem 0rem;
+  height: calc(100% - 0.8311rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section1-9e9 .group-386-xNd .auto-group-tr6b-auo .pendapatan-WHf {
+  margin-bottom: 0.6379rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #858585;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .section1-9e9 .group-386-xNd .auto-group-tr6b-auo .item-1250000-EjT {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #1cd1a1;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb {
+  box-sizing: border-box;
+  padding: 3.392rem 1.1rem 143.147rem 1.1rem;
+  width: 32.2rem;
+  height: 167.8rem;
+  position: absolute;
+  left: 0;
+  top: 9.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3dbc3d;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--jZj {
+  margin: 0rem 1.4rem 0.487rem 0rem;
+  width: 28.6rem;
+  height: 5rem;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--jZj .rectangle-119-df7 {
+  width: 28.6rem;
+  height: 4.5891rem;
+  position: absolute;
+  left: 0;
+  top: 0.1995rem;
+  background-color: #ffb000;
+  border-radius: 1.4rem;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--jZj .dasboard-jTF {
+  width: 10.2rem;
+  height: 5rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.475;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--1vZ {
+  margin: 0rem 1.4rem 0.287rem 0rem;
+  width: 28.6rem;
+  height: 5rem;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--1vZ .rectangle-119-v1w {
+  width: 28.6rem;
+  height: 4.5891rem;
+  position: absolute;
+  left: 0;
+  top: 0.1995rem;
+  background-color: #ffb000;
+  border-radius: 1.4rem;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--1vZ .dasboard-EoK {
+  width: 7rem;
+  height: 5rem;
+  position: absolute;
+  left: 10.7rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.475;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--kFs {
+  margin: 0rem 1.4rem 0.487rem 0rem;
+  width: 28.6rem;
+  height: 5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--kFs .rectangle-119-Tvy {
+  width: 28.6rem;
+  height: 4.5891rem;
+  position: absolute;
+  left: 0;
+  top: 0.1995rem;
+  border: solid 0.3rem #ffb000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.4rem;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--kFs .dasboard-aEu {
+  width: 10.2rem;
+  height: 5rem;
+  position: absolute;
+  left: 9.1rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.475;
+  color: #ffb000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--VMs {
+  margin-right: 1.4rem;
+  width: 28.6rem;
+  height: 5rem;
+  cursor: pointer;
+  position: relative;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--VMs .rectangle-119-DYm {
+  width: 28.6rem;
+  height: 4.5891rem;
+  position: absolute;
+  left: 0;
+  top: 0.1995rem;
+  background-color: #ffb000;
+  border-radius: 1.4rem;
+}
+.user-admin-transaksi-d9j .sidebar-4Tb .footer-button-user-my-foodys--VMs .dasboard-kHo {
+  width: 7.4rem;
+  height: 5rem;
+  position: absolute;
+  left: 10.5rem;
+  top: 0;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.475;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ {
+  width: 151.2rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #049904;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .profil-aXj {
+  box-sizing: border-box;
+  padding-left: 0.1rem;
+  width: 19.8rem;
+  height: 6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 125.4rem;
+  top: 1.6rem;
+  display: flex;
+  align-items: center;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .profil-aXj .andi-akhsanul-V8u {
+  margin-right: 1.052rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .profil-aXj .dropdown-menu-zbT {
+  box-sizing: border-box;
+  padding: 1.2rem 1.38rem 1.2rem 1.472rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-6-aZo.png');
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .profil-aXj .dropdown-menu-zbT .profil-j3F {
+  width: 3.496rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .line-21-33w {
+  width: 151.2rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 9.1rem;
+  background-color: #000000;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .foodies-1-a3s {
+  width: 30.1rem;
+  height: 27.7rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .navigasi-heH {
+  width: 41.45rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 76.05rem;
+  top: 3.3rem;
+  display: flex;
+  align-items: center;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .navigasi-heH .home-Q2u {
+  margin-right: 3.95rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .navigasi-heH .outlet-6wK {
+  margin-right: 4.1rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .navigasi-heH .contact-RCu {
+  margin-right: 3.15rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .navigasi-heH .produk-XFw {
+  margin-right: 2.95rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.user-admin-transaksi-d9j .navbar-user-FEZ .navigasi-heH .edukasi-2yP {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

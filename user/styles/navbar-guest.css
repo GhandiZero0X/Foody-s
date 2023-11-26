@@ -1,0 +1,326 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 158.3rem;
+}.navbar-guest-aUZ {
+  box-sizing: border-box;
+  padding: 2rem 2rem 13.1rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.navbar-guest-aUZ .wireframe-6C1 {
+  margin: 0rem 3.1rem 2rem 0rem;
+  box-sizing: border-box;
+  padding-top: 2.2rem;
+  width: 151.2rem;
+  height: 9.1rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP {
+  margin: 0rem 6.6rem 2.2rem 8.5rem;
+  width: calc(100% - 15.1rem);
+  height: 4.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .logo-website-u9T {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .logo-website-u9T .logo-TRs {
+  margin-right: 0.6rem;
+  width: 11.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3333333333;
+  letter-spacing: -0.018rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #2d3648;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .logo-website-u9T .nama-web-6Dw {
+  margin: 0.8rem 0;
+  width: 12.2rem;
+  height: calc(100% - 1.6rem);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: -0.012rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .auto-group-14ef-vim {
+  box-sizing: border-box;
+  padding-left: 60.35rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .auto-group-14ef-vim .navigasi-4a5 {
+  margin: 1.2rem 5.9rem 1.1rem 0rem;
+  height: calc(100% - 2.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .auto-group-14ef-vim .navigasi-4a5 .home-Beh {
+  margin-right: 3.95rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .auto-group-14ef-vim .navigasi-4a5 .outlet-72Z {
+  margin-right: 4.1rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .auto-group-14ef-vim .navigasi-4a5 .contact-RJ9 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .auto-group-14ef-vim .button-8bs {
+  margin-bottom: 0.1rem;
+  height: 4.6rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .auto-group-14ef-vim .button-8bs .login-U9w {
+  margin-right: 1rem;
+  width: 10.2rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #d9d9d9;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .auto-group-14ef-vim .button-8bs .register-7Cu {
+  width: 10.2rem;
+  height: 100%;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .wireframe-6C1 .auto-group-rw3q-zHP .auto-group-14ef-vim .button-8bs .register-7Cu .button-fVK {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2d3648;
+  border-radius: 0.2rem;
+}
+.navbar-guest-aUZ .wireframe-6C1 .line-22-hwo {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .property-1layout-navbar-guest-2z5 {
+  margin-right: 3.1rem;
+  width: 151.2rem;
+  height: 9.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #049904;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .property-1layout-navbar-guest-2z5 .button-x73 {
+  width: 21.4rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 123.2rem;
+  top: 2.2rem;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+}
+.navbar-guest-aUZ .property-1layout-navbar-guest-2z5 .button-x73 .login-GtR {
+  margin-right: 1rem;
+  width: 10.2rem;
+  height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .property-1layout-navbar-guest-2z5 .button-x73 .register-8vd {
+  width: 10.2rem;
+  height: 100%;
+  cursor: pointer;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .property-1layout-navbar-guest-2z5 .button-x73 .register-8vd .button-HYd {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffb000;
+  border-radius: 1rem;
+}
+.navbar-guest-aUZ .property-1layout-navbar-guest-2z5 .line-22-8ZF {
+  width: 151.2rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 9.1rem;
+  background-color: #000000;
+}
+.navbar-guest-aUZ .property-1layout-navbar-guest-2z5 .navigasi-4ho {
+  width: 24.15rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 93.4rem;
+  top: 3.4rem;
+  display: flex;
+  align-items: center;
+}
+.navbar-guest-aUZ .property-1layout-navbar-guest-2z5 .navigasi-4ho .home-aw3 {
+  margin-right: 3.65rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .property-1layout-navbar-guest-2z5 .navigasi-4ho .outlet-WJu {
+  margin-right: 3.7rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .property-1layout-navbar-guest-2z5 .navigasi-4ho .contact-deR {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.navbar-guest-aUZ .property-1layout-navbar-guest-2z5 .foodies-1-9cm {
+  width: 30.1rem;
+  height: 27.7rem;
+  position: absolute;
+  left: 2.1rem;
+  top: -9.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}

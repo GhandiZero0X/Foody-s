@@ -1,0 +1,89 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 527rem;
+}.hero-fix-ggh {
+  width: 100%;
+  position: relative;
+  column-gap: 26.3rem;
+  align-items: center;
+  border-radius: 0.5rem;
+  box-sizing: border-box;
+  padding: 2rem;
+  overflow: hidden;
+  display: flex;
+  border: dashed 0.1rem #9747ff;
+
+  .property-1default-caM {
+    cursor: pointer;
+    flex-shrink: 0;
+    width: 156.8rem;
+    height: 63.2rem;
+
+    .hero-M29 {
+      height: 100%;
+      overflow: hidden;
+      position: relative;
+      width: 100%;
+
+      .rectangle-168-uJZ {
+        width: 156.8rem;
+        height: 63.2rem;
+        object-fit: cover;
+        vertical-align: top;
+      }
+    }
+  }
+  .property-1default-dEZ {
+    width: 156.8rem;
+    height: 63.2rem;
+    cursor: pointer;
+    flex-shrink: 0;
+
+    .hero-yJR {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      position: relative;
+
+      .rectangle-168-jYV {
+        width: 156.8rem;
+        height: 63.2rem;
+        object-fit: cover;
+        vertical-align: top;
+      }
+    }
+  }
+  .property-1default-sPo {
+    width: 156.8rem;
+    height: 63.2rem;
+    cursor: pointer;
+    flex-shrink: 0;
+
+    .hero-oYM {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+
+      .rectangle-168-Ado {
+        width: 156.8rem;
+        height: 63.2rem;
+        object-fit: cover;
+        vertical-align: top;
+      }
+    }
+  }
+}

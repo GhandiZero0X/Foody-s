@@ -1,0 +1,1043 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.edit-profile-page-member--KB7 {
+  display: flex;
+  flex-direction: column;
+  background-color: #f9f5f5;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+
+  .navbar-user-SWd {
+    margin-bottom: 8.9rem;
+    width: 100%;
+    height: 9.1rem;
+    overflow: hidden;
+    position: relative;
+    background-color: #049904;
+    flex-shrink: 0;
+
+    .profil-Zr9 {
+      position: absolute;
+      left: 125.4rem;
+      top: 1.6rem;
+      align-items: center;
+      cursor: pointer;
+      display: flex;
+      box-sizing: border-box;
+      padding-left: 0.1rem;
+      width: 19.8rem;
+      height: 6rem;
+
+      .andi-akhsanul-Tgd {
+        text-align: center;
+        font-size: 1.6rem;
+        color: #ffff00;
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 1.052rem;
+        font-weight: 900;
+        line-height: 1.5;
+        letter-spacing: -0.016rem;
+        font-family: Poppins, 'Source Sans Pro';
+      }
+      .dropdown-menu-Mn1 {
+        background-image: url('REPLACE_IMAGE:I113:3045;113:2168');
+        flex-shrink: 0;
+        box-sizing: border-box;
+        padding: 1.2rem 1.38rem 1.2rem 1.472rem;
+        height: 100%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+
+        .profil-tG9 {
+          width: 3.496rem;
+          height: 3.6rem;
+          object-fit: contain;
+          vertical-align: top;
+        }
+      }
+    }
+    .line-21-Cnd {
+      width: 151.2rem;
+      height: 0.1rem;
+      position: absolute;
+      left: 0;
+      top: 9.1rem;
+      background-color: #000000;
+    }
+    .foodies-1-KcM {
+      vertical-align: top;
+      width: 30.1rem;
+      height: 27.7rem;
+      position: absolute;
+      left: 2.1rem;
+      top: 0;
+      object-fit: cover;
+    }
+    .navigasi-qKo {
+      left: 76.05rem;
+      top: 3.3rem;
+      display: flex;
+      align-items: center;
+      width: 41.45rem;
+      height: 2.4rem;
+      position: absolute;
+
+      .home-9LV {
+        white-space: nowrap;
+        cursor: pointer;
+        font-size: 1.6rem;
+        line-height: 1.5;
+        letter-spacing: -0.016rem;
+        color: #ffffff;
+        font-family: Inter, 'Source Sans Pro';
+        margin-right: 3.95rem;
+        text-align: center;
+        font-weight: 700;
+        flex-shrink: 0;
+      }
+      .outlet-4CZ {
+        font-size: 1.6rem;
+        font-weight: 700;
+        line-height: 1.5;
+        color: #ffffff;
+        font-family: Inter, 'Source Sans Pro';
+        margin-right: 4.1rem;
+        cursor: pointer;
+        white-space: nowrap;
+        flex-shrink: 0;
+        text-align: center;
+        letter-spacing: -0.016rem;
+      }
+      .contact-mcm {
+        font-size: 1.6rem;
+        line-height: 1.5;
+        font-family: Inter, 'Source Sans Pro';
+        cursor: pointer;
+        text-align: center;
+        letter-spacing: -0.016rem;
+        color: #ffffff;
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 3.15rem;
+        font-weight: 700;
+      }
+      .produk-gjj {
+        margin-right: 2.95rem;
+        font-family: Inter, 'Source Sans Pro';
+        line-height: 1.5;
+        letter-spacing: -0.016rem;
+        color: #ffffff;
+        white-space: nowrap;
+        cursor: pointer;
+        text-align: center;
+        font-size: 1.6rem;
+        font-weight: 700;
+        flex-shrink: 0;
+      }
+      .edukasi-CCH {
+        font-size: 1.6rem;
+        line-height: 1.5;
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+        cursor: pointer;
+        text-align: center;
+        color: #ffffff;
+        white-space: nowrap;
+        font-weight: 700;
+        letter-spacing: -0.016rem;
+      }
+    }
+  }
+  .card-profile-74M {
+    width: calc(100% - 14.3rem);
+    height: 77.7rem;
+    background-color: #ceff9d;
+    margin: 0rem 7.1rem 2.3rem 7.2rem;
+    padding: 5.1rem 11.2rem 5.2rem 11.1rem;
+    align-items: center;
+    border-radius: 0.5rem;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    display: flex;
+
+    .foto-profile-aid {
+      border-radius: 0.5rem;
+      box-sizing: border-box;
+      padding: 1.6rem 4.7rem 4.4rem 5rem;
+      width: 31.4rem;
+      flex-direction: column;
+      border: solid 0.2rem #3dbc3d;
+      margin: 0rem 3.6rem 19.7rem 0rem;
+      align-items: center;
+      display: flex;
+      flex-shrink: 0;
+
+      .photo-profile-UJD {
+        margin: 0rem 0.2rem 2.1rem 0rem;
+        text-align: center;
+        font-weight: 600;
+        line-height: 1.5;
+        font-family: Poppins, 'Source Sans Pro';
+        font-size: 2.5rem;
+        color: #049904;
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .gambar-user-BCd {
+        flex-shrink: 0;
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+
+        .foto-user-iTT {
+          background-size: cover;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-image: url('REPLACE_IMAGE:I561:3621;545:2994');
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 6.154rem 7.444rem 6.154rem 7.625rem;
+          width: 100%;
+
+          .profile-SuF {
+            vertical-align: top;
+            width: 6.6306rem;
+            height: 8.7917rem;
+            object-fit: contain;
+          }
+        }
+        .auto-group-pecb-Zys {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 1.4rem 1.1rem 0rem 1.4rem;
+          width: 100%;
+          align-items: center;
+
+          .id-user-V6q {
+            margin: 0rem 0.85rem 3.5rem 0rem;
+            width: 17.85rem;
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .auto-group-zkmr-1qs {
+              margin: 0rem 0.05rem 0.2rem 0.05rem;
+              width: calc(100% - 0.1rem);
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+
+              .id-member--XZK {
+                margin-right: 1.65rem;
+                font-weight: 600;
+                flex-shrink: 0;
+                text-align: center;
+                font-size: 1.5rem;
+                line-height: 1.5;
+                color: #049904;
+                font-family: Poppins, 'Source Sans Pro';
+                white-space: nowrap;
+              }
+              .item-15200293-rLh {
+                font-size: 1.5rem;
+                font-weight: 600;
+                line-height: 1.5;
+                color: #000000;
+                font-family: Poppins, 'Source Sans Pro';
+                white-space: nowrap;
+                flex-shrink: 0;
+                text-align: center;
+              }
+            }
+            .auto-group-kjh9-aGh {
+              width: 100%;
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+
+              .id-account--JyP {
+                font-size: 1.5rem;
+                flex-shrink: 0;
+                margin: 0rem 1.55rem 0.1rem 0rem;
+                text-align: center;
+                color: #049904;
+                font-family: Poppins, 'Source Sans Pro';
+                white-space: nowrap;
+                font-weight: 600;
+                line-height: 1.5;
+              }
+              .ap132424-DqT {
+                text-align: center;
+                font-weight: 600;
+                white-space: nowrap;
+                margin-top: 0.1rem;
+                font-size: 1.5rem;
+                line-height: 1.5;
+                color: #000000;
+                font-family: Poppins, 'Source Sans Pro';
+                flex-shrink: 0;
+              }
+            }
+          }
+          .tombol-upload-8xR {
+            white-space: nowrap;
+            display: flex;
+            background-color: #3dbc3d;
+            border-radius: 0.5rem;
+            cursor: pointer;
+            font-size: 2rem;
+            height: 4.9rem;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            justify-content: center;
+            font-weight: 600;
+            line-height: 1.5;
+            align-items: center;
+            flex-shrink: 0;
+            width: 100%;
+            text-align: center;
+          }
+        }
+      }
+    }
+    .profile-user-A8R {
+      box-sizing: border-box;
+      width: 79.6rem;
+      align-items: center;
+      border: solid 0.2rem #3dbc3d;
+      padding: 1.6rem 0.1rem 3rem 0.1rem;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      border-radius: 0.5rem;
+      flex-shrink: 0;
+
+      .profile-data-Fff {
+        font-family: Poppins, 'Source Sans Pro';
+        flex-shrink: 0;
+        line-height: 1.5;
+        color: #049904;
+        white-space: nowrap;
+        margin: 0rem 0rem 1.4rem 5.5rem;
+        text-align: center;
+        font-size: 3rem;
+        font-weight: 600;
+      }
+      .line-66-ZRT {
+        flex-shrink: 0;
+        margin-bottom: 3rem;
+        width: 79.4rem;
+        height: 0;
+        object-fit: contain;
+        vertical-align: top;
+      }
+      .form-username-Jdw {
+        margin: 0rem 2.3rem 2rem 1.5rem;
+        width: calc(100% - 3.8rem);
+        display: flex;
+        flex-direction: column;
+        border-radius: 0.5rem;
+        flex-shrink: 0;
+
+        .username-q85 {
+          width: 100%;
+          font-family: Poppins, 'Source Sans Pro';
+          color: #049904;
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 2rem;
+          font-weight: 600;
+          line-height: 1.5;
+        }
+        .auto-group-5xaf-Ag9 {
+          padding: 0.8rem 1.5rem;
+          font-weight: 600;
+          line-height: 1.5;
+          white-space: nowrap;
+          width: 100%;
+          background-color: #ffffff;
+          text-align: center;
+          font-family: Poppins, 'Source Sans Pro';
+          border: solid 0.1rem #3dbc3d;
+          border-radius: 0.5rem;
+          box-sizing: border-box;
+          font-size: 1.5rem;
+          color: #000000;
+          flex-shrink: 0;
+        }
+      }
+      .form-email-q1b {
+        display: flex;
+        flex-direction: column;
+        border-radius: 0.5rem;
+        flex-shrink: 0;
+        margin: 0rem 2.3rem 1.7rem 1.5rem;
+        width: calc(100% - 3.8rem);
+
+        .email-Ywb {
+          text-align: center;
+          font-size: 2rem;
+          font-weight: 600;
+          color: #049904;
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin-bottom: 0.1rem;
+          line-height: 1.5;
+          white-space: nowrap;
+          width: 100%;
+        }
+        .auto-group-as6x-UaM {
+          text-align: center;
+          border: solid 0.1rem #3dbc3d;
+          border-radius: 0.5rem;
+          white-space: nowrap;
+          font-family: Poppins, 'Source Sans Pro';
+          background-color: #ffffff;
+          width: 100%;
+          line-height: 1.5;
+          color: #000000;
+          font-weight: 600;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 0.8rem 1.5rem;
+          font-size: 1.5rem;
+        }
+      }
+      .form-no-telphone-M8M {
+        margin: 0rem 2.3rem 1.9rem 1.5rem;
+        width: calc(100% - 3.8rem);
+        display: flex;
+        flex-direction: column;
+        border-radius: 0.5rem;
+        flex-shrink: 0;
+
+        .no-telphone-fuj {
+          text-align: center;
+          line-height: 1.5;
+          font-family: Poppins, 'Source Sans Pro';
+          flex-shrink: 0;
+          color: #049904;
+          white-space: nowrap;
+          margin-bottom: 0.4rem;
+          width: 100%;
+          font-size: 2rem;
+          font-weight: 600;
+        }
+        .auto-group-l7a3-nzM {
+          white-space: nowrap;
+          border-radius: 0.5rem;
+          line-height: 1.5;
+          font-family: Poppins, 'Source Sans Pro';
+          padding: 0.8rem 1.45rem;
+          background-color: #ffffff;
+          font-weight: 600;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 1.5rem;
+          color: #000000;
+          border: solid 0.1rem #3dbc3d;
+          box-sizing: border-box;
+          width: 100%;
+        }
+      }
+      .form-tanggal-lahir-3fP {
+        margin: 0rem 3.7rem 2.6rem 1.5rem;
+        width: calc(100% - 5.2rem);
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .tanggal-lahir-n7B {
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          font-size: 2rem;
+          line-height: 1.5;
+          text-align: center;
+          font-weight: 600;
+          color: #049904;
+          flex-shrink: 0;
+          margin-bottom: 0.4rem;
+          width: 100%;
+        }
+        .auto-group-jmbz-5ry {
+          height: 3.9rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          width: 100%;
+
+          .auto-group-ygdq-dtV {
+            height: 100%;
+            font-family: Poppins, 'Source Sans Pro';
+            background-color: #ffffff;
+            box-sizing: border-box;
+            padding: 0.8rem 1.5rem;
+            width: 69.3rem;
+            font-weight: 600;
+            line-height: 1.5;
+            flex-shrink: 0;
+            text-align: center;
+            border-radius: 0.5rem;
+            margin-right: 1rem;
+            font-size: 1.5rem;
+            color: #000000;
+            white-space: nowrap;
+            border: solid 0.1rem #3dbc3d;
+          }
+          .frame-6XB {
+            margin-bottom: 0.1rem;
+            width: 3.9rem;
+            height: 3.6rem;
+            cursor: pointer;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+        }
+      }
+      .from-gender-Qnm {
+        width: 18.2rem;
+        flex-shrink: 0;
+        margin: 0rem 58rem 3.9rem 0rem;
+
+        .gender-Ye5 {
+          margin-bottom: 1.4rem;
+          font-weight: 600;
+          line-height: 1.5;
+          color: #049904;
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 100%;
+          text-align: center;
+          font-size: 2rem;
+        }
+        .gender-fih {
+          width: 100%;
+          display: flex;
+          align-items: center;
+
+          .button-c89 {
+            margin-right: 0.6rem;
+            width: 2.8rem;
+            height: 2.7rem;
+            cursor: pointer;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+          }
+          .male-WjK {
+            color: #049904;
+            font-family: Poppins, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin: 0.2rem 1.6rem 0rem 0rem;
+            text-align: center;
+            font-weight: 500;
+            font-size: 1.5rem;
+            line-height: 1.5;
+            white-space: nowrap;
+          }
+          .button-RbP {
+            width: 2.8rem;
+            height: 2.7rem;
+            cursor: pointer;
+            object-fit: contain;
+            vertical-align: top;
+            flex-shrink: 0;
+            margin-right: 1.1rem;
+          }
+          .female-wJq {
+            font-family: Poppins, 'Source Sans Pro';
+            line-height: 1.5;
+            color: #049904;
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-top: 0.2rem;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: 500;
+          }
+        }
+      }
+      .button-update-FqK {
+        width: calc(100% - 54.6rem);
+        cursor: pointer;
+        text-align: center;
+        line-height: 1.5;
+        margin: 0rem 25.4rem 0rem 29.2rem;
+        color: #ffffff;
+        white-space: nowrap;
+        justify-content: center;
+        font-size: 2rem;
+        background-color: #17a400;
+        border-radius: 1rem;
+        height: 6.2rem;
+        font-weight: 600;
+        font-family: Poppins, 'Source Sans Pro';
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .footer-425 {
+    position: relative;
+    flex-shrink: 0;
+    width: 100%;
+    height: 62.6rem;
+
+    .footer-oVT {
+      width: 151.2rem;
+      position: absolute;
+      left: 0;
+      overflow: hidden;
+      background-color: #049904;
+      flex-direction: column;
+      box-sizing: border-box;
+      padding: 13.2rem 7rem 3rem 7rem;
+      height: 56.4rem;
+      top: 6.2rem;
+      align-items: center;
+      display: flex;
+
+      .pemisah-VNH {
+        margin-bottom: 1.6rem;
+        width: 100%;
+        height: 0.1rem;
+        background-color: #000000;
+        flex-shrink: 0;
+      }
+      .isi-footer-pfT {
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0rem 15.3rem 2.4rem 2.8rem;
+        width: calc(100% - 18.1rem);
+        height: 26.2rem;
+
+        .quotes-wVB {
+          flex-direction: column;
+          flex-shrink: 0;
+          height: 100%;
+          display: flex;
+
+          .auto-group-zfrd-tvD {
+            margin-bottom: 0.6rem;
+            width: 6.9001rem;
+            height: 2.4rem;
+            position: relative;
+            flex-shrink: 0;
+
+            .tagline-dN1 {
+              left: 0.3rem;
+              font-family: Arial, 'Source Sans Pro';
+              font-weight: 700;
+              line-height: 1.5;
+              letter-spacing: -0.016rem;
+              width: 6.4rem;
+              top: 0;
+              display: flex;
+              justify-content: center;
+              position: absolute;
+              align-items: baseline;
+              color: #ffffff;
+              white-space: nowrap;
+              height: 2.4rem;
+              font-size: 1.6rem;
+
+              .tagline-dN1-sub-0 {
+                line-height: 1.5;
+                letter-spacing: -0.016rem;
+                color: #ffffff;
+                font-family: Poppins, 'Source Sans Pro';
+                font-size: 1.6rem;
+                font-weight: 700;
+              }
+              .tagline-dN1-sub-1 {
+                font-size: 1.6rem;
+                font-weight: 700;
+                line-height: 1.5;
+                letter-spacing: -0.016rem;
+                color: #ffff00;
+                font-family: Poppins, 'Source Sans Pro';
+              }
+            }
+            .line-23-DjX {
+              object-fit: contain;
+              vertical-align: top;
+              width: 6.9001rem;
+              height: 0;
+              position: absolute;
+              left: 0;
+              top: 2.225rem;
+            }
+          }
+          .tujuan-kami-bukan-menciptakan-bisnis-yang-besar-tetapi-membangun-sesuatu-yang-membuat-perubahan-besar-LJM {
+            font-weight: 400;
+            line-height: 1.8461538462;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            flex-shrink: 0;
+            margin-bottom: 0.8rem;
+            max-width: 25.9rem;
+            font-size: 1.3rem;
+            letter-spacing: -0.013rem;
+            font-style: italic;
+          }
+          .semua-impian-kita-menjadi-kanyataan-jika-kita-mempunyai-keberanian-unutk-mengerjakannya-walt-disney-ayP {
+            margin: 0rem 0rem 0.8rem 5.3rem;
+            font-weight: 400;
+            flex-shrink: 0;
+            max-width: 25.7rem;
+            font-size: 1.3rem;
+            line-height: 1.8461538462;
+            letter-spacing: -0.013rem;
+            font-style: italic;
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+          }
+          .wirausahawan-sejadi-meciptakan-peluang-bisnis-sedangkan-wirausahawan-bisa-fokus-mengejar-uang-dgm {
+            color: #ffffff;
+            font-family: Poppins, 'Source Sans Pro';
+            flex-shrink: 0;
+            font-size: 1.3rem;
+            font-weight: 400;
+            line-height: 1.8461538462;
+            font-style: italic;
+            margin-left: 13.5rem;
+            max-width: 28.1rem;
+            letter-spacing: -0.013rem;
+          }
+        }
+        .auto-group-ojmd-Jnu {
+          box-sizing: border-box;
+          padding-left: 7.4rem;
+          height: 100%;
+          display: flex;
+          align-items: flex-start;
+          flex-shrink: 0;
+
+          .about-us-TA1 {
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            margin-right: 12.8rem;
+            width: 25.5rem;
+            row-gap: 0.6rem;
+
+            .auto-group-m9a3-mgV {
+              width: 7.4rem;
+              height: 2.4rem;
+              position: relative;
+              flex-shrink: 0;
+
+              .line-24-W8H {
+                height: 0;
+                position: absolute;
+                left: 0;
+                top: 2.2123rem;
+                object-fit: contain;
+                vertical-align: top;
+                width: 7.4rem;
+              }
+              .aboutus-SXj {
+                width: 7rem;
+                display: flex;
+                align-items: baseline;
+                white-space: nowrap;
+                left: 0.2rem;
+                justify-content: center;
+                font-weight: 700;
+                line-height: 1.5;
+                height: 2.4rem;
+                position: absolute;
+                top: 0;
+                font-size: 1.6rem;
+                letter-spacing: -0.016rem;
+                color: #ffffff;
+                font-family: Arial, 'Source Sans Pro';
+
+                .aboutus-SXj-sub-0 {
+                  line-height: 1.5;
+                  letter-spacing: -0.016rem;
+                  color: #ffffff;
+                  font-family: Poppins, 'Source Sans Pro';
+                  font-size: 1.6rem;
+                  font-weight: 700;
+                }
+                .aboutus-SXj-sub-1 {
+                  letter-spacing: -0.016rem;
+                  color: #ffff00;
+                  font-family: Poppins, 'Source Sans Pro';
+                  font-size: 1.6rem;
+                  font-weight: 700;
+                  line-height: 1.5;
+                }
+              }
+            }
+            .group-263-uZj {
+              margin-left: 0.1rem;
+              box-sizing: border-box;
+              padding-left: 0.3125rem;
+              width: calc(100% - 0.1rem);
+              display: flex;
+              align-items: flex-start;
+              flex-shrink: 0;
+
+              .location-3A9 {
+                flex-shrink: 0;
+                margin: 0.725rem 0.513rem 0rem 0rem;
+                width: 0.875rem;
+                height: 1.3029rem;
+                object-fit: contain;
+                vertical-align: top;
+              }
+              .jl-dharmawangsa-no138-d-airlangga-kec-gubeng-surabaya-jawa-timur-60282-AEm {
+                color: #ffffff;
+                font-family: Poppins, 'Source Sans Pro';
+                flex-shrink: 0;
+                max-width: 23.7rem;
+                font-size: 1.4rem;
+                font-weight: 400;
+                line-height: 1.7142857143;
+                letter-spacing: -0.014rem;
+              }
+            }
+            .group-264-Sxy {
+              width: calc(100% - 3.6rem);
+              display: flex;
+              align-items: center;
+              flex-shrink: 0;
+              margin: 0rem 3.6rem 0rem 0rem;
+
+              .icon-envelope-closed-n1F {
+                flex-shrink: 0;
+                margin: 0.2rem 0.5rem 0rem 0rem;
+                width: 1.6rem;
+                height: 1.2rem;
+                object-fit: contain;
+                vertical-align: top;
+              }
+              .foodysbussinesgmailcom-h8D {
+                font-size: 1.4rem;
+                line-height: 1.7142857143;
+                letter-spacing: -0.014rem;
+                white-space: nowrap;
+                flex-shrink: 0;
+                display: flex;
+                font-weight: 400;
+                color: #ffffff;
+                font-family: Poppins, 'Source Sans Pro';
+              }
+            }
+            .group-265-Cam {
+              flex-shrink: 0;
+              margin: 0rem 13.5rem 0rem 0rem;
+              box-sizing: border-box;
+              padding-left: 0.1333rem;
+              width: calc(100% - 13.5rem);
+              display: flex;
+              align-items: center;
+
+              .calling-KfP {
+                margin: 0rem 0.633rem 0.1rem 0rem;
+                width: 1.3333rem;
+                height: 1.25rem;
+                object-fit: contain;
+                vertical-align: top;
+                flex-shrink: 0;
+              }
+              .item-0274-2885822-Szu {
+                font-size: 1.4rem;
+                line-height: 1.7142857143;
+                font-style: italic;
+                font-family: Poppins, 'Source Sans Pro';
+                flex-shrink: 0;
+                font-weight: 400;
+                letter-spacing: -0.014rem;
+                color: #ffffff;
+                white-space: nowrap;
+              }
+            }
+          }
+          .comunity-xTT {
+            width: 9.7046rem;
+            flex-shrink: 0;
+            margin-right: 7.9954rem;
+
+            .comunity-JGR {
+              color: #ffffff;
+              font-family: Arial, 'Source Sans Pro';
+              white-space: nowrap;
+              display: flex;
+              align-items: baseline;
+              letter-spacing: -0.016rem;
+              font-size: 1.6rem;
+              font-weight: 700;
+              line-height: 1.5;
+              margin: 0rem 0rem 0.1rem 1.2rem;
+
+              .comunity-JGR-sub-0 {
+                line-height: 1.5;
+                letter-spacing: -0.016rem;
+                color: #ffffff;
+                font-family: Poppins, 'Source Sans Pro';
+                font-size: 1.6rem;
+                font-weight: 700;
+              }
+              .comunity-JGR-sub-1 {
+                font-size: 1.6rem;
+                font-weight: 700;
+                line-height: 1.5;
+                letter-spacing: -0.016rem;
+                color: #ffff00;
+                font-family: Poppins, 'Source Sans Pro';
+              }
+            }
+            .line-26-tP3 {
+              width: 100%;
+              height: 0.1rem;
+              background-color: #000000;
+              margin-bottom: 1.4rem;
+            }
+            .group-266-2VF {
+              vertical-align: top;
+              width: 6.7rem;
+              height: 3rem;
+              position: relative;
+              object-fit: contain;
+            }
+          }
+          .sosmed-NJD {
+            margin-top: 0.1rem;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+
+            .social-media-7mb {
+              font-weight: 700;
+              color: #ffffff;
+              font-family: Arial, 'Source Sans Pro';
+              white-space: nowrap;
+              align-items: baseline;
+              flex-shrink: 0;
+              margin-left: 0.2rem;
+              font-size: 1.6rem;
+              line-height: 1.5;
+              letter-spacing: -0.016rem;
+              display: flex;
+
+              .social-media-7mb-sub-0 {
+                font-size: 1.6rem;
+                font-weight: 700;
+                line-height: 1.5;
+                letter-spacing: -0.016rem;
+                color: #ffffff;
+                font-family: Poppins, 'Source Sans Pro';
+              }
+              .social-media-7mb-sub-1 {
+                font-weight: 700;
+                line-height: 1.5;
+                letter-spacing: -0.016rem;
+                color: #ffff00;
+                font-family: Poppins, 'Source Sans Pro';
+                font-size: 1.6rem;
+              }
+            }
+            .line-25-2n5 {
+              margin-bottom: 1.4rem;
+              width: 10.0045rem;
+              height: 0.1rem;
+              background-color: #000000;
+              flex-shrink: 0;
+            }
+            .list-sosmed-ANV {
+              object-fit: contain;
+              vertical-align: top;
+              flex-shrink: 0;
+              width: 14.1rem;
+              height: 3rem;
+              position: relative;
+            }
+          }
+        }
+      }
+      .pemisah-6G9 {
+        margin-bottom: 3.3rem;
+        width: 100%;
+        height: 0.1rem;
+        background-color: #000000;
+        flex-shrink: 0;
+      }
+      .mark-list-pxq {
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        margin: 0rem 21.2rem 0rem 33.9rem;
+        width: calc(100% - 55.1rem);
+        align-items: center;
+
+        .copyright-2023-by-foodys-all-rights-reserved-MC5 {
+          margin: 0rem 9.6rem 1.7rem 0rem;
+          font-size: 1.3rem;
+          font-family: Poppins, 'Source Sans Pro';
+          font-weight: 700;
+          line-height: 1.8461538462;
+          letter-spacing: -0.013rem;
+          color: #ffffff;
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .terima-kasih-telah-mengunjungi-foodys-jangan-ragu-untuk-menghubungi-kami-jika-anda-memiliki-pertanyaan-atau-saran-1Gd {
+          font-family: Poppins, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.3rem;
+          font-weight: 700;
+          line-height: 1.8461538462;
+          letter-spacing: -0.013rem;
+          color: #ffffff;
+        }
+      }
+    }
+    .foodies-1-GyF {
+      width: 30.1rem;
+      height: 27.7rem;
+      position: absolute;
+      left: 7.2rem;
+      top: 0;
+      object-fit: cover;
+      vertical-align: top;
+    }
+    .line-22-Q3s {
+      width: 151.2rem;
+      height: 0.2rem;
+      position: absolute;
+      left: 0;
+      top: 6.2rem;
+      background-color: #000000;
+    }
+  }
+}

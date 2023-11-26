@@ -1,0 +1,75 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 124.1rem;
+}.group-25-Wpq {
+  box-sizing: border-box;
+  padding: 2.5rem 10.406rem 2.4rem 3.932rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.group-25-Wpq .rectangle-88-QvD {
+  margin: 0rem 6.713rem 0.1rem 0rem;
+  width: 4.0325rem;
+  height: 4rem;
+  border: solid 0.1rem #d9d9d9;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.group-25-Wpq .produk-sYu {
+  margin: 0.3rem 29.155rem 0rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-25-Wpq .harga-satuan-x4Z {
+  margin: 0.3rem 7.303rem 0rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-25-Wpq .kuantitas-3rh {
+  margin: 0.3rem 7.06rem 0rem 0rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.group-25-Wpq .total-harga-MsP {
+  margin-top: 0.3rem;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

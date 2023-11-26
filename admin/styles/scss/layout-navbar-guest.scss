@@ -1,0 +1,130 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.layout-navbar-guest-Lth {
+  padding: 0rem 6.6rem 0rem 2.1rem;
+  display: flex;
+  border-bottom: solid 0.1rem #000000;
+  position: relative;
+  align-items: center;
+  background-color: #049904;
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+
+  .foodies-1-3o7 {
+    margin-right: 61.55rem;
+    width: 30.1rem;
+    height: 27.7rem;
+    object-fit: cover;
+    vertical-align: top;
+    flex-shrink: 0;
+  }
+  .navigasi-sGM {
+    margin: 0.1rem 6.25rem 0rem 0rem;
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+
+    .home-zbs {
+      margin-right: 4.3rem;
+      text-align: center;
+      font-size: 1.6rem;
+      letter-spacing: -0.016rem;
+      flex-shrink: 0;
+      font-weight: 900;
+      line-height: 1.5;
+      color: #ffff00;
+      font-family: Arial, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .outlet-hWH {
+      font-size: 1.6rem;
+      font-weight: 900;
+      line-height: 1.5;
+      letter-spacing: -0.016rem;
+      white-space: nowrap;
+      text-align: center;
+      color: #ffffff;
+      font-family: Arial, 'Source Sans Pro';
+      flex-shrink: 0;
+      margin-right: 4.6rem;
+    }
+    .contact-DDj {
+      white-space: nowrap;
+      font-size: 1.6rem;
+      font-weight: 900;
+      color: #ffffff;
+      font-family: Arial, 'Source Sans Pro';
+      flex-shrink: 0;
+      text-align: center;
+      line-height: 1.5;
+      letter-spacing: -0.016rem;
+    }
+  }
+  .button-KnZ {
+    height: 4.6rem;
+    display: flex;
+    align-items: center;
+    border-radius: 1rem;
+    flex-shrink: 0;
+    margin-bottom: 0.1rem;
+
+    .login-513 {
+      white-space: nowrap;
+      background-color: #ffffff;
+      font-weight: 700;
+      line-height: 1.5;
+      justify-content: center;
+      flex-shrink: 0;
+      align-items: center;
+      border-radius: 1rem;
+      margin-right: 1rem;
+      height: 100%;
+      text-align: center;
+      color: #000000;
+      font-family: Arial, 'Source Sans Pro';
+      display: flex;
+      width: 10.2rem;
+      font-size: 1.6rem;
+      letter-spacing: -0.016rem;
+    }
+    .register-i41 {
+      width: 10.2rem;
+      height: 100%;
+      border-radius: 1rem;
+      flex-shrink: 0;
+
+      .button-rvu {
+        letter-spacing: -0.016rem;
+        white-space: nowrap;
+        align-items: center;
+        justify-content: center;
+        background-color: #ffb000;
+        height: 100%;
+        text-align: center;
+        font-size: 1.6rem;
+        font-family: Arial, 'Source Sans Pro';
+        font-weight: 700;
+        line-height: 1.5;
+        color: #ffffff;
+        display: flex;
+        border-radius: 1rem;
+        width: 100%;
+      }
+    }
+  }
+}

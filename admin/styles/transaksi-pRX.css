@@ -1,0 +1,1070 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 143.6rem;
+}.transaksi-hjX {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ceff9d;
+}
+.transaksi-hjX .group-380-3YV {
+  width: 22.8886rem;
+  height: 93.3rem;
+  position: absolute;
+  left: 0;
+  top: 9.1rem;
+  background-color: #57c343;
+}
+.transaksi-hjX .group-380-3YV .overview-kho {
+  width: 18.2261rem;
+  height: 3.6561rem;
+  position: absolute;
+  left: 1.6955rem;
+  top: 7.5933rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #ffb000;
+  border-radius: 0.2rem;
+}
+.transaksi-hjX .group-380-3YV .overview-qjF {
+  width: 6.8rem;
+  height: 5rem;
+  position: absolute;
+  left: 7.7594rem;
+  top: 6.7017rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 3.09375;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.transaksi-hjX .group-380-3YV .overview-qjF .overview-qjF-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 3.09375;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+}
+.transaksi-hjX .group-380-3YV .overview-qjF .overview-qjF-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 3.09375;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+}
+.transaksi-hjX .group-380-3YV .transaksi-CLq {
+  width: 18.2261rem;
+  height: 3.6561rem;
+  position: absolute;
+  left: 1.6955rem;
+  top: 11.8732rem;
+  border: solid 0.1rem #fff8f8;
+  box-sizing: border-box;
+  background-color: #ffb000;
+  border-radius: 0.2rem;
+}
+.transaksi-hjX .group-380-3YV .transaksi-tUZ {
+  width: 6.6rem;
+  height: 5rem;
+  position: absolute;
+  left: 7.7644rem;
+  top: 11.2044rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 3.09375;
+  color: #ffff00;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .group-380-3YV .user-ByT {
+  width: 18.2261rem;
+  height: 3.6561rem;
+  position: absolute;
+  left: 1.6955rem;
+  top: 20.2422rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #ffb000;
+  border-radius: 0.2rem;
+}
+.transaksi-hjX .group-380-3YV .users-6Kj {
+  width: 3.8rem;
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.8348rem;
+  top: 19.6862rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 3.09375;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .group-380-3YV .statistik-mgm {
+  width: 18.2261rem;
+  height: 3.6561rem;
+  position: absolute;
+  left: 1.6955rem;
+  top: 16.0583rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #ffb000;
+  border-radius: 0.2rem;
+}
+.transaksi-hjX .group-380-3YV .statistik-U5P {
+  width: 5.8rem;
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.4521rem;
+  top: 15.3929rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 3.09375;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .group-380-3YV .product-xFT {
+  width: 18.2261rem;
+  height: 3.6561rem;
+  position: absolute;
+  left: 1.6955rem;
+  top: 24.4178rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #ffb000;
+  border-radius: 0.2rem;
+}
+.transaksi-hjX .group-380-3YV .produk-ee5 {
+  width: 5.2rem;
+  height: 5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.7996rem;
+  top: 23.8747rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 3.09375;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .group-411-Xxm {
+  width: 102.3rem;
+  height: 85.1rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 13.2rem;
+  border: solid 0.2rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.transaksi-hjX .group-411-Xxm .group-274-qTf {
+  width: 13.4rem;
+  height: 4.4345rem;
+  position: absolute;
+  left: 44.5rem;
+  top: 77.7092rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(4, 153, 4, 0.850980401);
+  border-radius: 10rem;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-anap-sQM {
+  width: 89.8rem;
+  height: 2.1056rem;
+  position: absolute;
+  left: 7rem;
+  top: 5.7015rem;
+  display: flex;
+  align-items: flex-end;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-anap-sQM .tanggal-mVj {
+  margin-right: 14.3rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-anap-sQM .transaksi-id-6H7 {
+  margin-right: 12.8rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-anap-sQM .name-ohK {
+  margin: 0rem 9.4rem 0.106rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-anap-sQM .bayar-j5B {
+  margin-right: 8.4rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-anap-sQM .keuntungan-SVP {
+  margin-right: 5.9rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-anap-sQM .status-xyX {
+  margin-right: 8.6rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-anap-sQM .action-tcH {
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .prego-cHP {
+  box-sizing: border-box;
+  padding: 2.323rem 2.2rem 1.53rem 1.5rem;
+  width: 92.5rem;
+  height: 6.8629rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 19.4rem;
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-295-R3o.png');
+}
+.transaksi-hjX .group-411-Xxm .prego-cHP .item-14-01-2019-tVo {
+  margin: 0rem 14.6rem 0.565rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .prego-cHP .item-12345678-Bzh {
+  margin: 0.035rem 11.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7999998728;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .prego-cHP .pregorian-6rm {
+  margin: 0rem 8.8rem 1.01rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .prego-cHP .item-100-QsT {
+  margin: 0rem 8.7rem 0.165rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .prego-cHP .item-18000-7ms {
+  margin: 0rem 6.3rem 0.165rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .prego-cHP .auto-group-k6n7-qSy {
+  margin: 0.159rem 5.7rem 0rem 0rem;
+  width: 9.1rem;
+  height: 2.8507rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-308-i5F.png');
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .prego-cHP .group-96-VXX {
+  margin-bottom: 1.3486rem;
+  width: 1.6rem;
+  height: 0.3942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu {
+  width: 92.5rem;
+  height: 38.3267rem;
+  position: absolute;
+  left: 4.3rem;
+  top: 28.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-hr8k-2fs {
+  margin-bottom: 0.8447rem;
+  box-sizing: border-box;
+  padding: 2.006rem 2.2rem 1.918rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #f0f0f0;
+  background-color: #ffffff;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-hr8k-2fs .item-14-01-2019-XMj {
+  margin: 0.139rem 14.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-hr8k-2fs .item-12345678-pbj {
+  margin: 0.739rem 12.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7999998728;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-hr8k-2fs .rangga-8sK {
+  margin: 0.117rem 9.5rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-hr8k-2fs .item-100-TPo {
+  margin: 0.539rem 8.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-hr8k-2fs .item-18000-mfP {
+  margin: 0.539rem 6.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-hr8k-2fs .auto-group-dgd9-5vy {
+  margin: 0rem 5.9rem 0.088rem 0rem;
+  width: 9.1rem;
+  height: 2.8507rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-298-LcR.png');
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-hr8k-2fs .group-96-m37 {
+  margin-bottom: 0.6444rem;
+  width: 1.6rem;
+  height: 0.3942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rys9-Suw {
+  margin-bottom: 1.0558rem;
+  box-sizing: border-box;
+  padding: 2.006rem 2.2rem 1.918rem 1.5rem;
+  width: 100%;
+  height: 6.8629rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #f0f0f0;
+  background-color: #ffffff;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rys9-Suw .item-14-01-2019-8Xs {
+  margin: 0.139rem 14.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rys9-Suw .item-12345678-Eqo {
+  margin: 0.739rem 3.8rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7999998728;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rys9-Suw .bitcoin-5-kZF {
+  margin: 0.422rem 7rem 0.827rem 0rem;
+  width: 1.6rem;
+  height: calc(100% - 1.2497rem);
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rys9-Suw .rangga-GXb {
+  margin: 0rem 9.5rem 0.094rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rys9-Suw .item-100-nF3 {
+  margin: 0.539rem 8.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rys9-Suw .item-18000-Udf {
+  margin: 0.539rem 6.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rys9-Suw .auto-group-jdb1-PVj {
+  margin: 0rem 5.9rem 0.088rem 0rem;
+  width: 9.1rem;
+  height: 2.8507rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-300-jvh.png');
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rys9-Suw .group-96-F29 {
+  margin-bottom: 0.6444rem;
+  width: 1.6rem;
+  height: 0.3942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-yxgp-KGu {
+  margin-bottom: 1.0558rem;
+  box-sizing: border-box;
+  padding: 2.006rem 2.2rem 1.918rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #f0f0f0;
+  background-color: #ffffff;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-yxgp-KGu .item-14-01-2019-cWu {
+  margin: 0.139rem 14.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-yxgp-KGu .item-12345678-7iZ {
+  margin: 0.739rem 12.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7999998728;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-yxgp-KGu .ghandi-pN5 {
+  margin: 0.539rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-yxgp-KGu .item-100-iyF {
+  margin: 0.539rem 8.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-yxgp-KGu .item-18000-dqK {
+  margin: 0.539rem 6.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-yxgp-KGu .group-403-Lzd {
+  margin: 0rem 5.9rem 0.088rem 0rem;
+  width: 9.1rem;
+  height: 2.8507rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-307.png');
+  border-radius: 21.5rem;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-yxgp-KGu .group-96-PT7 {
+  margin-bottom: 0.6444rem;
+  width: 1.6rem;
+  height: 0.3942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rdb9-G17 {
+  margin-bottom: 1.0558rem;
+  box-sizing: border-box;
+  padding: 2.055rem 2.2rem 1.918rem 1.5rem;
+  width: 100%;
+  height: 6.8629rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #f0f0f0;
+  background-color: #ffffff;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rdb9-G17 .item-14-01-2019-9Ko {
+  margin: 0.09rem 14.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rdb9-G17 .item-12345678-3AH {
+  margin: 0.69rem 12.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7999998728;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rdb9-G17 .ghandi-Ycq {
+  margin: 0.49rem 9.2rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rdb9-G17 .item-100-Tjo {
+  margin: 0.49rem 8.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rdb9-G17 .item-18000-Bfo {
+  margin: 0.49rem 7.4rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rdb9-G17 .group-404-u61 {
+  margin: 0rem 4.6rem 0.039rem 0rem;
+  width: 9.1rem;
+  height: calc(100% - 0.0395rem);
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-302-jBf.png');
+  border-radius: 21.5rem;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-rdb9-G17 .group-96-Lx1 {
+  margin-bottom: 0.6933rem;
+  width: 1.6rem;
+  height: 0.3942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-mlf5-EGh {
+  box-sizing: border-box;
+  padding: 2.006rem 2.2rem 1.918rem 1.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #f0f0f0;
+  background-color: #ffffff;
+  border-radius: 10rem;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-mlf5-EGh .item-14-01-2019-Lad {
+  margin: 0.139rem 14.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-mlf5-EGh .item-12345678-e5X {
+  margin: 0.739rem 12.6rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7999998728;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-mlf5-EGh .ghandi-wqK {
+  margin: 0.539rem 9.3rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-mlf5-EGh .item-100-THs {
+  margin: 0.539rem 8.7rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-mlf5-EGh .item-18000-Mu3 {
+  margin: 0.539rem 6.1rem 0rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-mlf5-EGh .auto-group-bycf-scV {
+  margin: 0rem 5.9rem 0.088rem 0rem;
+  width: 9.1rem;
+  height: 2.8507rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-306-jyT.png');
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .group-402-7Yu .auto-group-mlf5-EGh .group-96-Xww {
+  margin-bottom: 0.6444rem;
+  width: 1.6rem;
+  height: 0.3942rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.transaksi-hjX .group-411-Xxm .transaksi-pg9 {
+  width: 12.3rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 1.4rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-1qbm-7QM {
+  width: 92.5rem;
+  height: 6.9635rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 11.1994rem;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-1qbm-7QM .rectangle-293-cM7 {
+  width: 92.5rem;
+  height: 6.8629rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.1rem #f0f0f0;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 10rem;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-1qbm-7QM .rectangle-294-ur1 {
+  width: 9.1rem;
+  height: 2.8507rem;
+  position: absolute;
+  left: 73.7rem;
+  top: 2.0061rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 21.5rem;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-1qbm-7QM .failed-d1K {
+  width: 3.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 76.4rem;
+  top: 2.534rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-1qbm-7QM .rectangle-307-vWD {
+  width: 10rem;
+  height: 6.8629rem;
+  position: absolute;
+  left: 19.7rem;
+  top: 0.1006rem;
+  background-color: #3dbc3d;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-1qbm-7QM .item-14-01-2019-FYV {
+  width: 5.7rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 1.5rem;
+  top: 2.7452rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-1qbm-7QM .titik-dua-wAR {
+  width: 1.6rem;
+  height: 0.3942rem;
+  position: absolute;
+  left: 88rem;
+  top: 3.4006rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-1qbm-7QM .item-12345678-ead {
+  width: 4.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 21.8rem;
+  top: 2.8507rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7999998728;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-1qbm-7QM .rangga-jry {
+  width: 3.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 39rem;
+  top: 2.8507rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-1qbm-7QM .item-100-dxM {
+  width: 2.4rem;
+  height: 2rem;
+  position: absolute;
+  left: 52rem;
+  top: 2.7452rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .group-411-Xxm .auto-group-1qbm-7QM .item-18000-KqB {
+  width: 4.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 63.1rem;
+  top: 2.7452rem;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.6341797511;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .layout-navbar-admin-ZjX {
+  width: 144rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #049904;
+}
+.transaksi-hjX .layout-navbar-admin-ZjX .group-254-H9j {
+  width: 2.1209rem;
+  height: 3.1341rem;
+  position: absolute;
+  left: 136.5rem;
+  top: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.transaksi-hjX .layout-navbar-admin-ZjX .oval-2-CXb {
+  width: 2.381rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 134.1rem;
+  top: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.transaksi-hjX .layout-navbar-admin-ZjX .item-12-8AM {
+  width: 0.6rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 135rem;
+  top: 2.6rem;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.0429rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.transaksi-hjX .layout-navbar-admin-ZjX .search-bro-Qdf {
+  width: 42.2rem;
+  height: 4rem;
+  position: absolute;
+  left: 67rem;
+  top: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.transaksi-hjX .layout-navbar-admin-ZjX .foodies-1-XyB {
+  width: 30.1rem;
+  height: 27.7rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.transaksi-hjX .layout-navbar-admin-ZjX .dropdown-menu-eY1 {
+  box-sizing: border-box;
+  padding: 1.2rem 1.38rem 1.2rem 1.472rem;
+  width: 6.348rem;
+  height: 6rem;
+  position: absolute;
+  left: 126.7rem;
+  top: 1.7rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-6-Q1P.png');
+}
+.transaksi-hjX .layout-navbar-admin-ZjX .dropdown-menu-eY1 .profil-Y7b {
+  width: 3.496rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.transaksi-hjX .layout-navbar-admin-ZjX .andi-akhsanul-4bj {
+  width: 10.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 113.9rem;
+  top: 3.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}

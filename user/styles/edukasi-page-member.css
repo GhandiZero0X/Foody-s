@@ -1,0 +1,1410 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.edukasi-page-member-mV3 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f9f5f5;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  height: 9.1rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #049904;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .profil-aSV {
+  box-sizing: border-box;
+  padding-left: 0.1rem;
+  width: 19.8rem;
+  height: 6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 125.4rem;
+  top: 1.6rem;
+  display: flex;
+  align-items: center;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .profil-aSV .andi-akhsanul-EG9 {
+  margin-right: 1.052rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .profil-aSV .dropdown-menu-Vxm {
+  box-sizing: border-box;
+  padding: 1.2rem 1.38rem 1.2rem 1.472rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-6-nk1.png');
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .profil-aSV .dropdown-menu-Vxm .profil-dJH {
+  width: 3.496rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .line-21-LyP {
+  width: 151.2rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 9.1rem;
+  background-color: #000000;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .foodies-1-4uP {
+  width: 30.1rem;
+  height: 27.7rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .navigasi-zY9 {
+  width: 41.45rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 76.05rem;
+  top: 3.3rem;
+  display: flex;
+  align-items: center;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .navigasi-zY9 .home-Vzh {
+  margin-right: 3.95rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .navigasi-zY9 .outlet-1CM {
+  margin-right: 4.1rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .navigasi-zY9 .contact-KTw {
+  margin-right: 3.15rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .navigasi-zY9 .produk-F6h {
+  margin-right: 2.95rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .navbar-user-5kd .navigasi-zY9 .edukasi-kp9 {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds {
+  margin: 0rem 7.3rem 0.6rem 7.1rem;
+  width: calc(100% - 14.4rem);
+  height: 115.5rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq {
+  margin-right: 6.3961rem;
+  width: 84.8rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .education-sGV {
+  margin-bottom: 2.7rem;
+  font-size: 3.5rem;
+  font-weight: 500;
+  line-height: 0.6857142857;
+  letter-spacing: -0.035rem;
+  text-decoration-line: underline;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 {
+  width: 100%;
+  height: 39.5rem;
+  cursor: pointer;
+  position: relative;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .rectangle-52-vkZ {
+  width: 84.7671rem;
+  height: 39.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-52-bg-o5T.png');
+  border-radius: 1rem;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .konten-F29 {
+  box-sizing: border-box;
+  padding: 1.1rem 2.4rem 1.6rem 1.3rem;
+  width: 84.8rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 0;
+  top: 29rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) -0%, #c2c2c2 100%);
+  border-radius: 0 0 1rem 1rem;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .konten-F29 .konten-artikel-LZP {
+  margin: 0rem 6.65rem 0.6rem 0rem;
+  width: 64.55rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .konten-F29 .konten-artikel-LZP .judul-4kH {
+  margin-left: 0.05rem;
+  width: 64.5rem;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .konten-F29 .konten-artikel-LZP .judul-4kH .neuromarketing-strategi-manfaat-memahami-otak-konsumen-CLh {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.02rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .konten-F29 .konten-artikel-LZP .judul-4kH .september-25-2023-marketing-Vah {
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .konten-F29 .konten-artikel-LZP .judul-4kH .september-25-2023-marketing-Vah .september-25-2023-marketing-Vah-sub-0 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .konten-F29 .konten-artikel-LZP .judul-4kH .september-25-2023-marketing-Vah .september-25-2023-marketing-Vah-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .konten-F29 .konten-artikel-LZP .dalam-dunia-pemasaran-yang-semakin-kompleks-pemahaman-mendalam-tentang-perilaku-konsumen-menjadi-kunci-sukses-Wu7 {
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .konten-F29 .read-more-n5w {
+  margin-top: 5.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .konten-F29 .read-more-n5w .read-more-Kbf {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: -0.015rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .hero-Wwj .hero-edukasi-BY5 .konten-F29 .read-more-n5w .group-3Xf {
+  margin-top: 0.1rem;
+  width: 1.9rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 {
+  width: 84.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm {
+  margin-bottom: 5.2rem;
+  width: 100%;
+  height: 30rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-aAD {
+  margin-right: 10.7rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-aAD .rectangle-51-7fw {
+  margin-bottom: 1.4rem;
+  width: 36.9rem;
+  height: 18.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-aAD .isi-2nu {
+  row-gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-aAD .isi-2nu .tips-jitu-mengembangkan-bisnis-jajanan-tradisional-biar-untung-n1P {
+  max-width: 32.6rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-aAD .isi-2nu .oktober-12-2023-marketing-gMf {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-aAD .isi-2nu .oktober-12-2023-marketing-gMf .oktober-12-2023-marketing-gMf-sub-0 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-aAD .isi-2nu .oktober-12-2023-marketing-gMf .oktober-12-2023-marketing-gMf-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-aAD .isi-2nu .oktober-12-2023-marketing-gMf .oktober-12-2023-marketing-gMf-sub-2 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-aAD .isi-2nu .jajanan-tradisional-memang-selalu-menjadi-idola-semua-kalangan-tak-hanya-memiliki-cita-rasa-yang-khas-harga-jual-makanan-tradisional-pun-relatif-murah-sehingga-masih-ramah-di-kantong-v9X {
+  max-width: 35.6rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-aAD .isi-2nu .jajanan-tradisional-memang-selalu-menjadi-idola-semua-kalangan-tak-hanya-memiliki-cita-rasa-yang-khas-harga-jual-makanan-tradisional-pun-relatif-murah-sehingga-masih-ramah-di-kantong-v9X .jajanan-tradisional-memang-selalu-menjadi-idola-semua-kalangan-tak-hanya-memiliki-cita-rasa-yang-khas-harga-jual-makanan-tradisional-pun-relatif-murah-sehingga-masih-ramah-di-kantong-v9X-sub-0 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-aAD .isi-2nu .jajanan-tradisional-memang-selalu-menjadi-idola-semua-kalangan-tak-hanya-memiliki-cita-rasa-yang-khas-harga-jual-makanan-tradisional-pun-relatif-murah-sehingga-masih-ramah-di-kantong-v9X .jajanan-tradisional-memang-selalu-menjadi-idola-semua-kalangan-tak-hanya-memiliki-cita-rasa-yang-khas-harga-jual-makanan-tradisional-pun-relatif-murah-sehingga-masih-ramah-di-kantong-v9X-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-65w {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-65w .rectangle-51-3Wy {
+  margin-bottom: 1.4rem;
+  width: 36.9rem;
+  height: 18.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-65w .isi-ALh {
+  row-gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-65w .isi-ALh .keuntungan-bisnis-franchise-yang-harus-anda-ketahui-7mj {
+  max-width: 36.7rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-65w .isi-ALh .oktober-19-2023-bisnis-online-E5f {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-65w .isi-ALh .oktober-19-2023-bisnis-online-E5f .oktober-19-2023-bisnis-online-E5f-sub-0 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-65w .isi-ALh .oktober-19-2023-bisnis-online-E5f .oktober-19-2023-bisnis-online-E5f-sub-1 {
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-65w .isi-ALh .oktober-19-2023-bisnis-online-E5f .oktober-19-2023-bisnis-online-E5f-sub-2 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-65w .isi-ALh .oktober-19-2023-bisnis-online-E5f .oktober-19-2023-bisnis-online-E5f-sub-3 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-lvmv-dkm .card1-65w .isi-ALh .apakah-anda-berniat-untuk-mencoba-bisnis-baru-tidak-ada-salahnya-untuk-memulai-bisnis-waralaba-atau-franchise-yang-banyak-mendatangkan-keuntungan-GgZ {
+  max-width: 34.7rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF {
+  width: 100%;
+  height: 32.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV {
+  margin-right: 10.7rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .rectangle-51-d9j {
+  margin-bottom: 1.4rem;
+  width: 36.9rem;
+  height: 18.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds {
+  row-gap: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .strategi-bisnis-kuliner-untuk-bersaing-di-pasar-yang-kompetitif-Hk5 {
+  max-width: 34.3rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .september-29-2023-marketing-zuP {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .september-29-2023-marketing-zuP .september-29-2023-marketing-zuP-sub-0 {
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .september-29-2023-marketing-zuP .september-29-2023-marketing-zuP-sub-1 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .september-29-2023-marketing-zuP .september-29-2023-marketing-zuP-sub-2 {
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .september-29-2023-marketing-zuP .september-29-2023-marketing-zuP-sub-3 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .september-29-2023-marketing-zuP .september-29-2023-marketing-zuP-sub-4 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .september-29-2023-marketing-zuP .september-29-2023-marketing-zuP-sub-5 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .kuliner-memiliki-peluang-yang-besar-untuk-berkembang-di-indonesia-namun-bisnis-ini-juga-perlu-memahami-tantangan-yang-dihadapi-dan-menerapkan-strategi-yang-tepat-agar-dapat-bersaing-di-pasar-yang-kompetitif-am7 {
+  max-width: 34.8rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .kuliner-memiliki-peluang-yang-besar-untuk-berkembang-di-indonesia-namun-bisnis-ini-juga-perlu-memahami-tantangan-yang-dihadapi-dan-menerapkan-strategi-yang-tepat-agar-dapat-bersaing-di-pasar-yang-kompetitif-am7 .kuliner-memiliki-peluang-yang-besar-untuk-berkembang-di-indonesia-namun-bisnis-ini-juga-perlu-memahami-tantangan-yang-dihadapi-dan-menerapkan-strategi-yang-tepat-agar-dapat-bersaing-di-pasar-yang-kompetitif-am7-sub-0 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .kuliner-memiliki-peluang-yang-besar-untuk-berkembang-di-indonesia-namun-bisnis-ini-juga-perlu-memahami-tantangan-yang-dihadapi-dan-menerapkan-strategi-yang-tepat-agar-dapat-bersaing-di-pasar-yang-kompetitif-am7 .kuliner-memiliki-peluang-yang-besar-untuk-berkembang-di-indonesia-namun-bisnis-ini-juga-perlu-memahami-tantangan-yang-dihadapi-dan-menerapkan-strategi-yang-tepat-agar-dapat-bersaing-di-pasar-yang-kompetitif-am7-sub-1 {
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .kuliner-memiliki-peluang-yang-besar-untuk-berkembang-di-indonesia-namun-bisnis-ini-juga-perlu-memahami-tantangan-yang-dihadapi-dan-menerapkan-strategi-yang-tepat-agar-dapat-bersaing-di-pasar-yang-kompetitif-am7 .kuliner-memiliki-peluang-yang-besar-untuk-berkembang-di-indonesia-namun-bisnis-ini-juga-perlu-memahami-tantangan-yang-dihadapi-dan-menerapkan-strategi-yang-tepat-agar-dapat-bersaing-di-pasar-yang-kompetitif-am7-sub-2 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-gEV .isi-9ds .kuliner-memiliki-peluang-yang-besar-untuk-berkembang-di-indonesia-namun-bisnis-ini-juga-perlu-memahami-tantangan-yang-dihadapi-dan-menerapkan-strategi-yang-tepat-agar-dapat-bersaing-di-pasar-yang-kompetitif-am7 .kuliner-memiliki-peluang-yang-besar-untuk-berkembang-di-indonesia-namun-bisnis-ini-juga-perlu-memahami-tantangan-yang-dihadapi-dan-menerapkan-strategi-yang-tepat-agar-dapat-bersaing-di-pasar-yang-kompetitif-am7-sub-3 {
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd {
+  width: 36.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .rectangle-51-UNd {
+  margin-bottom: 1.4rem;
+  width: 36.9rem;
+  height: 18.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .isi-zLy {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .isi-zLy .strategi-membuat-campaign-digital-yang-efektif-YdP {
+  margin-bottom: 1.2rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .isi-zLy .oktober-12-2023-marketing-qsP {
+  margin-bottom: 0.7rem;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .isi-zLy .oktober-12-2023-marketing-qsP .oktober-12-2023-marketing-qsP-sub-0 {
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .isi-zLy .oktober-12-2023-marketing-qsP .oktober-12-2023-marketing-qsP-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .isi-zLy .oktober-12-2023-marketing-qsP .oktober-12-2023-marketing-qsP-sub-2 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .isi-zLy .digital-campaign-atau-kampanye-digital-erat-kaitannya-dengan-dunia-pemasaran-modern-jenis-pemasaran-ini-merupakan-integrasi-dari-bidang-marketing-dan-komunikasi-di-mana-melibatkan-berbagai-saluran-digital-tujuan-utamanya-ialah-mendorong-keterlibatan-audiens-dalam-kampanye-yang-dibuat-UJ5 {
+  max-width: 36.9rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .isi-zLy .digital-campaign-atau-kampanye-digital-erat-kaitannya-dengan-dunia-pemasaran-modern-jenis-pemasaran-ini-merupakan-integrasi-dari-bidang-marketing-dan-komunikasi-di-mana-melibatkan-berbagai-saluran-digital-tujuan-utamanya-ialah-mendorong-keterlibatan-audiens-dalam-kampanye-yang-dibuat-UJ5 .digital-campaign-atau-kampanye-digital-erat-kaitannya-dengan-dunia-pemasaran-modern-jenis-pemasaran-ini-merupakan-integrasi-dari-bidang-marketing-dan-komunikasi-di-mana-melibatkan-berbagai-saluran-digital-tujuan-utamanya-ialah-mendorong-keterlibatan-audiens-dalam-kampanye-yang-dibuat-UJ5-sub-0 {
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .isi-zLy .digital-campaign-atau-kampanye-digital-erat-kaitannya-dengan-dunia-pemasaran-modern-jenis-pemasaran-ini-merupakan-integrasi-dari-bidang-marketing-dan-komunikasi-di-mana-melibatkan-berbagai-saluran-digital-tujuan-utamanya-ialah-mendorong-keterlibatan-audiens-dalam-kampanye-yang-dibuat-UJ5 .digital-campaign-atau-kampanye-digital-erat-kaitannya-dengan-dunia-pemasaran-modern-jenis-pemasaran-ini-merupakan-integrasi-dari-bidang-marketing-dan-komunikasi-di-mana-melibatkan-berbagai-saluran-digital-tujuan-utamanya-ialah-mendorong-keterlibatan-audiens-dalam-kampanye-yang-dibuat-UJ5-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .isi-zLy .digital-campaign-atau-kampanye-digital-erat-kaitannya-dengan-dunia-pemasaran-modern-jenis-pemasaran-ini-merupakan-integrasi-dari-bidang-marketing-dan-komunikasi-di-mana-melibatkan-berbagai-saluran-digital-tujuan-utamanya-ialah-mendorong-keterlibatan-audiens-dalam-kampanye-yang-dibuat-UJ5 .digital-campaign-atau-kampanye-digital-erat-kaitannya-dengan-dunia-pemasaran-modern-jenis-pemasaran-ini-merupakan-integrasi-dari-bidang-marketing-dan-komunikasi-di-mana-melibatkan-berbagai-saluran-digital-tujuan-utamanya-ialah-mendorong-keterlibatan-audiens-dalam-kampanye-yang-dibuat-UJ5-sub-2 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .auto-group-bw5m-nkq .content-5z9 .auto-group-hvbu-jKF .card1-Kkd .isi-zLy .digital-campaign-atau-kampanye-digital-erat-kaitannya-dengan-dunia-pemasaran-modern-jenis-pemasaran-ini-merupakan-integrasi-dari-bidang-marketing-dan-komunikasi-di-mana-melibatkan-berbagai-saluran-digital-tujuan-utamanya-ialah-mendorong-keterlibatan-audiens-dalam-kampanye-yang-dibuat-UJ5 .digital-campaign-atau-kampanye-digital-erat-kaitannya-dengan-dunia-pemasaran-modern-jenis-pemasaran-ini-merupakan-integrasi-dari-bidang-marketing-dan-komunikasi-di-mana-melibatkan-berbagai-saluran-digital-tujuan-utamanya-ialah-mendorong-keterlibatan-audiens-dalam-kampanye-yang-dibuat-UJ5-sub-3 {
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq {
+  margin-top: 5.1rem;
+  box-sizing: border-box;
+  padding: 1.9rem 1.3rem 4.8rem 2.404rem;
+  width: 45.6039rem;
+  background-color: #ceff9d;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .sub-judul-HoF {
+  margin-bottom: 2.8rem;
+  box-sizing: border-box;
+  padding: 0 0.2rem;
+  width: 16.5rem;
+  height: 2.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #049904;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-1-YjB {
+  margin: 0rem 0.1rem 2.9rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  width: calc(100% - 0.1rem);
+  height: 14rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-1-YjB .content1-eXK {
+  margin-right: 1.7rem;
+  height: 100%;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-1-YjB .content1-eXK .rectangle-102-D4d {
+  width: 20.2rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-1-YjB .auto-group-qlfd-Y6u {
+  margin-top: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-1-YjB .auto-group-qlfd-Y6u .cara-meningkatkan-penjualan-online-serta-strategi-penjualan-V29 {
+  max-width: 15.6rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-1-YjB .auto-group-qlfd-Y6u .september-25-2023-nmw {
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-1-YjB .auto-group-qlfd-Y6u .saat-ini-teknologi-berkembang-dengan-pesat-dimana-mana-orang-melakukan-apapun-berbasis-online-serba-canggih-dan-efisien-salah-satunya-untuk-melakukan-transaksi-jual-beli-dilakukan-secara-online-baik-htu {
+  max-width: 19.6rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-2-9F7 {
+  margin: 0rem 0.1rem 2.9rem 0rem;
+  box-sizing: border-box;
+  padding-right: 1.2rem;
+  width: calc(100% - 0.1rem);
+  height: 14rem;
+  cursor: pointer;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-2-9F7 .content1-FZ3 {
+  margin-right: 1.7rem;
+  height: 100%;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-2-9F7 .content1-FZ3 .rectangle-102-DEy {
+  width: 20.2rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-2-9F7 .auto-group-tjnk-jj7 {
+  margin-top: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-2-9F7 .auto-group-tjnk-jj7 .neuromarketing-strategi-manfaat-memahami-otak-konsumen-5ny {
+  max-width: 18.2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-2-9F7 .auto-group-tjnk-jj7 .september-25-2023-zQ9 {
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-2-9F7 .auto-group-tjnk-jj7 .dalam-dunia-pemasaran-yang-semakin-kompleks-pemahaman-mendalam-tentang-perilaku-konsumen-menjadi-kunci-sukses-vYh {
+  max-width: 18.7rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-3-o6h {
+  margin-bottom: 2.9rem;
+  width: 100%;
+  height: 14rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-3-o6h .content1-jm3 {
+  margin-right: 1.7rem;
+  height: 100%;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-3-o6h .content1-jm3 .rectangle-102-VkD {
+  width: 20.2rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-3-o6h .auto-group-fbfr-2EM {
+  margin-top: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-3-o6h .auto-group-fbfr-2EM .apa-itu-bisnis-online-pengertian-jenis-dan-manfaat-ALZ {
+  max-width: 16.7rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-3-o6h .auto-group-fbfr-2EM .augustus-2-2023-GuP {
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-3-o6h .auto-group-fbfr-2EM .bisnis-online-adalah-jenis-bisnis-yang-kian-hari-kian-diminati-bukan-hanya-karena-menawarkan-cuan-besar-menjalankan-bisnis-online-juga-tidak-terlalu-sulit-CY9 {
+  max-width: 20rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-4-fRj {
+  margin-right: 0.1rem;
+  box-sizing: border-box;
+  padding-right: 2.1rem;
+  width: calc(100% - 0.1rem);
+  height: 14rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-4-fRj .content1-baH {
+  margin-right: 1.7rem;
+  height: 100%;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-4-fRj .content1-baH .rectangle-102-kxy {
+  width: 20.2rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-4-fRj .auto-group-qthd-tZP {
+  margin-top: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-4-fRj .auto-group-qthd-tZP .tujuan-pemasaran-pengertian-jenis-contoh-caranya-SL1 {
+  max-width: 16rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-4-fRj .auto-group-qthd-tZP .september-25-2023-Ydw {
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .auto-group-9cjp-sds .sidebar-atq .konten-4-fRj .auto-group-qthd-tZP .memahami-tujuan-pemasaran-adalah-langkah-awal-yang-krusial-dalam-membangun-strategi-pemasaran-yang-efektif-tanpa-tujuan-yang-jelas-UXb {
+  max-width: 17.8rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT {
+  width: 100%;
+  height: 62.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu {
+  box-sizing: border-box;
+  padding: 13.2rem 7rem 3rem 7rem;
+  width: 151.2rem;
+  height: 56.4rem;
+  position: absolute;
+  left: 0;
+  top: 6.2rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #049904;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .pemisah-8Vf {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 {
+  margin: 0rem 15.3rem 2.4rem 2.8rem;
+  width: calc(100% - 18.1rem);
+  height: 26.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .quotes-Ax9 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .quotes-Ax9 .auto-group-oeuj-X21 {
+  margin-bottom: 0.6rem;
+  width: 6.9001rem;
+  height: 2.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .quotes-Ax9 .auto-group-oeuj-X21 .tagline-ESD {
+  width: 6.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .quotes-Ax9 .auto-group-oeuj-X21 .tagline-ESD .tagline-ESD-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .quotes-Ax9 .auto-group-oeuj-X21 .tagline-ESD .tagline-ESD-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .quotes-Ax9 .auto-group-oeuj-X21 .line-23-xQ9 {
+  width: 6.9001rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 2.225rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .quotes-Ax9 .tujuan-kami-bukan-menciptakan-bisnis-yang-besar-tetapi-membangun-sesuatu-yang-membuat-perubahan-besar-tYh {
+  margin-bottom: 0.8rem;
+  max-width: 25.9rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .quotes-Ax9 .semua-impian-kita-menjadi-kanyataan-jika-kita-mempunyai-keberanian-unutk-mengerjakannya-walt-disney-x2m {
+  margin: 0rem 0rem 0.8rem 5.3rem;
+  max-width: 25.7rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .quotes-Ax9 .wirausahawan-sejadi-meciptakan-peluang-bisnis-sedangkan-wirausahawan-bisa-fokus-mengejar-uang-zk9 {
+  margin-left: 13.5rem;
+  max-width: 28.1rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV {
+  box-sizing: border-box;
+  padding-left: 7.4rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR {
+  margin-right: 12.8rem;
+  width: 25.5rem;
+  row-gap: 0.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .auto-group-xsqt-KA9 {
+  width: 7.4rem;
+  height: 2.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .auto-group-xsqt-KA9 .line-24-TGM {
+  width: 7.4rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 2.2123rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .auto-group-xsqt-KA9 .aboutus-PQu {
+  width: 7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .auto-group-xsqt-KA9 .aboutus-PQu .aboutus-PQu-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .auto-group-xsqt-KA9 .aboutus-PQu .aboutus-PQu-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .group-263-G7K {
+  margin-left: 0.1rem;
+  box-sizing: border-box;
+  padding-left: 0.3125rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .group-263-G7K .location-Phj {
+  margin: 0.725rem 0.513rem 0rem 0rem;
+  width: 0.875rem;
+  height: 1.3029rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .group-263-G7K .jl-dharmawangsa-no138-d-airlangga-kec-gubeng-surabaya-jawa-timur-60282-J41 {
+  max-width: 23.7rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .group-264-B7o {
+  margin-right: 3.6rem;
+  width: calc(100% - 3.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .group-264-B7o .icon-envelope-closed-WQy {
+  margin: 0.2rem 0.5rem 0rem 0rem;
+  width: 1.6rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .group-264-B7o .foodysbussinesgmailcom-pAm {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .group-265-KtD {
+  margin-right: 13.5rem;
+  box-sizing: border-box;
+  padding-left: 0.1333rem;
+  width: calc(100% - 13.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .group-265-KtD .calling-r7T {
+  margin: 0rem 0.633rem 0.1rem 0rem;
+  width: 1.3333rem;
+  height: 1.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .about-us-CLR .group-265-KtD .item-0274-2885822-A89 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .comunity-fKo {
+  margin-right: 7.9954rem;
+  width: 9.7046rem;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .comunity-fKo .comunity-bUM {
+  margin: 0rem 0rem 0.1rem 1.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .comunity-fKo .comunity-bUM .comunity-bUM-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .comunity-fKo .comunity-bUM .comunity-bUM-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .comunity-fKo .line-26-hfo {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .comunity-fKo .group-266-SdP {
+  width: 6.7rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .sosmed-azV {
+  margin-top: 0.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .sosmed-azV .social-media-jcV {
+  margin-left: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .sosmed-azV .social-media-jcV .social-media-jcV-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .sosmed-azV .social-media-jcV .social-media-jcV-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .sosmed-azV .line-25-fPf {
+  margin-bottom: 1.4rem;
+  width: 10.0045rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .isi-footer-G65 .auto-group-tdnb-fLV .sosmed-azV .list-sosmed-1TX {
+  width: 14.1rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .pemisah-93w {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .mark-list-Hfw {
+  margin: 0rem 21.2rem 0rem 33.9rem;
+  width: calc(100% - 55.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .mark-list-Hfw .copyright-2023-by-foodys-all-rights-reserved-pQy {
+  margin: 0rem 9.6rem 1.7rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .footer-4Eu .mark-list-Hfw .terima-kasih-telah-mengunjungi-foodys-jangan-ragu-untuk-menghubungi-kami-jika-anda-memiliki-pertanyaan-atau-saran-5rh {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edukasi-page-member-mV3 .footer-7qT .foodies-1-A7T {
+  width: 30.1rem;
+  height: 27.7rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.edukasi-page-member-mV3 .footer-7qT .line-22-VQd {
+  width: 151.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 6.2rem;
+  background-color: #000000;
+}

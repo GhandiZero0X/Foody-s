@@ -1,0 +1,328 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.login-page-berhasil-regis-2TB {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b {
+  width: 47.8rem;
+  height: 59.3rem;
+  position: absolute;
+  left: 28.2rem;
+  top: 21.6rem;
+  border-right: solid 0.4rem #000000;
+  box-sizing: border-box;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj {
+  box-sizing: border-box;
+  padding: 5.7rem 2.5rem 5rem 5.4rem;
+  width: 47.4rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ceff9d;
+  border-radius: 0.2rem;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-269-BzH {
+  margin: 0rem 0rem 4.8rem 21rem;
+  box-sizing: border-box;
+  padding: 1.1rem 2.8rem 1.1rem 1.2rem;
+  width: calc(100% - 21rem);
+  display: flex;
+  align-items: center;
+  background-color: #049904;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-269-BzH .frame-HnR {
+  margin-right: 1.1rem;
+  width: 3.2rem;
+  height: 2.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-269-BzH .berhasil-register-R7w {
+  margin-bottom: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 {
+  margin: 0rem 4.796rem 4.681rem 0rem;
+  width: 34.7037rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .auto-group-xkn7-27j {
+  margin-bottom: 5.6193rem;
+  width: 100%;
+  height: 5.4994rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .auto-group-xkn7-27j .auth-user-Yrm {
+  box-sizing: border-box;
+  padding: 0rem 2.187rem 0rem 2.327rem;
+  width: 34.7037rem;
+  height: 5.4994rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border-bottom: solid 0.1rem #049904;
+  border-radius: 0.5rem;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .auto-group-xkn7-27j .auth-user-Yrm .opsi-auth-UEd {
+  width: 100%;
+  height: 3.7237rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.5rem;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .auto-group-xkn7-27j .auth-user-Yrm .opsi-auth-UEd .login-pZP {
+  margin-right: 2.9155rem;
+  width: 13.6369rem;
+  height: 3.7237rem;
+  border: solid 0.1rem #049904;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .auto-group-xkn7-27j .auth-user-Yrm .opsi-auth-UEd .register-YEV {
+  width: 13.6369rem;
+  height: 3.7237rem;
+  background-color: #049904;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .auto-group-xkn7-27j .login-Et1 {
+  width: 4.8rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 6.7rem;
+  top: 0.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02rem;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .auto-group-xkn7-27j .register-KPf {
+  width: 7.1rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 22.2rem;
+  top: 0.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02rem;
+  color: #ffff00;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .group-268-CCZ {
+  margin: 0rem 3.169rem 0rem 3.235rem;
+  width: calc(100% - 6.4037rem);
+  height: 10.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .group-268-CCZ .from-auth-Wj3 {
+  width: 28.3rem;
+  height: 10.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .group-268-CCZ .frame-Fgd {
+  width: 2.1rem;
+  height: 2rem;
+  position: absolute;
+  left: 1.2655rem;
+  top: 8.0813rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .group-268-CCZ .masukkan-email-aiu {
+  width: 10.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4.7155rem;
+  top: 0.6813rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-272-6E5 .group-268-CCZ .masukkan-password-5Qm {
+  width: 13.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 4.9155rem;
+  top: 7.8813rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .group-390-m2h {
+  margin: 0rem 16.5rem 5.6rem 11.8rem;
+  width: calc(100% - 28.3rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffff00;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #049904;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .auto-group-vz2j-DQV {
+  margin: 0rem 5.9rem 0rem 1.8rem;
+  width: calc(100% - 7.7rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .auto-group-vz2j-DQV .dont-have-account-yet--wLV {
+  margin-right: 5.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #000000;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .auto-group-vz2j-DQV .group-391-EaV {
+  width: 11.2rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  background-color: #049904;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .auto-group-vz2j-DQV .group-391-EaV .sign-up-n6D {
+  width: 4.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffff00;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .auto-group-vz2j-DQV .group-391-EaV .button-login-s7f {
+  width: 11.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #049904;
+  border-radius: 0.5rem;
+}
+.login-page-berhasil-regis-2TB .box-auth-A3b .auto-group-zrhd-gXj .auto-group-vz2j-DQV .group-391-EaV .sign-up-QNV {
+  width: 4.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffff00;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.login-page-berhasil-regis-2TB .box-r-1t5 {
+  width: 47.4rem;
+  height: 59.3rem;
+  position: absolute;
+  left: 75.6rem;
+  top: 21.6rem;
+  background-color: #049904;
+}
+.login-page-berhasil-regis-2TB .foodies-1-LvM {
+  width: 45.5rem;
+  height: 41.9rem;
+  position: absolute;
+  left: 80.7rem;
+  top: 30rem;
+  object-fit: cover;
+  vertical-align: top;
+}

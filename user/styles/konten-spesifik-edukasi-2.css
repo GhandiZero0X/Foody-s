@@ -1,0 +1,1039 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.konten-spesifik-edukasi-2-eKs {
+  width: 100%;
+  height: 199.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #f9f5f5;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K {
+  width: 151.2rem;
+  height: 62.6rem;
+  position: absolute;
+  left: 0;
+  top: 136.6rem;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ {
+  box-sizing: border-box;
+  padding: 13.2rem 7rem 3rem 7rem;
+  width: 151.2rem;
+  height: 56.4rem;
+  position: absolute;
+  left: 0;
+  top: 6.2rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #049904;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .pemisah-YpZ {
+  margin-bottom: 1.6rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd {
+  margin: 0rem 15.3rem 2rem 15.3rem;
+  width: calc(100% - 30.6rem);
+  height: 26.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .quotes-CPK {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .quotes-CPK .auto-group-ashz-MGD {
+  margin-bottom: 0.6rem;
+  width: 6.9001rem;
+  height: 2.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .quotes-CPK .auto-group-ashz-MGD .tagline-skM {
+  width: 5.3rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.85rem;
+  top: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .quotes-CPK .auto-group-ashz-MGD .tagline-skM .tagline-skM-sub-0 {
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .quotes-CPK .auto-group-ashz-MGD .tagline-skM .tagline-skM-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Arial, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .quotes-CPK .auto-group-ashz-MGD .line-23-kSm {
+  width: 6.9001rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 2.225rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .quotes-CPK .tujuan-kami-bukan-menciptakan-bisnis-yang-besar-tetapi-membangun-sesuatu-yang-membuat-perubahan-besar-5jw {
+  margin: 0rem 0rem 1rem 0rem;
+  max-width: 22.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .quotes-CPK .semua-impian-kita-menjadi-kanyataan-jika-kita-mempunyai-keberanian-unutk-mengerjakannya-walt-disney-XM3 {
+  margin-bottom: 1rem;
+  max-width: 22.8rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .quotes-CPK .wirausahawan-sejadi-meciptakan-peluang-bisnis-sedangkan-wirausahawan-bisa-fokus-mengejar-uang-BgV {
+  max-width: 25.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj {
+  box-sizing: border-box;
+  padding-left: 11.4rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 {
+  margin-right: 11.2rem;
+  width: 27.1rem;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .auto-group-a6bm-7iZ {
+  margin-bottom: 0.6rem;
+  width: 7.4rem;
+  height: 2.4rem;
+  position: relative;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .auto-group-a6bm-7iZ .line-24-rRF {
+  width: 7.4rem;
+  height: 0;
+  position: absolute;
+  left: 0;
+  top: 2.2123rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .auto-group-a6bm-7iZ .aboutus-CED {
+  width: 5.9rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.75rem;
+  top: 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .auto-group-a6bm-7iZ .aboutus-CED .aboutus-CED-sub-0 {
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .auto-group-a6bm-7iZ .aboutus-CED .aboutus-CED-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Arial, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .group-263-jdT {
+  margin: 0rem 0rem 3rem 0.1rem;
+  box-sizing: border-box;
+  padding-left: 0.3125rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: flex-start;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .group-263-jdT .location-ekR {
+  margin: 0.725rem 0.513rem 0rem 0rem;
+  width: 0.875rem;
+  height: 1.3029rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .group-263-jdT .jl-dharmawangsa-no138-d-airlangga-kec-gubeng-surabaya-jawa-timur-60282-y21 {
+  max-width: 25.3rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .group-264-FkD {
+  margin: 0rem 8.4rem 0.6rem 0rem;
+  width: calc(100% - 8.4rem);
+  display: flex;
+  align-items: center;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .group-264-FkD .icon-envelope-closed-b3P {
+  margin: 0.2rem 0.5rem 0rem 0rem;
+  width: 1.6rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .group-264-FkD .foodysbussinesgmailcom-6Vw {
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .group-265-1cu {
+  margin-right: 17rem;
+  box-sizing: border-box;
+  padding-left: 0.1333rem;
+  width: calc(100% - 17rem);
+  display: flex;
+  align-items: center;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .group-265-1cu .calling-MAy {
+  margin: 0rem 0.633rem 0.1rem 0rem;
+  width: 1.3333rem;
+  height: 1.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .about-us-z89 .group-265-1cu .item-0274-2885822-gDF {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .auto-group-cnt3-NLy {
+  margin-right: 7.9954rem;
+  width: 9.7046rem;
+  height: 7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .auto-group-cnt3-NLy .comunity-VgV {
+  width: 7.9rem;
+  height: 7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .auto-group-cnt3-NLy .comunity-VgV .comunity-pim {
+  margin: 0rem 0rem 1.6rem 1.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .auto-group-cnt3-NLy .comunity-VgV .comunity-pim .comunity-pim-sub-0 {
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .auto-group-cnt3-NLy .comunity-VgV .comunity-pim .comunity-pim-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Arial, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .auto-group-cnt3-NLy .comunity-VgV .group-266-zmf {
+  margin-right: 1.2rem;
+  width: 6.7rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .auto-group-cnt3-NLy .line-26-jjF {
+  width: 9.7046rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.5rem;
+  background-color: #000000;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .sosmed-g8h {
+  margin-top: 0.1rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .sosmed-g8h .social-media-DeR {
+  margin-left: 0.2rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .sosmed-g8h .social-media-DeR .social-media-DeR-sub-0 {
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .sosmed-g8h .social-media-DeR .social-media-DeR-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Arial, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .sosmed-g8h .line-25-bey {
+  margin-bottom: 1.4rem;
+  width: 10.0045rem;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .isi-footer-tNd .auto-group-p5nt-rXj .sosmed-g8h .list-sosmed-wiq {
+  width: 14.1rem;
+  height: 3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .pemisah-ggR {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .copyright-2023-by-foodys-all-rights-reserved-EC9 {
+  margin: 0rem 2.7rem 1.7rem 0rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .footer-gGZ .terima-kasih-telah-mengunjungi-foodys-jangan-ragu-untuk-menghubungi-kami-jika-anda-memiliki-pertanyaan-atau-saran-up5 {
+  margin-right: 4.3rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.8461538462;
+  letter-spacing: -0.013rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .foodies-1-mrH {
+  width: 30.1rem;
+  height: 27.7rem;
+  position: absolute;
+  left: 7.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.konten-spesifik-edukasi-2-eKs .footer-A3K .line-22-uBo {
+  width: 151.2rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 6.2rem;
+  background-color: #000000;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD {
+  box-sizing: border-box;
+  padding: 1.9rem 1.3rem 4.8rem 2.404rem;
+  width: 45.6039rem;
+  height: 76.7rem;
+  position: absolute;
+  left: 98.2961rem;
+  top: 17.5rem;
+  background-color: #ceff9d;
+  border-radius: 1rem;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .sub-judul-EtH {
+  margin-bottom: 2.8rem;
+  box-sizing: border-box;
+  padding: 0 0.2rem;
+  width: 16.5rem;
+  height: 2.5rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border-bottom: solid 0.1rem #049904;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-1-EWu {
+  margin: 0rem 0.1rem 2.9rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.3rem;
+  width: calc(100% - 0.1rem);
+  height: 14rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-1-EWu .content1-LK3 {
+  margin-right: 1.7rem;
+  height: 100%;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-1-EWu .content1-LK3 .rectangle-102-gdo {
+  width: 20.2rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-1-EWu .auto-group-sssd-aUH {
+  margin-top: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-1-EWu .auto-group-sssd-aUH .cara-meningkatkan-penjualan-online-serta-strategi-penjualan-i4h {
+  max-width: 15.6rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-1-EWu .auto-group-sssd-aUH .september-25-2023-QTK {
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-1-EWu .auto-group-sssd-aUH .saat-ini-teknologi-berkembang-dengan-pesat-dimana-mana-orang-melakukan-apapun-berbasis-online-serba-canggih-dan-efisien-salah-satunya-untuk-melakukan-transaksi-jual-beli-dilakukan-secara-online-baik-vAm {
+  max-width: 19.6rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-2-vKB {
+  margin: 0rem 0.1rem 2.9rem 0rem;
+  box-sizing: border-box;
+  padding-right: 1.2rem;
+  width: calc(100% - 0.1rem);
+  height: 14rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-2-vKB .content1-1bX {
+  margin-right: 1.7rem;
+  height: 100%;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-2-vKB .content1-1bX .rectangle-102-Zsw {
+  width: 20.2rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-2-vKB .auto-group-e6wx-fg5 {
+  margin-top: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-2-vKB .auto-group-e6wx-fg5 .neuromarketing-strategi-manfaat-memahami-otak-konsumen-Cvu {
+  max-width: 18.2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-2-vKB .auto-group-e6wx-fg5 .september-25-2023-6mP {
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-2-vKB .auto-group-e6wx-fg5 .dalam-dunia-pemasaran-yang-semakin-kompleks-pemahaman-mendalam-tentang-perilaku-konsumen-menjadi-kunci-sukses-phP {
+  max-width: 18.7rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-3-VYd {
+  margin-bottom: 2.9rem;
+  width: 100%;
+  height: 14rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-3-VYd .content1-deq {
+  margin-right: 1.7rem;
+  height: 100%;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-3-VYd .content1-deq .rectangle-102-zVP {
+  width: 20.2rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-3-VYd .auto-group-dydr-7pu {
+  margin-top: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-3-VYd .auto-group-dydr-7pu .apa-itu-bisnis-online-pengertian-jenis-dan-manfaat-s3P {
+  max-width: 16.7rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-3-VYd .auto-group-dydr-7pu .augustus-2-2023-Nkq {
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-3-VYd .auto-group-dydr-7pu .bisnis-online-adalah-jenis-bisnis-yang-kian-hari-kian-diminati-bukan-hanya-karena-menawarkan-cuan-besar-menjalankan-bisnis-online-juga-tidak-terlalu-sulit-6wj {
+  max-width: 20rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-4-Lr5 {
+  margin-right: 0.1rem;
+  box-sizing: border-box;
+  padding-right: 2.1rem;
+  width: calc(100% - 0.1rem);
+  height: 14rem;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 0.5rem;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-4-Lr5 .content1-rpR {
+  margin-right: 1.7rem;
+  height: 100%;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-4-Lr5 .content1-rpR .rectangle-102-1xD {
+  width: 20.2rem;
+  height: 14rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-4-Lr5 .auto-group-iccb-LzV {
+  margin-top: 0.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-4-Lr5 .auto-group-iccb-LzV .tujuan-pemasaran-pengertian-jenis-contoh-caranya-hKF {
+  max-width: 16rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-4-Lr5 .auto-group-iccb-LzV .september-25-2023-cBK {
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .sidebar-2nD .konten-4-Lr5 .auto-group-iccb-LzV .memahami-tujuan-pemasaran-adalah-langkah-awal-yang-krusial-dalam-membangun-strategi-pemasaran-yang-efektif-tanpa-tujuan-yang-jelas-YKs {
+  max-width: 17.8rem;
+  font-size: 0.5rem;
+  font-weight: 400;
+  line-height: 2;
+  letter-spacing: -0.005rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR {
+  box-sizing: border-box;
+  padding-bottom: 1rem;
+  width: 84.4073rem;
+  height: 125.3rem;
+  position: absolute;
+  left: 8rem;
+  top: 16rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1rem;
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .neuromarketing-strategi-manfaat-memahami-otak-konsumen-4xR {
+  margin: 0rem 0rem 4rem 0.093rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 0.6;
+  letter-spacing: -0.025rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .hero-wmK {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .hero-wmK .rectangle-50-J65 {
+  width: 100%;
+  height: 39.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-50-bg-kED.png');
+  border-radius: 1rem;
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD {
+  margin-right: 0.5073rem;
+  max-width: 77.5rem;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-0 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-1 {
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-3 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-4 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-5 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-6 {
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-7 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-8 {
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-9 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-10 {
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-11 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-12 {
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-13 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-14 {
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-15 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-16 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-17 {
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-18 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-19 {
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-20 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-21 {
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-22 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-23 {
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-24 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-25 {
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-26 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-27 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .konten-edukasi-miR .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD .apa-itu-neuromarketing-neuromarketing-adalah-disiplin-yang-menggabungkan-ilmu-saraf-dan-psikologi-dalam-penelitian-pemasaran-neuromarketing-merupakan-salah-satu-inovasi-terbaru-dalam-dunia-pemasaran-yang-menggabungkan-prinsip-prinsip-ilmu-saraf-dengan-teknik-pemasaran-konsep-ini-muncul-dari-pemahaman-bahwa-keputusan-pembelian-konsumen-tidak-hanya-didasarkan-pada-pertimbangan-logis-tetapi-juga-dipengaruhi-oleh-emosi-dan-proses-bawah-sadar-yang-terjadi-di-dalam-otak-alat-dan-teknik-dalam-neuromarketing-fmri-functional-magnetic-resonance-imaging-cara-kerja-fmri-adalah-teknologi-pencitraan-otak-yang-memungkinkan-peneliti-untuk-memvisualisasikan-aktivitas-otak-dalam-waktu-nyata-dengan-menggunakan-medan-magnet-kuat-fmri-mengukur-perubahan-aliran-darah-di-berbagai-bagian-otak-sebagai-respons-terhadap-stimulus-tertentu-penerapan-fmri-sering-digunakan-untuk-menentukan-bagian-otak-mana-yang-aktif-saat-konsumen-melihat-iklan-mendengar-musik-atau-bahkan-merasakan-sensasi-tertentu-ini-memberikan-wawasan-tentang-bagian-otak-yang-terlibat-dalam-proses-keputusan-pembelian-eeg-electroencephalography-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-cara-kerja-eeg-mengukur-aktivitas-listrik-di-permukaan-kulit-kepala-yang-disebabkan-oleh-aktivitas-neuron-di-otak-dengan-menempatkan-elektroda-di-kepala-eeg-dapat-mendeteksi-perubahan-dalam-pola-aktivitas-otak-eye-tracking-cara-kerja-teknologi-eye-tracking-menggunakan-kamera-khusus-untuk-melacak-gerakan-mata-dan-titik-fokus-seseorang-saat-mereka-melihat-layar-atau-objek-penerapan-eye-tracking-sering-digunakan-dalam-penelitian-iklan-untuk-menentukan-elemen-mana-dari-iklan-yang-menarik-perhatian-konsumen-ini-juga-dapat-membantu-dalam-desain-situs-web-atau-tata-letak-toko-dengan-menunjukkan-di-mana-mata-konsumen-cenderung-tertuju-facial-electromyography-femg-dan-galvanic-skin-response-gsr-cara-kerja-femg-mengukur-aktivitas-otot-wajah-untuk-menentukan-ekspresi-emosional-seseorang-sedangkan-gsr-mengukur-konduktivitas-kulit-yang-berubah-dengan-perubahan-emosi-penerapan-kedua-teknik-ini-digunakan-untuk-mengukur-reaksi-emosional-konsumen-terhadap-stimulus-pemasaran-misalnya-jika-konsumen-menunjukkan-tanda-tanda-kaget-atau-kegembiraan-saat-melihat-iklan-ini-dapat-memberi-tahu-pemasar-bahwa-iklan-tersebut-efektif-dalam-menarik-emosi-konsumen-manfaat-neuromarketing-dalam-strategi-pemasaran-pengembangan-produk-yang-lebih-baik-optimasi-iklan-meningkatkan-pengalaman-pelanggan-pengambilan-keputusan-yang-lebih-tepat-mengidentifikasi-peluang-baru-PtD-sub-28 {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.3333333333;
+  letter-spacing: -0.015rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj {
+  width: 151.2rem;
+  height: 9.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  background-color: #049904;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .profil-A1f {
+  box-sizing: border-box;
+  padding-left: 0.1rem;
+  width: 19.8rem;
+  height: 6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 125.4rem;
+  top: 1.6rem;
+  display: flex;
+  align-items: center;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .profil-A1f .andi-akhsanul-SUy {
+  margin-right: 1.052rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .profil-A1f .dropdown-menu-LaM {
+  box-sizing: border-box;
+  padding: 1.2rem 1.38rem 1.2rem 1.472rem;
+  height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-6-HEH.png');
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .profil-A1f .dropdown-menu-LaM .profil-FxD {
+  width: 3.496rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .line-21-m9s {
+  width: 151.2rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 9.1rem;
+  background-color: #000000;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .foodies-1-Upy {
+  width: 30.1rem;
+  height: 27.7rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .navigasi-beh {
+  width: 41.45rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 76.05rem;
+  top: 3.3rem;
+  display: flex;
+  align-items: center;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .navigasi-beh .home-Vk5 {
+  margin-right: 3.95rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .navigasi-beh .outlet-b2R {
+  margin-right: 4.1rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .navigasi-beh .contact-6E5 {
+  margin-right: 3.15rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .navigasi-beh .produk-QEm {
+  margin-right: 2.95rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konten-spesifik-edukasi-2-eKs .navbar-user-3hj .navigasi-beh .edukasi-uSR {
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.016rem;
+  color: #ffff00;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

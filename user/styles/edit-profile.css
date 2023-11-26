@@ -1,0 +1,838 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 140.9rem;
+}.edit-profile-wZs {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.edit-profile-wZs .property-1member-5vy {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 77.7rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb {
+  box-sizing: border-box;
+  padding: 5.1rem 11.2rem 5.2rem 11.1rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #ceff9d;
+  border-radius: 0.5rem;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o {
+  margin: 0rem 3.6rem 19.7rem 0rem;
+  box-sizing: border-box;
+  padding: 1.6rem 4.7rem 4.4rem 5rem;
+  width: 31.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #3dbc3d;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .photo-profile-dLD {
+  margin: 0rem 0.2rem 2.1rem 0rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV .foto-user-t1F {
+  box-sizing: border-box;
+  padding: 6.154rem 7.444rem 6.154rem 7.625rem;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-5.png');
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV .foto-user-t1F .profile-Cnd {
+  width: 6.6306rem;
+  height: 8.7917rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV .auto-group-2xtx-KMT {
+  box-sizing: border-box;
+  padding: 1.4rem 1.1rem 0rem 1.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV .auto-group-2xtx-KMT .id-user-Dxd {
+  margin: 0rem 0.85rem 3.5rem 0rem;
+  width: 17.85rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV .auto-group-2xtx-KMT .id-user-Dxd .auto-group-y3rs-wdj {
+  margin: 0rem 0.05rem 0.2rem 0.05rem;
+  width: calc(100% - 0.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV .auto-group-2xtx-KMT .id-user-Dxd .auto-group-y3rs-wdj .id-member--rkh {
+  margin-right: 1.65rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV .auto-group-2xtx-KMT .id-user-Dxd .auto-group-y3rs-wdj .item-15200293-i2D {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV .auto-group-2xtx-KMT .id-user-Dxd .auto-group-hbtp-Djf {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV .auto-group-2xtx-KMT .id-user-Dxd .auto-group-hbtp-Djf .id-account--BAh {
+  margin: 0rem 1.55rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV .auto-group-2xtx-KMT .id-user-Dxd .auto-group-hbtp-Djf .ap132424-Gxq {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .foto-profile-M7o .gambar-user-XgV .auto-group-2xtx-KMT .tombol-upload-bER {
+  width: 100%;
+  height: 4.9rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3dbc3d;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow {
+  box-sizing: border-box;
+  padding: 1.6rem 0.1rem 3rem 0.1rem;
+  width: 79.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #3dbc3d;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .profile-data-7MB {
+  margin: 0rem 0rem 1.4rem 5.5rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .line-66-1Bf {
+  margin-bottom: 3rem;
+  width: 79.4rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-username-LDw {
+  margin: 0rem 2.3rem 2rem 1.5rem;
+  width: calc(100% - 3.8rem);
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-username-LDw .username-FLu {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-username-LDw .auto-group-jt7y-xm7 {
+  box-sizing: border-box;
+  padding: 0.8rem 1.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3dbc3d;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-email-1UV {
+  margin: 0rem 2.3rem 1.7rem 1.5rem;
+  width: calc(100% - 3.8rem);
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-email-1UV .email-8JD {
+  margin-bottom: 0.1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-email-1UV .auto-group-iigb-EMF {
+  box-sizing: border-box;
+  padding: 0.8rem 1.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3dbc3d;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-no-telphone-gU9 {
+  margin: 0rem 2.3rem 1.9rem 1.5rem;
+  width: calc(100% - 3.8rem);
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-no-telphone-gU9 .no-telphone-zjj {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-no-telphone-gU9 .auto-group-gpp1-i9w {
+  box-sizing: border-box;
+  padding: 0.8rem 1.45rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3dbc3d;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-tanggal-lahir-xKB {
+  margin: 0rem 3.7rem 2.6rem 1.5rem;
+  width: calc(100% - 5.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-tanggal-lahir-xKB .tanggal-lahir-fzH {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-tanggal-lahir-xKB .auto-group-bkl3-o4u {
+  width: 100%;
+  height: 3.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-tanggal-lahir-xKB .auto-group-bkl3-o4u .auto-group-ew4k-8cy {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.5rem;
+  width: 69.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3dbc3d;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .form-tanggal-lahir-xKB .auto-group-bkl3-o4u .frame-xc1 {
+  margin-bottom: 0.1rem;
+  width: 3.9rem;
+  height: 3.6rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .from-gender-Gsb {
+  margin: 0rem 58rem 3.9rem 0rem;
+  width: 18.2rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .from-gender-Gsb .gender-14V {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .from-gender-Gsb .gender-vBT {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .from-gender-Gsb .gender-vBT .button-ThB {
+  margin-right: 0.6rem;
+  width: 2.8rem;
+  height: 2.7rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .from-gender-Gsb .gender-vBT .male-nDf {
+  margin: 0.2rem 1.6rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .from-gender-Gsb .gender-vBT .button-tXb {
+  margin-right: 1.1rem;
+  width: 2.8rem;
+  height: 2.7rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .from-gender-Gsb .gender-vBT .female-pw3 {
+  margin-top: 0.2rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1member-5vy .card-profile-dhb .profile-user-1ow .button-update-wVs {
+  margin: 0rem 25.4rem 0rem 29.2rem;
+  width: calc(100% - 54.6rem);
+  height: 6.2rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #17a400;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u {
+  width: 100%;
+  height: 77.7rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 {
+  box-sizing: border-box;
+  padding: 5.1rem 11.2rem 5.2rem 11.1rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  background-color: #ceff9d;
+  border-radius: 0.5rem;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .foto-profile-yL5 {
+  margin-right: 3.6rem;
+  box-sizing: border-box;
+  padding: 1.6rem 4.7rem 4.3rem 5rem;
+  width: 31.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #3dbc3d;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .foto-profile-yL5 .photo-profile-swF {
+  margin: 0rem 0.2rem 2.1rem 0rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .foto-profile-yL5 .gambar-user-mFw {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .foto-profile-yL5 .gambar-user-mFw .foto-user-iS5 {
+  box-sizing: border-box;
+  padding: 6.154rem 7.444rem 6.154rem 7.625rem;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-5-M3X.png');
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .foto-profile-yL5 .gambar-user-mFw .foto-user-iS5 .profile-FB7 {
+  width: 6.6306rem;
+  height: 8.7917rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .foto-profile-yL5 .gambar-user-mFw .auto-group-yuxw-NmX {
+  box-sizing: border-box;
+  padding: 3.6rem 1.1rem 0rem 1.35rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .foto-profile-yL5 .gambar-user-mFw .auto-group-yuxw-NmX .id-user-tjs {
+  margin: 0rem 1.4rem 2.1rem 0rem;
+  width: calc(100% - 1.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .foto-profile-yL5 .gambar-user-mFw .auto-group-yuxw-NmX .id-user-tjs .id-account--Rjo {
+  margin: 0rem 1.55rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .foto-profile-yL5 .gambar-user-mFw .auto-group-yuxw-NmX .id-user-tjs .ap132424-KKP {
+  margin-top: 0.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .foto-profile-yL5 .gambar-user-mFw .auto-group-yuxw-NmX .tombol-upload-RtD {
+  margin-left: 0.05rem;
+  width: calc(100% - 0.05rem);
+  height: 4.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3dbc3d;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH {
+  box-sizing: border-box;
+  padding: 1.6rem 0.1rem 3rem 0.1rem;
+  width: 79.6rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #3dbc3d;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .profile-data-WoB {
+  margin: 0rem 0rem 1.4rem 5.5rem;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .line-66-pYy {
+  margin-bottom: 3rem;
+  width: 79.4rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-username-ZFf {
+  margin: 0rem 2.3rem 2rem 1.5rem;
+  width: calc(100% - 3.8rem);
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-username-ZFf .username-UdX {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-username-ZFf .auto-group-8s3m-zrm {
+  box-sizing: border-box;
+  padding: 0.8rem 1.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3dbc3d;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-email-re5 {
+  margin: 0rem 2.3rem 1.7rem 1.5rem;
+  width: calc(100% - 3.8rem);
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-email-re5 .email-NsK {
+  margin-bottom: 0.1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-email-re5 .auto-group-evud-JW5 {
+  box-sizing: border-box;
+  padding: 0.8rem 1.5rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3dbc3d;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-no-telphone-AoB {
+  margin: 0rem 2.3rem 1.9rem 1.5rem;
+  width: calc(100% - 3.8rem);
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-no-telphone-AoB .no-telphone-uEy {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-no-telphone-AoB .auto-group-zarw-RUD {
+  box-sizing: border-box;
+  padding: 0.8rem 1.45rem;
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3dbc3d;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-tanggal-lahir-guw {
+  margin: 0rem 3.7rem 2.6rem 1.5rem;
+  width: calc(100% - 5.2rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-tanggal-lahir-guw .tanggal-lahir-ozZ {
+  margin-bottom: 0.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-tanggal-lahir-guw .auto-group-uxjb-XvZ {
+  width: 100%;
+  height: 3.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-tanggal-lahir-guw .auto-group-uxjb-XvZ .auto-group-ahhm-goT {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.5rem;
+  width: 69.3rem;
+  height: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3dbc3d;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .form-tanggal-lahir-guw .auto-group-uxjb-XvZ .frame-wUV {
+  margin-bottom: 0.1rem;
+  width: 3.9rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .from-gender-Fzy {
+  margin: 0rem 58rem 3.9rem 0rem;
+  width: 18.2rem;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .from-gender-Fzy .gender-zBs {
+  margin-bottom: 1.4rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .from-gender-Fzy .gender-KE9 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .from-gender-Fzy .gender-KE9 .button-fYu {
+  margin-right: 0.6rem;
+  width: 2.8rem;
+  height: 2.7rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .from-gender-Fzy .gender-KE9 .male-bxM {
+  margin: 0.2rem 1.6rem 0rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .from-gender-Fzy .gender-KE9 .button-vUq {
+  margin-right: 1.1rem;
+  width: 2.8rem;
+  height: 2.7rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .from-gender-Fzy .gender-KE9 .female-GHo {
+  margin-top: 0.2rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #049904;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.edit-profile-wZs .property-1user-v6u .card-profile-s29 .profile-user-dzH .button-update-o2q {
+  margin: 0rem 25.4rem 0rem 29.2rem;
+  width: calc(100% - 54.6rem);
+  height: 6.2rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #17a400;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}

@@ -1,0 +1,38 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 45.7rem;
+}.card-gx1 {
+  width: 100%;
+  height: 43.5rem;
+  position: relative;
+}
+.card-gx1 .nama-produk-harga-FER {
+  width: 45.7rem;
+  height: 35.5rem;
+  position: absolute;
+  left: 0;
+  top: 22.6rem;
+  background-color: #ffb000;
+  border-radius: 0.5rem;
+}
+.card-gx1 .rectangle-167-aGh {
+  width: 45.6665rem;
+  height: 30.7707rem;
+  position: absolute;
+  left: 0.0335rem;
+  top: 0;
+  background-color: #d9d9d9;
+}

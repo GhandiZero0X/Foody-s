@@ -1,0 +1,377 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 270.4rem;
+}.hero-edukasi-Zcu {
+  box-sizing: border-box;
+  padding: 2rem 3.499rem 3.8rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 5.3rem;
+  align-items: center;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT {
+  box-sizing: border-box;
+  padding-top: 29rem;
+  width: 84.7671rem;
+  height: 39.5rem;
+  cursor: pointer;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-52-bg-Wzd.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT .konten-xf3 {
+  box-sizing: border-box;
+  padding: 1.1rem 2.4rem 1.6rem 1.3rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) -0%, #c2c2c2 100%);
+  border-radius: 0 0 1rem 1rem;
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT .konten-xf3 .konten-artikel-t2u {
+  margin: 0rem 6.65rem 0.6rem 0rem;
+  width: 64.55rem;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT .konten-xf3 .konten-artikel-t2u .judul-1NR {
+  margin-left: 0.05rem;
+  width: 64.5rem;
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT .konten-xf3 .konten-artikel-t2u .judul-1NR .neuromarketing-strategi-manfaat-memahami-otak-konsumen-ZPw {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.02rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT .konten-xf3 .konten-artikel-t2u .judul-1NR .september-25-2023-marketing-eRP {
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT .konten-xf3 .konten-artikel-t2u .judul-1NR .september-25-2023-marketing-eRP .september-25-2023-marketing-eRP-sub-0 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT .konten-xf3 .konten-artikel-t2u .judul-1NR .september-25-2023-marketing-eRP .september-25-2023-marketing-eRP-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT .konten-xf3 .konten-artikel-t2u .dalam-dunia-pemasaran-yang-semakin-kompleks-pemahaman-mendalam-tentang-perilaku-konsumen-menjadi-kunci-sukses-1of {
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT .konten-xf3 .read-more-6KK {
+  margin-top: 5.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT .konten-xf3 .read-more-6KK .read-more-Sty {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: -0.015rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-1-ePT .konten-xf3 .read-more-6KK .group-Aa5 {
+  margin-top: 0.1rem;
+  width: 1.9rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-2-ado {
+  box-sizing: border-box;
+  padding-top: 29rem;
+  width: 84.7671rem;
+  height: 39.5rem;
+  cursor: pointer;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-52-bg-T21.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-2-ado .konten-ug5 {
+  box-sizing: border-box;
+  padding: 1.1rem 2.4rem 1.6rem 1.333rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) -0%, #c2c2c2 100%);
+  border-radius: 0 0 1rem 1rem;
+}
+.hero-edukasi-Zcu .property-1hero-2-ado .konten-ug5 .konten-artikel-2Eu {
+  margin-right: 12.2671rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-2-ado .konten-ug5 .konten-artikel-2Eu .judul-Tr1 {
+  width: 57.2rem;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-2-ado .konten-ug5 .konten-artikel-2Eu .judul-Tr1 .tujuan-pemasaran-pengertian-jenis-contoh-caranya-28R {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.02rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-edukasi-Zcu .property-1hero-2-ado .konten-ug5 .konten-artikel-2Eu .judul-Tr1 .september-25-2023-marketing-KdK {
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.hero-edukasi-Zcu .property-1hero-2-ado .konten-ug5 .konten-artikel-2Eu .judul-Tr1 .september-25-2023-marketing-KdK .september-25-2023-marketing-KdK-sub-0 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hero-edukasi-Zcu .property-1hero-2-ado .konten-ug5 .konten-artikel-2Eu .judul-Tr1 .september-25-2023-marketing-KdK .september-25-2023-marketing-KdK-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hero-edukasi-Zcu .property-1hero-2-ado .konten-ug5 .konten-artikel-2Eu .memahami-tujuan-pemasaran-adalah-langkah-awal-yang-krusial-dalam-membangun-strategi-pemasaran-yang-efektif-tanpa-tujuan-yang-jelas-pyP {
+  max-width: 58.9rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-2-ado .konten-ug5 .read-more-Vpd {
+  margin-top: 5.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-2-ado .konten-ug5 .read-more-Vpd .read-more-qtV {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: -0.015rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-2-ado .konten-ug5 .read-more-Vpd .group-xy7 {
+  margin-top: 0.1rem;
+  width: 1.9rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD {
+  box-sizing: border-box;
+  padding-top: 29rem;
+  width: 84.7671rem;
+  height: 39.5rem;
+  cursor: pointer;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-52-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M {
+  box-sizing: border-box;
+  padding: 1.1rem 2.4rem 1.6rem 1.266rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) -0%, #c2c2c2 100%);
+  border-radius: 0 0 1rem 1rem;
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .konten-artikel-rx1 {
+  margin-right: 1.8342rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .konten-artikel-rx1 .judul-1a1 {
+  width: 59.3rem;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .konten-artikel-rx1 .judul-1a1 .strategi-pemasaran-online-terbaik-yang-terbukti-berhasil-mJH {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.02rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .konten-artikel-rx1 .judul-1a1 .september-25-2023-marketing-TB7 {
+  width: 100%;
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .konten-artikel-rx1 .judul-1a1 .september-25-2023-marketing-TB7 .september-25-2023-marketing-TB7-sub-0 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .konten-artikel-rx1 .judul-1a1 .september-25-2023-marketing-TB7 .september-25-2023-marketing-TB7-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.4;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .konten-artikel-rx1 .memiliki-strategi-pemasaran-online-yang-efektif-adalah-esensial-dengan-jutaan-pengguna-internet-di-seluruh-dunia-strategi-ini-menjadi-kunci-sukses-bagi-banyak-bisnis-mb7 {
+  max-width: 69.4rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .konten-artikel-rx1 .memiliki-strategi-pemasaran-online-yang-efektif-adalah-esensial-dengan-jutaan-pengguna-internet-di-seluruh-dunia-strategi-ini-menjadi-kunci-sukses-bagi-banyak-bisnis-mb7 .memiliki-strategi-pemasaran-online-yang-efektif-adalah-esensial-dengan-jutaan-pengguna-internet-di-seluruh-dunia-strategi-ini-menjadi-kunci-sukses-bagi-banyak-bisnis-mb7-sub-0 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .konten-artikel-rx1 .memiliki-strategi-pemasaran-online-yang-efektif-adalah-esensial-dengan-jutaan-pengguna-internet-di-seluruh-dunia-strategi-ini-menjadi-kunci-sukses-bagi-banyak-bisnis-mb7 .memiliki-strategi-pemasaran-online-yang-efektif-adalah-esensial-dengan-jutaan-pengguna-internet-di-seluruh-dunia-strategi-ini-menjadi-kunci-sukses-bagi-banyak-bisnis-mb7-sub-1 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .konten-artikel-rx1 .memiliki-strategi-pemasaran-online-yang-efektif-adalah-esensial-dengan-jutaan-pengguna-internet-di-seluruh-dunia-strategi-ini-menjadi-kunci-sukses-bagi-banyak-bisnis-mb7 .memiliki-strategi-pemasaran-online-yang-efektif-adalah-esensial-dengan-jutaan-pengguna-internet-di-seluruh-dunia-strategi-ini-menjadi-kunci-sukses-bagi-banyak-bisnis-mb7-sub-2 {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .read-more-fiR {
+  margin-top: 5.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .read-more-fiR .read-more-1GV {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.6;
+  letter-spacing: -0.015rem;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.hero-edukasi-Zcu .property-1hero-3-QaD .konten-w4M .read-more-fiR .group-vuF {
+  margin-top: 0.1rem;
+  width: 1.9rem;
+  height: 1.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
