@@ -764,3 +764,32 @@ body {
   top: 6.2rem;
   background-color: #000000;
 }
+
+/* CSS untuk Popup */
+.popup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #4CAF50;
+  color: #ffffff;
+  padding: 40px;
+  border: 1px solid #ddd;
+  z-index: 1;
+  width: 200px;
+  height: 50px;
+}
+
+.popup-content {
+  text-align: center;
+  font-size: 18px;
+}
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}

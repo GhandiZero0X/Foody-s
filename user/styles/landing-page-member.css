@@ -1,20 +1,21 @@
-
 html {
-	font-size:62.5%;
+  font-size: 62.5%;
 }
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
-ul, li {
-	list-style: none;
+ul,
+li {
+  list-style: none;
 }
 input {
-	border: none;
+  border: none;
 }
 body {
   width: 151.2rem;
-}.landing-page-member-4RX {
+}
+.landing-page-member-4RX {
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -51,7 +52,7 @@ body {
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffff00;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -62,10 +63,14 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/ellipse-6-D4u.png');
+  background-image: url("../assets/ellipse-6-D4u.png");
   flex-shrink: 0;
 }
-.landing-page-member-4RX .navbar-user-Nx1 .profil-K6Z .dropdown-menu-JDP .profil-cUy {
+.landing-page-member-4RX
+  .navbar-user-Nx1
+  .profil-K6Z
+  .dropdown-menu-JDP
+  .profil-cUy {
   width: 3.496rem;
   height: 3.6rem;
   object-fit: contain;
@@ -105,7 +110,7 @@ body {
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffff00;
-  font-family: Inter, 'Source Sans Pro';
+  font-family: Inter, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -118,7 +123,7 @@ body {
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Inter, 'Source Sans Pro';
+  font-family: Inter, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -131,7 +136,7 @@ body {
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Inter, 'Source Sans Pro';
+  font-family: Inter, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -144,7 +149,7 @@ body {
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Inter, 'Source Sans Pro';
+  font-family: Inter, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -156,7 +161,7 @@ body {
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Inter, 'Source Sans Pro';
+  font-family: Inter, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -173,7 +178,10 @@ body {
   left: 0;
   top: 148.8rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .rectangle-166-DBF {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .rectangle-166-DBF {
   width: 151.2rem;
   height: 62.6rem;
   position: absolute;
@@ -192,7 +200,11 @@ body {
   background-color: #ffffff;
   border-radius: 2rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs {
   box-sizing: border-box;
   padding-left: 0.7rem;
   width: 100%;
@@ -203,14 +215,25 @@ body {
   column-gap: 2.3rem;
   align-items: flex-start;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Y73 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Y73 {
   margin-top: 0.3rem;
   width: 36.9rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Y73 .rectangle-91-TUu {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Y73
+  .rectangle-91-TUu {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -219,7 +242,13 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Y73 .rectangle-90-mEh {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Y73
+  .rectangle-90-mEh {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -229,20 +258,41 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Y73 .outlet1-HD3 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Y73
+  .outlet1-HD3 {
   width: 22.9rem;
   height: 13.3rem;
   position: absolute;
   left: 2.1rem;
   top: 30.4rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Y73 .outlet1-HD3 .auto-group-2q7d-Q2m {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Y73
+  .outlet1-HD3
+  .auto-group-2q7d-Q2m {
   margin: 0rem 7.2rem 1.8rem 0rem;
   width: calc(100% - 7.2rem);
   display: flex;
   align-items: center;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Y73 .outlet1-HD3 .auto-group-2q7d-Q2m .group-i3T {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Y73
+  .outlet1-HD3
+  .auto-group-2q7d-Q2m
+  .group-i3T {
   margin: 0.224rem 0.8rem 0rem 0rem;
   width: 1.6rem;
   height: 1.8346rem;
@@ -251,17 +301,32 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Y73 .outlet1-HD3 .auto-group-2q7d-Q2m .surabaya-barat-p6V {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Y73
+  .outlet1-HD3
+  .auto-group-2q7d-Q2m
+  .surabaya-barat-p6V {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #3dbc3d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Y73 .outlet1-HD3 .outlet-pak-hasan-utd {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Y73
+  .outlet1-HD3
+  .outlet-pak-hasan-utd {
   margin-bottom: 1.9rem;
   width: 100%;
   text-align: center;
@@ -270,19 +335,32 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Y73 .outlet1-HD3 .jual-makanan-tradisional-surabaya-1Ay {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Y73
+  .outlet1-HD3
+  .jual-makanan-tradisional-surabaya-1Ay {
   max-width: 22.6rem;
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Y73 .group-i5P {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Y73
+  .group-i5P {
   opacity: 0;
   box-sizing: border-box;
   padding: 2.75rem 3.671rem 2.75rem 3.251rem;
@@ -294,22 +372,40 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/vector-kuX.png');
+  background-image: url("../assets/vector-kuX.png");
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Y73 .group-i5P .vector-CFT {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Y73
+  .group-i5P
+  .vector-CFT {
   width: 1.4784rem;
   height: 3.0005rem;
   object-fit: contain;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-hxu {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-hxu {
   margin-top: 0.3rem;
   width: 36.9rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-hxu .rectangle-91-S9o {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-hxu
+  .rectangle-91-S9o {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -318,7 +414,13 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-hxu .rectangle-90-kwB {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-hxu
+  .rectangle-90-kwB {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -328,20 +430,41 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-hxu .outlet2-V85 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-hxu
+  .outlet2-V85 {
   width: 22.9rem;
   height: 13.3rem;
   position: absolute;
   left: 2.2rem;
   top: 30.6rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-hxu .outlet2-V85 .auto-group-zny9-QF3 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-hxu
+  .outlet2-V85
+  .auto-group-zny9-QF3 {
   margin: 0rem 7.2rem 1.8rem 0rem;
   width: calc(100% - 7.2rem);
   display: flex;
   align-items: center;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-hxu .outlet2-V85 .auto-group-zny9-QF3 .group-j2R {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-hxu
+  .outlet2-V85
+  .auto-group-zny9-QF3
+  .group-j2R {
   margin: 0.224rem 0.8rem 0rem 0rem;
   width: 1.6rem;
   height: 1.8346rem;
@@ -350,17 +473,32 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-hxu .outlet2-V85 .auto-group-zny9-QF3 .surabaya-barat-Ezm {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-hxu
+  .outlet2-V85
+  .auto-group-zny9-QF3
+  .surabaya-barat-Ezm {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #3dbc3d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-hxu .outlet2-V85 .outlet-pak-hasan-MpV {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-hxu
+  .outlet2-V85
+  .outlet-pak-hasan-MpV {
   margin-bottom: 1.9rem;
   width: 100%;
   text-align: center;
@@ -369,26 +507,44 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-hxu .outlet2-V85 .jual-makanan-tradisional-surabaya-rWM {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-hxu
+  .outlet2-V85
+  .jual-makanan-tradisional-surabaya-rWM {
   max-width: 22.6rem;
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-A1F {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-A1F {
   margin-top: 0.4rem;
   width: 36.9rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-A1F .rectangle-91-V3X {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-A1F
+  .rectangle-91-V3X {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -397,7 +553,13 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-A1F .rectangle-90-opu {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-A1F
+  .rectangle-90-opu {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -407,20 +569,41 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-A1F .outlet3-ved {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-A1F
+  .outlet3-ved {
   width: 22.9rem;
   height: 13.3rem;
   position: absolute;
   left: 2.4rem;
   top: 30.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-A1F .outlet3-ved .auto-group-pstd-Dtd {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-A1F
+  .outlet3-ved
+  .auto-group-pstd-Dtd {
   margin: 0rem 7.2rem 1.8rem 0rem;
   width: calc(100% - 7.2rem);
   display: flex;
   align-items: center;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-A1F .outlet3-ved .auto-group-pstd-Dtd .group-LTT {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-A1F
+  .outlet3-ved
+  .auto-group-pstd-Dtd
+  .group-LTT {
   margin: 0.224rem 0.8rem 0rem 0rem;
   width: 1.6rem;
   height: 1.8346rem;
@@ -429,17 +612,32 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-A1F .outlet3-ved .auto-group-pstd-Dtd .surabaya-barat-3cm {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-A1F
+  .outlet3-ved
+  .auto-group-pstd-Dtd
+  .surabaya-barat-3cm {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #3dbc3d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-A1F .outlet3-ved .outlet-pak-hasan-Zr1 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-A1F
+  .outlet3-ved
+  .outlet-pak-hasan-Zr1 {
   margin-bottom: 1.9rem;
   width: 100%;
   text-align: center;
@@ -448,25 +646,43 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-A1F .outlet3-ved .jual-makanan-tradisional-surabaya-gQq {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-A1F
+  .outlet3-ved
+  .jual-makanan-tradisional-surabaya-gQq {
   max-width: 22.6rem;
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-aWD {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-aWD {
   width: 36.9rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-aWD .rectangle-91-W8y {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-aWD
+  .rectangle-91-W8y {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -475,7 +691,13 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-aWD .rectangle-90-cho {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-aWD
+  .rectangle-90-cho {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -485,20 +707,41 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-aWD .outlet4-k3K {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-aWD
+  .outlet4-k3K {
   width: 22.9rem;
   height: 13.3rem;
   position: absolute;
   left: 2.4rem;
   top: 30.9rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-aWD .outlet4-k3K .auto-group-khp9-e8h {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-aWD
+  .outlet4-k3K
+  .auto-group-khp9-e8h {
   margin: 0rem 7.2rem 1.8rem 0rem;
   width: calc(100% - 7.2rem);
   display: flex;
   align-items: center;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-aWD .outlet4-k3K .auto-group-khp9-e8h .group-xfB {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-aWD
+  .outlet4-k3K
+  .auto-group-khp9-e8h
+  .group-xfB {
   margin: 0.224rem 0.8rem 0rem 0rem;
   width: 1.6rem;
   height: 1.8346rem;
@@ -507,17 +750,32 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-aWD .outlet4-k3K .auto-group-khp9-e8h .surabaya-barat-TM3 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-aWD
+  .outlet4-k3K
+  .auto-group-khp9-e8h
+  .surabaya-barat-TM3 {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #3dbc3d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-aWD .outlet4-k3K .outlet-pak-hasan-Niu {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-aWD
+  .outlet4-k3K
+  .outlet-pak-hasan-Niu {
   margin-bottom: 1.9rem;
   width: 100%;
   text-align: center;
@@ -526,19 +784,32 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-aWD .outlet4-k3K .jual-makanan-tradisional-surabaya-5NR {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-aWD
+  .outlet4-k3K
+  .jual-makanan-tradisional-surabaya-5NR {
   max-width: 22.6rem;
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-aWD .group-yyb {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-aWD
+  .group-yyb {
   box-sizing: border-box;
   padding: 2.75rem 3.173rem 2.75rem 3.583rem;
   width: 8.2rem;
@@ -550,21 +821,39 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/vector-tUy.png');
+  background-image: url("../assets/vector-tUy.png");
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-aWD .group-yyb .vector-frR {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-aWD
+  .group-yyb
+  .vector-frR {
   width: 1.4432rem;
   height: 3.0005rem;
   object-fit: contain;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-nRF {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-nRF {
   width: 36.9rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-nRF .rectangle-91-7yK {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-nRF
+  .rectangle-91-7yK {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -573,7 +862,13 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-nRF .rectangle-90-quK {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-nRF
+  .rectangle-90-quK {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -583,20 +878,41 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-nRF .outlet5-Z4d {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-nRF
+  .outlet5-Z4d {
   width: 31.2rem;
   height: 10.9rem;
   position: absolute;
   left: 2.4rem;
   top: 30.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-nRF .outlet5-Z4d .auto-group-gwoh-4n5 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-nRF
+  .outlet5-Z4d
+  .auto-group-gwoh-4n5 {
   margin: 0rem 15.5rem 1.8rem 0rem;
   width: calc(100% - 15.5rem);
   display: flex;
   align-items: center;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-nRF .outlet5-Z4d .auto-group-gwoh-4n5 .group-z9w {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-nRF
+  .outlet5-Z4d
+  .auto-group-gwoh-4n5
+  .group-z9w {
   margin: 0.224rem 0.8rem 0rem 0rem;
   width: 1.6rem;
   height: 1.8346rem;
@@ -605,17 +921,32 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-nRF .outlet5-Z4d .auto-group-gwoh-4n5 .surabaya-barat-W8H {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-nRF
+  .outlet5-Z4d
+  .auto-group-gwoh-4n5
+  .surabaya-barat-W8H {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #3dbc3d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-nRF .outlet5-Z4d .outlet-pak-rudi-DHb {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-nRF
+  .outlet5-Z4d
+  .outlet-pak-rudi-DHb {
   margin-bottom: 1.9rem;
   width: 100%;
   text-align: center;
@@ -624,25 +955,43 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-nRF .outlet5-Z4d .jual-makanan-tradisional-surabaya-7Ny {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-nRF
+  .outlet5-Z4d
+  .jual-makanan-tradisional-surabaya-7Ny {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Dgu {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Dgu {
   width: 36.9rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Dgu .rectangle-91-kgq {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Dgu
+  .rectangle-91-kgq {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -651,7 +1000,13 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Dgu .rectangle-90-gKb {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Dgu
+  .rectangle-90-gKb {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -661,20 +1016,41 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Dgu .outlet6-Coj {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Dgu
+  .outlet6-Coj {
   width: 31.2rem;
   height: 10.9rem;
   position: absolute;
   left: 2.4rem;
   top: 31.1rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Dgu .outlet6-Coj .auto-group-jqgs-8SV {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Dgu
+  .outlet6-Coj
+  .auto-group-jqgs-8SV {
   margin: 0rem 15.5rem 1.8rem 0rem;
   width: calc(100% - 15.5rem);
   display: flex;
   align-items: center;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Dgu .outlet6-Coj .auto-group-jqgs-8SV .group-FX7 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Dgu
+  .outlet6-Coj
+  .auto-group-jqgs-8SV
+  .group-FX7 {
   margin: 0.224rem 0.8rem 0rem 0rem;
   width: 1.6rem;
   height: 1.8346rem;
@@ -683,17 +1059,32 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Dgu .outlet6-Coj .auto-group-jqgs-8SV .surabaya-barat-Ae5 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Dgu
+  .outlet6-Coj
+  .auto-group-jqgs-8SV
+  .surabaya-barat-Ae5 {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #3dbc3d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Dgu .outlet6-Coj .outlet-pak-hasan-JEV {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Dgu
+  .outlet6-Coj
+  .outlet-pak-hasan-JEV {
   margin-bottom: 1.9rem;
   width: 100%;
   text-align: center;
@@ -702,25 +1093,43 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-Dgu .outlet6-Coj .jual-makanan-tradisional-surabaya-oh3 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-Dgu
+  .outlet6-Coj
+  .jual-makanan-tradisional-surabaya-oh3 {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-uzy {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-uzy {
   width: 36.9rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-uzy .rectangle-91-eBs {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-uzy
+  .rectangle-91-eBs {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -729,7 +1138,13 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-uzy .rectangle-90-AR7 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-uzy
+  .rectangle-90-AR7 {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -739,20 +1154,41 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-uzy .outlet7-guF {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-uzy
+  .outlet7-guF {
   width: 31.2rem;
   height: 10.9rem;
   position: absolute;
   left: 2.4rem;
   top: 31.3rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-uzy .outlet7-guF .auto-group-rgpv-Csb {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-uzy
+  .outlet7-guF
+  .auto-group-rgpv-Csb {
   margin: 0rem 15.5rem 1.8rem 0rem;
   width: calc(100% - 15.5rem);
   display: flex;
   align-items: center;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-uzy .outlet7-guF .auto-group-rgpv-Csb .group-X9B {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-uzy
+  .outlet7-guF
+  .auto-group-rgpv-Csb
+  .group-X9B {
   margin: 0.224rem 0.8rem 0rem 0rem;
   width: 1.6rem;
   height: 1.8346rem;
@@ -761,17 +1197,32 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-uzy .outlet7-guF .auto-group-rgpv-Csb .surabaya-barat-EZP {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-uzy
+  .outlet7-guF
+  .auto-group-rgpv-Csb
+  .surabaya-barat-EZP {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #3dbc3d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-uzy .outlet7-guF .outlet-pak-hasan-M8D {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-uzy
+  .outlet7-guF
+  .outlet-pak-hasan-M8D {
   margin-bottom: 1.9rem;
   width: 100%;
   text-align: center;
@@ -780,16 +1231,23 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .section2-LFs .slider-outlet-dVs .cardoutletlanding-uzy .outlet7-guF .jual-makanan-tradisional-surabaya-SvM {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .section2-LFs
+  .slider-outlet-dVs
+  .cardoutletlanding-uzy
+  .outlet7-guF
+  .jual-makanan-tradisional-surabaya-SvM {
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
 .landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .group-399-iss {
@@ -802,7 +1260,11 @@ body {
   display: flex;
   align-items: flex-end;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .group-399-iss .lihat-semua-djw {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .group-399-iss
+  .lihat-semua-djw {
   margin: 0rem 2.825rem 0.313rem 0rem;
   display: flex;
   align-items: center;
@@ -812,11 +1274,15 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-2-uAZ .group-399-iss .iconly-bold-arrow-right-3-WYq {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-2-uAZ
+  .group-399-iss
+  .iconly-bold-arrow-right-3-WYq {
   width: 3.15rem;
   height: 2.0757rem;
   object-fit: contain;
@@ -833,7 +1299,11 @@ body {
   top: 54.5rem;
   display: flex;
   align-items: center;
-  background: linear-gradient(181.01deg, #ceff9d 121.29%, rgba(206, 255, 157, 0) 204.58%);
+  background: linear-gradient(
+    181.01deg,
+    #ceff9d 121.29%,
+    rgba(206, 255, 157, 0) 204.58%
+  );
 }
 .landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .produk-htD {
   margin: 0rem 12.485rem 35.6rem 0rem;
@@ -845,18 +1315,25 @@ body {
   line-height: 0.5333333333;
   letter-spacing: -0.045rem;
   color: #000000;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .section-status-BoP {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .section-status-BoP {
   margin: 0rem 12.875rem 64rem 0rem;
   height: 10rem;
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .section-status-BoP .member-txh {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .section-status-BoP
+  .member-txh {
   margin-right: 14.39rem;
   width: 32.025rem;
   height: 100%;
@@ -865,7 +1342,12 @@ body {
   border-radius: 2rem;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .section-status-BoP .member-txh .desain-tanpa-judul-26-1-23K {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .section-status-BoP
+  .member-txh
+  .desain-tanpa-judul-26-1-23K {
   width: 11rem;
   height: 7.8rem;
   position: absolute;
@@ -874,7 +1356,12 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .section-status-BoP .member-txh .member-XVs {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .section-status-BoP
+  .member-txh
+  .member-XVs {
   width: 12.7rem;
   height: 2.4rem;
   position: absolute;
@@ -888,10 +1375,15 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .section-status-BoP .member-txh .bronze-bEq {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .section-status-BoP
+  .member-txh
+  .bronze-bEq {
   width: 8.4rem;
   height: 2.4rem;
   position: absolute;
@@ -905,10 +1397,14 @@ body {
   line-height: 0.96;
   letter-spacing: -0.025rem;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .section-status-BoP .member-3cd {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .section-status-BoP
+  .member-3cd {
   box-sizing: border-box;
   padding: 0.5rem 13.31rem 0.5rem 1.7rem;
   height: 100%;
@@ -918,7 +1414,12 @@ body {
   border-radius: 2rem;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .section-status-BoP .member-3cd .desain-tanpa-judul-27-1-xjb {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .section-status-BoP
+  .member-3cd
+  .desain-tanpa-judul-27-1-xjb {
   margin: 0rem 0.115rem 1.4rem 0rem;
   width: 10.4rem;
   height: 7.6rem;
@@ -926,13 +1427,24 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .section-status-BoP .member-3cd .auto-group-x4q3-TRT {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .section-status-BoP
+  .member-3cd
+  .auto-group-x4q3-TRT {
   margin: 1.3rem 0rem 1.6rem 0rem;
   width: 6.5rem;
   height: calc(100% - 2.9rem);
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .section-status-BoP .member-3cd .auto-group-x4q3-TRT .poin-xd7 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .section-status-BoP
+  .member-3cd
+  .auto-group-x4q3-TRT
+  .poin-xd7 {
   margin-bottom: 1.3rem;
   width: 100%;
   display: flex;
@@ -943,10 +1455,16 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .section-status-BoP .member-3cd .auto-group-x4q3-TRT .item-0-fXX {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .section-status-BoP
+  .member-3cd
+  .auto-group-x4q3-TRT
+  .item-0-fXX {
   width: 100%;
   display: flex;
   align-items: center;
@@ -956,7 +1474,7 @@ body {
   line-height: 0.96;
   letter-spacing: -0.025rem;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
 .landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .group-400-ZN1 {
@@ -967,7 +1485,11 @@ body {
   align-items: flex-end;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .group-400-ZN1 .lihat-semua-rru {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .group-400-ZN1
+  .lihat-semua-rru {
   margin: 0rem 2.825rem 0.313rem 0rem;
   display: flex;
   align-items: center;
@@ -977,11 +1499,15 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .section-1-2n5 .group-400-ZN1 .iconly-bold-arrow-right-3-MHs {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .section-1-2n5
+  .group-400-ZN1
+  .iconly-bold-arrow-right-3-MHs {
   width: 3.15rem;
   height: 2.0757rem;
   object-fit: contain;
@@ -1002,7 +1528,7 @@ body {
   line-height: 0.5333333333;
   letter-spacing: -0.045rem;
   color: #000000;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
 .landing-page-member-4RX .auto-group-k8my-aPB .hero-fix-4bb {
@@ -1019,7 +1545,11 @@ body {
   overflow: hidden;
   position: relative;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .hero-fix-4bb .hero-o3P .rectangle-168-M4u {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .hero-fix-4bb
+  .hero-o3P
+  .rectangle-168-M4u {
   width: 156.8rem;
   height: 63.2rem;
   object-fit: cover;
@@ -1035,7 +1565,10 @@ body {
   top: 93.7rem;
   background-color: #ffffff;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7 {
   box-sizing: border-box;
   padding-left: 0.7rem;
   width: 100%;
@@ -1045,14 +1578,23 @@ body {
   display: flex;
   align-items: center;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-5QD {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-5QD {
   margin: 0.227rem 2.3rem 0rem 0rem;
   width: 36.9rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-5QD .rectangle-91-BTF {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-5QD
+  .rectangle-91-BTF {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -1061,7 +1603,12 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-5QD .rectangle-90-HmB {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-5QD
+  .rectangle-90-HmB {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -1071,7 +1618,12 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-5QD .lontong-balap-cYZ {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-5QD
+  .lontong-balap-cYZ {
   width: 34.65rem;
   height: 15.7rem;
   position: absolute;
@@ -1081,7 +1633,13 @@ body {
   display: flex;
   flex-direction: column;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-5QD .lontong-balap-cYZ .lontong-balap-Wtq {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-5QD
+  .lontong-balap-cYZ
+  .lontong-balap-Wtq {
   margin-bottom: 1.4rem;
   width: 100%;
   text-align: center;
@@ -1090,11 +1648,17 @@ body {
   line-height: 0.96;
   letter-spacing: -0.025rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-5QD .lontong-balap-cYZ .jual-aneka-bahan-pembuatan-lontong-balap-DHT {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-5QD
+  .lontong-balap-cYZ
+  .jual-aneka-bahan-pembuatan-lontong-balap-DHT {
   margin: 0rem 11.55rem 1.2rem 0rem;
   max-width: 23.1rem;
   font-size: 2rem;
@@ -1102,10 +1666,16 @@ body {
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-5QD .lontong-balap-cYZ .mulai-harga-gB3 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-5QD
+  .lontong-balap-cYZ
+  .mulai-harga-gB3 {
   margin-bottom: 1.1rem;
   width: 100%;
   text-align: center;
@@ -1114,11 +1684,17 @@ body {
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ceff9d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-5QD .lontong-balap-cYZ .rp5000-b37 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-5QD
+  .lontong-balap-cYZ
+  .rp5000-b37 {
   width: 100%;
   text-align: center;
   font-size: 3.6rem;
@@ -1126,11 +1702,16 @@ body {
   line-height: 0.6666666667;
   letter-spacing: -0.036rem;
   color: #ffb000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-5QD .group-hbw {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-5QD
+  .group-hbw {
   opacity: 0;
   box-sizing: border-box;
   padding: 2.75rem 3.671rem 2.75rem 3.251rem;
@@ -1142,22 +1723,37 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/vector-ybf.png');
+  background-image: url("../assets/vector-ybf.png");
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-5QD .group-hbw .vector-avd {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-5QD
+  .group-hbw
+  .vector-avd {
   width: 1.4784rem;
   height: 3.0005rem;
   object-fit: contain;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-uT7 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-uT7 {
   margin: 0.227rem 2.3rem 0rem 0rem;
   width: 36.9rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-uT7 .rectangle-91-DTo {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-uT7
+  .rectangle-91-DTo {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -1166,7 +1762,12 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-uT7 .rectangle-90-jS9 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-uT7
+  .rectangle-90-jS9 {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -1176,7 +1777,12 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-uT7 .tahu-tek-TN9 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-uT7
+  .tahu-tek-TN9 {
   width: 33.85rem;
   height: 15.7rem;
   position: absolute;
@@ -1186,7 +1792,13 @@ body {
   display: flex;
   flex-direction: column;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-uT7 .tahu-tek-TN9 .tahu-tek-m7w {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-uT7
+  .tahu-tek-TN9
+  .tahu-tek-m7w {
   margin-bottom: 1.4rem;
   width: 100%;
   text-align: center;
@@ -1195,11 +1807,17 @@ body {
   line-height: 0.96;
   letter-spacing: -0.025rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-uT7 .tahu-tek-TN9 .jual-aneka-bahan-pembuatan-tahu-tek-fDK {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-uT7
+  .tahu-tek-TN9
+  .jual-aneka-bahan-pembuatan-tahu-tek-fDK {
   margin: 0rem 15.45rem 1.2rem 0rem;
   max-width: 18.4rem;
   font-size: 2rem;
@@ -1207,10 +1825,16 @@ body {
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-uT7 .tahu-tek-TN9 .mulai-harga-vuw {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-uT7
+  .tahu-tek-TN9
+  .mulai-harga-vuw {
   margin-bottom: 1.1rem;
   width: 100%;
   text-align: center;
@@ -1219,11 +1843,17 @@ body {
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ceff9d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-uT7 .tahu-tek-TN9 .rp5000-2TB {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-uT7
+  .tahu-tek-TN9
+  .rp5000-2TB {
   width: 100%;
   text-align: center;
   font-size: 3.6rem;
@@ -1231,18 +1861,27 @@ body {
   line-height: 0.6666666667;
   letter-spacing: -0.036rem;
   color: #ffb000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-Xeq {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-Xeq {
   margin: 0.4rem 2.3rem 0rem 0rem;
   width: 36.9rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-Xeq .rectangle-91-2rV {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-Xeq
+  .rectangle-91-2rV {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -1251,7 +1890,12 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-Xeq .rectangle-90-wyT {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-Xeq
+  .rectangle-90-wyT {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -1261,7 +1905,12 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-Xeq .rujak-cingur-s6R {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-Xeq
+  .rujak-cingur-s6R {
   width: 33.85rem;
   height: 15.7rem;
   position: absolute;
@@ -1271,7 +1920,13 @@ body {
   display: flex;
   flex-direction: column;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-Xeq .rujak-cingur-s6R .rujak-cingur-MXP {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-Xeq
+  .rujak-cingur-s6R
+  .rujak-cingur-MXP {
   margin-bottom: 1.4rem;
   width: 100%;
   text-align: center;
@@ -1280,11 +1935,17 @@ body {
   line-height: 0.96;
   letter-spacing: -0.025rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-Xeq .rujak-cingur-s6R .jual-aneka-bahan-pembuatan-rujak-cingur-Fsf {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-Xeq
+  .rujak-cingur-s6R
+  .jual-aneka-bahan-pembuatan-rujak-cingur-Fsf {
   margin: 0rem 12.25rem 1.2rem 0rem;
   max-width: 21.6rem;
   font-size: 2rem;
@@ -1292,10 +1953,16 @@ body {
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-Xeq .rujak-cingur-s6R .mulai-harga-XKP {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-Xeq
+  .rujak-cingur-s6R
+  .mulai-harga-XKP {
   margin-bottom: 1.1rem;
   width: 100%;
   text-align: center;
@@ -1304,11 +1971,17 @@ body {
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ceff9d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-Xeq .rujak-cingur-s6R .rp5000-Ejb {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-Xeq
+  .rujak-cingur-s6R
+  .rp5000-Ejb {
   width: 100%;
   text-align: center;
   font-size: 3.6rem;
@@ -1316,18 +1989,27 @@ body {
   line-height: 0.6666666667;
   letter-spacing: -0.036rem;
   color: #ffb000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-9bf {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-9bf {
   margin: 0rem 2.3rem 0.373rem 0rem;
   width: 36.9rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-9bf .rectangle-91-fK7 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-9bf
+  .rectangle-91-fK7 {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -1336,7 +2018,12 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-9bf .rectangle-90-Mxd {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-9bf
+  .rectangle-90-Mxd {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -1346,7 +2033,12 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-9bf .pecel-surabaya-tSm {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-9bf
+  .pecel-surabaya-tSm {
   width: 33.8719rem;
   height: 15.7rem;
   position: absolute;
@@ -1356,7 +2048,13 @@ body {
   display: flex;
   flex-direction: column;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-9bf .pecel-surabaya-tSm .pecel-surabaya-b6H {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-9bf
+  .pecel-surabaya-tSm
+  .pecel-surabaya-b6H {
   margin-bottom: 1.4rem;
   width: 100%;
   text-align: center;
@@ -1365,11 +2063,17 @@ body {
   line-height: 0.96;
   letter-spacing: -0.025rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-9bf .pecel-surabaya-tSm .jual-aneka-bahan-pembuatan-pecel-surabaya-Hjo {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-9bf
+  .pecel-surabaya-tSm
+  .jual-aneka-bahan-pembuatan-pecel-surabaya-Hjo {
   margin: 0rem 9.85rem 1.2rem 0rem;
   max-width: 24rem;
   font-size: 2rem;
@@ -1377,10 +2081,16 @@ body {
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-9bf .pecel-surabaya-tSm .mulai-harga-xL9 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-9bf
+  .pecel-surabaya-tSm
+  .mulai-harga-xL9 {
   margin-bottom: 1.1rem;
   width: 100%;
   text-align: center;
@@ -1389,11 +2099,17 @@ body {
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ceff9d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-9bf .pecel-surabaya-tSm .rp5000-4ty {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-9bf
+  .pecel-surabaya-tSm
+  .rp5000-4ty {
   width: 100%;
   text-align: center;
   font-size: 3.6rem;
@@ -1401,11 +2117,16 @@ body {
   line-height: 0.6666666667;
   letter-spacing: -0.036rem;
   color: #ffb000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-9bf .group-Bih {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-9bf
+  .group-Bih {
   box-sizing: border-box;
   padding: 2.75rem 3.173rem 2.75rem 3.583rem;
   width: 8.2rem;
@@ -1417,29 +2138,50 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/vector-QaV.png');
+  background-image: url("../assets/vector-QaV.png");
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .cardoutletlanding-9bf .group-Bih .vector-Uho {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .cardoutletlanding-9bf
+  .group-Bih
+  .vector-Uho {
   width: 1.4432rem;
   height: 3.0005rem;
   object-fit: contain;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-qs9h-C81 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-qs9h-C81 {
   margin: 0rem 2.2rem 0.373rem 0rem;
   width: 37rem;
   height: 47.7273rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-qs9h-C81 .cardoutletlanding-6UH {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-qs9h-C81
+  .cardoutletlanding-6UH {
   width: 36.9rem;
   height: 47.7273rem;
   position: absolute;
   left: 0;
   top: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-qs9h-C81 .cardoutletlanding-6UH .rectangle-91-qAy {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-qs9h-C81
+  .cardoutletlanding-6UH
+  .rectangle-91-qAy {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -1448,7 +2190,13 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-qs9h-C81 .cardoutletlanding-6UH .rectangle-90-Yr5 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-qs9h-C81
+  .cardoutletlanding-6UH
+  .rectangle-90-Yr5 {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -1458,7 +2206,12 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-qs9h-C81 .semanggi-Ty3 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-qs9h-C81
+  .semanggi-Ty3 {
   width: 35.2rem;
   height: 15.7rem;
   position: absolute;
@@ -1468,7 +2221,13 @@ body {
   display: flex;
   flex-direction: column;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-qs9h-C81 .semanggi-Ty3 .semanggi-a25 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-qs9h-C81
+  .semanggi-Ty3
+  .semanggi-a25 {
   margin-bottom: 1.4rem;
   width: 100%;
   text-align: center;
@@ -1477,22 +2236,34 @@ body {
   line-height: 0.96;
   letter-spacing: -0.025rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-qs9h-C81 .semanggi-Ty3 .jual-aneka-bahan-pembuatan-semanggi-Gfb {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-qs9h-C81
+  .semanggi-Ty3
+  .jual-aneka-bahan-pembuatan-semanggi-Gfb {
   margin-bottom: 3.6rem;
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-qs9h-C81 .semanggi-Ty3 .mulai-harga-ZPo {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-qs9h-C81
+  .semanggi-Ty3
+  .mulai-harga-ZPo {
   margin-bottom: 1.1rem;
   width: 100%;
   text-align: center;
@@ -1501,11 +2272,17 @@ body {
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ceff9d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-qs9h-C81 .semanggi-Ty3 .rp5000-4LZ {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-qs9h-C81
+  .semanggi-Ty3
+  .rp5000-4LZ {
   width: 100%;
   text-align: center;
   font-size: 3.6rem;
@@ -1513,25 +2290,40 @@ body {
   line-height: 0.6666666667;
   letter-spacing: -0.036rem;
   color: #ffb000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm {
   margin-bottom: 0.3727rem;
   width: 78.3rem;
   height: calc(100% - 0.3727rem);
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .cardoutletlanding-gsj {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .cardoutletlanding-gsj {
   width: 36.9rem;
   height: 47.7273rem;
   position: absolute;
   left: 0;
   top: 0.4rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .cardoutletlanding-gsj .rectangle-91-1v1 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .cardoutletlanding-gsj
+  .rectangle-91-1v1 {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -1540,7 +2332,13 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .cardoutletlanding-gsj .rectangle-90-8zd {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .cardoutletlanding-gsj
+  .rectangle-90-8zd {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -1550,14 +2348,25 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .cardoutletlanding-mGu {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .cardoutletlanding-mGu {
   width: 36.9rem;
   height: 47.7273rem;
   position: absolute;
   left: 39.2rem;
   top: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .cardoutletlanding-mGu .rectangle-91-6KB {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .cardoutletlanding-mGu
+  .rectangle-91-6KB {
   width: 36.9rem;
   height: 21rem;
   position: absolute;
@@ -1566,7 +2375,13 @@ body {
   background-color: #3dbc3d;
   border-radius: 1.5rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .cardoutletlanding-mGu .rectangle-90-cYR {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .cardoutletlanding-mGu
+  .rectangle-90-cYR {
   width: 36.9rem;
   height: 29.037rem;
   position: absolute;
@@ -1576,7 +2391,12 @@ body {
   vertical-align: top;
   border-radius: 0.7rem;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .semanggi-vp1 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .semanggi-vp1 {
   width: 38.0719rem;
   height: 15.7rem;
   position: absolute;
@@ -1586,7 +2406,13 @@ body {
   display: flex;
   flex-direction: column;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .semanggi-vp1 .tahu-campur-qAH {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .semanggi-vp1
+  .tahu-campur-qAH {
   margin: 0rem 23.372rem 1.4rem 0rem;
   text-align: center;
   font-size: 2.5rem;
@@ -1594,22 +2420,34 @@ body {
   line-height: 0.96;
   letter-spacing: -0.025rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .semanggi-vp1 .jual-aneka-bahan-pembuatan-tahu-campur-7db {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .semanggi-vp1
+  .jual-aneka-bahan-pembuatan-tahu-campur-7db {
   margin: 0rem 0rem 3.6rem 0.072rem;
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .semanggi-vp1 .mulai-harga-Pr1 {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .semanggi-vp1
+  .mulai-harga-Pr1 {
   margin: 0rem 0rem 1.1rem 18.572rem;
   text-align: center;
   font-size: 2rem;
@@ -1617,11 +2455,17 @@ body {
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ceff9d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .semanggi-vp1 .rp5000-HgV {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .semanggi-vp1
+  .rp5000-HgV {
   margin-left: 16.3719rem;
   text-align: center;
   font-size: 3.6rem;
@@ -1629,11 +2473,16 @@ body {
   line-height: 0.6666666667;
   letter-spacing: -0.036rem;
   color: #ffb000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .semanggi-nNM {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .semanggi-nNM {
   width: 37.6rem;
   height: 15.7rem;
   position: absolute;
@@ -1643,7 +2492,13 @@ body {
   display: flex;
   flex-direction: column;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .semanggi-nNM .soto-gubeng-VGm {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .semanggi-nNM
+  .soto-gubeng-VGm {
   margin: 0rem 23.044rem 1.4rem 0rem;
   text-align: center;
   font-size: 2.5rem;
@@ -1651,22 +2506,34 @@ body {
   line-height: 0.96;
   letter-spacing: -0.025rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .semanggi-nNM .jual-aneka-bahan-pembuatan-soto-gubeng-a3K {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .semanggi-nNM
+  .jual-aneka-bahan-pembuatan-soto-gubeng-a3K {
   margin-bottom: 3.6rem;
   font-size: 2rem;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .semanggi-nNM .mulai-harga-GRw {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .semanggi-nNM
+  .mulai-harga-GRw {
   margin: 0rem 0rem 1.1rem 18.9rem;
   text-align: center;
   font-size: 2rem;
@@ -1674,11 +2541,17 @@ body {
   line-height: 1.2;
   letter-spacing: -0.02rem;
   color: #ceff9d;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-k8my-aPB .produk-makanan-traddisional-GSm .slider-product-makanan-Mj7 .auto-group-stxv-mkm .semanggi-nNM .rp5000-A1X {
+.landing-page-member-4RX
+  .auto-group-k8my-aPB
+  .produk-makanan-traddisional-GSm
+  .slider-product-makanan-Mj7
+  .auto-group-stxv-mkm
+  .semanggi-nNM
+  .rp5000-A1X {
   margin-left: 16.7rem;
   text-align: center;
   font-size: 3.6rem;
@@ -1686,7 +2559,7 @@ body {
   line-height: 0.6666666667;
   letter-spacing: -0.036rem;
   color: #ffb000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -1703,13 +2576,20 @@ body {
   left: 0;
   top: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .section-3-Mrh .rectangle-165-HEZ {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .section-3-Mrh
+  .rectangle-165-HEZ {
   width: 151.2rem;
   height: 84.7rem;
   position: absolute;
   left: 0;
   top: 0;
-  background: linear-gradient(180deg, #ceff9d 70.83%, rgba(206, 255, 157, 0) 100%);
+  background: linear-gradient(
+    180deg,
+    #ceff9d 70.83%,
+    rgba(206, 255, 157, 0) 100%
+  );
 }
 .landing-page-member-4RX .auto-group-er5v-dfo .section-3-Mrh .section3-AZF {
   width: 151.2rem;
@@ -1719,7 +2599,11 @@ body {
   top: 16.8426rem;
   border-radius: 2rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .section-3-Mrh .section3-AZF .rectangle-87-tk9 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .section-3-Mrh
+  .section3-AZF
+  .rectangle-87-tk9 {
   width: 100%;
   height: 56.3736rem;
   background-color: #ffffff;
@@ -1739,7 +2623,7 @@ body {
   line-height: 0.5333333333;
   letter-spacing: -0.045rem;
   color: #000000;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
 .landing-page-member-4RX .auto-group-er5v-dfo .section-3-Mrh .lihat-semua-s6H {
@@ -1756,10 +2640,13 @@ body {
   line-height: 0.8;
   letter-spacing: -0.03rem;
   color: #000000;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .section-3-Mrh .iconly-bold-arrow-right-3-XRj {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .section-3-Mrh
+  .iconly-bold-arrow-right-3-XRj {
   width: 3.15rem;
   height: 2.0757rem;
   position: absolute;
@@ -1789,14 +2676,22 @@ body {
   flex-direction: column;
   background-color: #049904;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .pemisah-onZ {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .pemisah-onZ {
   margin-bottom: 1.6rem;
   width: 100%;
   height: 0.1rem;
   background-color: #000000;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK {
   margin: 0rem 15.3rem 2.4rem 2.8rem;
   width: calc(100% - 18.1rem);
   height: 26.2rem;
@@ -1804,20 +2699,38 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .quotes-2fK {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .quotes-2fK {
   height: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .quotes-2fK .auto-group-muak-yKf {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .quotes-2fK
+  .auto-group-muak-yKf {
   margin-bottom: 0.6rem;
   width: 6.9001rem;
   height: 2.4rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .quotes-2fK .auto-group-muak-yKf .tagline-6fB {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .quotes-2fK
+  .auto-group-muak-yKf
+  .tagline-6fB {
   width: 6.4rem;
   height: 2.4rem;
   position: absolute;
@@ -1831,26 +2744,49 @@ body {
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Arial, 'Source Sans Pro';
+  font-family: Arial, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .quotes-2fK .auto-group-muak-yKf .tagline-6fB .tagline-6fB-sub-0 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .quotes-2fK
+  .auto-group-muak-yKf
+  .tagline-6fB
+  .tagline-6fB-sub-0 {
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .quotes-2fK .auto-group-muak-yKf .tagline-6fB .tagline-6fB-sub-1 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .quotes-2fK
+  .auto-group-muak-yKf
+  .tagline-6fB
+  .tagline-6fB-sub-1 {
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffff00;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .quotes-2fK .auto-group-muak-yKf .line-23-fER {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .quotes-2fK
+  .auto-group-muak-yKf
+  .line-23-fER {
   width: 6.9001rem;
   height: 0;
   position: absolute;
@@ -1859,7 +2795,13 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .quotes-2fK .tujuan-kami-bukan-menciptakan-bisnis-yang-besar-tetapi-membangun-sesuatu-yang-membuat-perubahan-besar-acH {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .quotes-2fK
+  .tujuan-kami-bukan-menciptakan-bisnis-yang-besar-tetapi-membangun-sesuatu-yang-membuat-perubahan-besar-acH {
   margin-bottom: 0.8rem;
   max-width: 25.9rem;
   font-size: 1.3rem;
@@ -1868,10 +2810,16 @@ body {
   letter-spacing: -0.013rem;
   font-style: italic;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .quotes-2fK .semua-impian-kita-menjadi-kanyataan-jika-kita-mempunyai-keberanian-unutk-mengerjakannya-walt-disney-2DP {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .quotes-2fK
+  .semua-impian-kita-menjadi-kanyataan-jika-kita-mempunyai-keberanian-unutk-mengerjakannya-walt-disney-2DP {
   margin: 0rem 0rem 0.8rem 5.3rem;
   max-width: 25.7rem;
   font-size: 1.3rem;
@@ -1880,10 +2828,16 @@ body {
   letter-spacing: -0.013rem;
   font-style: italic;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .quotes-2fK .wirausahawan-sejadi-meciptakan-peluang-bisnis-sedangkan-wirausahawan-bisa-fokus-mengejar-uang-TZb {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .quotes-2fK
+  .wirausahawan-sejadi-meciptakan-peluang-bisnis-sedangkan-wirausahawan-bisa-fokus-mengejar-uang-TZb {
   margin-left: 13.5rem;
   max-width: 28.1rem;
   font-size: 1.3rem;
@@ -1892,10 +2846,15 @@ body {
   letter-spacing: -0.013rem;
   font-style: italic;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP {
   box-sizing: border-box;
   padding-left: 7.4rem;
   height: 100%;
@@ -1903,7 +2862,13 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX {
   margin-right: 12.8rem;
   width: 25.5rem;
   row-gap: 0.6rem;
@@ -1911,13 +2876,28 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .auto-group-fw5m-kBK {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .auto-group-fw5m-kBK {
   width: 7.4rem;
   height: 2.4rem;
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .auto-group-fw5m-kBK .line-24-5UV {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .auto-group-fw5m-kBK
+  .line-24-5UV {
   width: 7.4rem;
   height: 0;
   position: absolute;
@@ -1926,7 +2906,15 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .auto-group-fw5m-kBK .aboutus-ovH {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .auto-group-fw5m-kBK
+  .aboutus-ovH {
   width: 7rem;
   height: 2.4rem;
   position: absolute;
@@ -1940,26 +2928,51 @@ body {
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Arial, 'Source Sans Pro';
+  font-family: Arial, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .auto-group-fw5m-kBK .aboutus-ovH .aboutus-ovH-sub-0 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .auto-group-fw5m-kBK
+  .aboutus-ovH
+  .aboutus-ovH-sub-0 {
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .auto-group-fw5m-kBK .aboutus-ovH .aboutus-ovH-sub-1 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .auto-group-fw5m-kBK
+  .aboutus-ovH
+  .aboutus-ovH-sub-1 {
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffff00;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .group-263-4Uq {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .group-263-4Uq {
   margin-left: 0.1rem;
   box-sizing: border-box;
   padding-left: 0.3125rem;
@@ -1968,7 +2981,15 @@ body {
   align-items: flex-start;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .group-263-4Uq .location-ybo {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .group-263-4Uq
+  .location-ybo {
   margin: 0.725rem 0.513rem 0rem 0rem;
   width: 0.875rem;
   height: 1.3029rem;
@@ -1976,24 +2997,47 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .group-263-4Uq .jl-dharmawangsa-no138-d-airlangga-kec-gubeng-surabaya-jawa-timur-60282-fjX {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .group-263-4Uq
+  .jl-dharmawangsa-no138-d-airlangga-kec-gubeng-surabaya-jawa-timur-60282-fjX {
   max-width: 23.7rem;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.7142857143;
   letter-spacing: -0.014rem;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .group-264-YoK {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .group-264-YoK {
   margin: 0rem 3.6rem 0rem 0rem;
   width: calc(100% - 3.6rem);
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .group-264-YoK .icon-envelope-closed-sKo {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .group-264-YoK
+  .icon-envelope-closed-sKo {
   margin: 0.2rem 0.5rem 0rem 0rem;
   width: 1.6rem;
   height: 1.2rem;
@@ -2001,18 +3045,33 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .group-264-YoK .foodysbussinesgmailcom-NXT {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .group-264-YoK
+  .foodysbussinesgmailcom-NXT {
   display: flex;
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.7142857143;
   letter-spacing: -0.014rem;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .group-265-sj7 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .group-265-sj7 {
   margin: 0rem 13.5rem 0rem 0rem;
   box-sizing: border-box;
   padding-left: 0.1333rem;
@@ -2021,7 +3080,15 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .group-265-sj7 .calling-z33 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .group-265-sj7
+  .calling-z33 {
   margin: 0rem 0.633rem 0.1rem 0rem;
   width: 1.3333rem;
   height: 1.25rem;
@@ -2029,106 +3096,200 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .about-us-SRX .group-265-sj7 .item-0274-2885822-hi9 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .about-us-SRX
+  .group-265-sj7
+  .item-0274-2885822-hi9 {
   font-size: 1.4rem;
   font-weight: 400;
   line-height: 1.7142857143;
   letter-spacing: -0.014rem;
   font-style: italic;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .comunity-CQ1 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .comunity-CQ1 {
   margin-right: 7.9954rem;
   width: 9.7046rem;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .comunity-CQ1 .comunity-KjX {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .comunity-CQ1
+  .comunity-KjX {
   margin: 0rem 0rem 0.1rem 1.2rem;
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Arial, 'Source Sans Pro';
+  font-family: Arial, "Source Sans Pro";
   white-space: nowrap;
   display: flex;
   align-items: baseline;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .comunity-CQ1 .comunity-KjX .comunity-KjX-sub-0 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .comunity-CQ1
+  .comunity-KjX
+  .comunity-KjX-sub-0 {
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .comunity-CQ1 .comunity-KjX .comunity-KjX-sub-1 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .comunity-CQ1
+  .comunity-KjX
+  .comunity-KjX-sub-1 {
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffff00;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .comunity-CQ1 .line-26-o2R {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .comunity-CQ1
+  .line-26-o2R {
   margin-bottom: 1.4rem;
   width: 100%;
   height: 0.1rem;
   background-color: #000000;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .comunity-CQ1 .group-266-6GR {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .comunity-CQ1
+  .group-266-6GR {
   width: 6.7rem;
   height: 3rem;
   position: relative;
   object-fit: contain;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .sosmed-pTK {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .sosmed-pTK {
   margin-top: 0.1rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .sosmed-pTK .social-media-kLy {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .sosmed-pTK
+  .social-media-kLy {
   margin-left: 0.2rem;
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Arial, 'Source Sans Pro';
+  font-family: Arial, "Source Sans Pro";
   white-space: nowrap;
   display: flex;
   align-items: baseline;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .sosmed-pTK .social-media-kLy .social-media-kLy-sub-0 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .sosmed-pTK
+  .social-media-kLy
+  .social-media-kLy-sub-0 {
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .sosmed-pTK .social-media-kLy .social-media-kLy-sub-1 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .sosmed-pTK
+  .social-media-kLy
+  .social-media-kLy-sub-1 {
   font-size: 1.6rem;
   font-weight: 700;
   line-height: 1.5;
   letter-spacing: -0.016rem;
   color: #ffff00;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .sosmed-pTK .line-25-TPo {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .sosmed-pTK
+  .line-25-TPo {
   margin-bottom: 1.4rem;
   width: 10.0045rem;
   height: 0.1rem;
   background-color: #000000;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .isi-footer-jRK .auto-group-rjyb-uwP .sosmed-pTK .list-sosmed-zPj {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .isi-footer-jRK
+  .auto-group-rjyb-uwP
+  .sosmed-pTK
+  .list-sosmed-zPj {
   width: 14.1rem;
   height: 3rem;
   position: relative;
@@ -2136,14 +3297,22 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .pemisah-XPf {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .pemisah-XPf {
   margin-bottom: 3.3rem;
   width: 100%;
   height: 0.1rem;
   background-color: #000000;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .mark-list-4eV {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .mark-list-4eV {
   margin: 0rem 21.2rem 0rem 33.9rem;
   width: calc(100% - 55.1rem);
   align-items: center;
@@ -2151,24 +3320,34 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .mark-list-4eV .copyright-2023-by-foodys-all-rights-reserved-mYu {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .mark-list-4eV
+  .copyright-2023-by-foodys-all-rights-reserved-mYu {
   margin: 0rem 9.6rem 1.7rem 0rem;
   font-size: 1.3rem;
   font-weight: 700;
   line-height: 1.8461538462;
   letter-spacing: -0.013rem;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .footer-cxy .footer-wVT .mark-list-4eV .terima-kasih-telah-mengunjungi-foodys-jangan-ragu-untuk-menghubungi-kami-jika-anda-memiliki-pertanyaan-atau-saran-e6u {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .footer-cxy
+  .footer-wVT
+  .mark-list-4eV
+  .terima-kasih-telah-mengunjungi-foodys-jangan-ragu-untuk-menghubungi-kami-jika-anda-memiliki-pertanyaan-atau-saran-e6u {
   font-size: 1.3rem;
   font-weight: 700;
   line-height: 1.8461538462;
   letter-spacing: -0.013rem;
   color: #ffffff;
-  font-family: Poppins, 'Source Sans Pro';
+  font-family: Poppins, "Source Sans Pro";
   white-space: nowrap;
   flex-shrink: 0;
 }
@@ -2206,14 +3385,23 @@ body {
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-xw1d-G1o .card-zCh {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-xw1d-G1o
+  .card-zCh {
   width: 45.7rem;
   height: 58.1rem;
   position: absolute;
   left: 0.2094rem;
   top: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-xw1d-G1o .card-zCh .nama-produk-harga-7HK {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-xw1d-G1o
+  .card-zCh
+  .nama-produk-harga-7HK {
   width: 45.7rem;
   height: 35.5rem;
   position: absolute;
@@ -2222,7 +3410,12 @@ body {
   background-color: #3dbc3d;
   border-radius: 0.5rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-xw1d-G1o .card-zCh .rectangle-167-2fB {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-xw1d-G1o
+  .card-zCh
+  .rectangle-167-2fB {
   width: 45.6665rem;
   height: 30.7707rem;
   position: absolute;
@@ -2231,14 +3424,25 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-xw1d-G1o .card-zCh .tutorial-ZQD {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-xw1d-G1o
+  .card-zCh
+  .tutorial-ZQD {
   width: 42rem;
   height: 23.5rem;
   position: absolute;
   left: 1.4rem;
   top: 32.6rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-xw1d-G1o .card-zCh .tutorial-ZQD .tutorial-masak-lontong-balap-Un5 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-xw1d-G1o
+  .card-zCh
+  .tutorial-ZQD
+  .tutorial-masak-lontong-balap-Un5 {
   margin-bottom: 1rem;
   width: 100%;
   text-align: center;
@@ -2247,20 +3451,32 @@ body {
   line-height: 0.9230769231;
   letter-spacing: -0.026rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-xw1d-G1o .card-zCh .tutorial-ZQD .september-30-2023-BRb {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-xw1d-G1o
+  .card-zCh
+  .tutorial-ZQD
+  .september-30-2023-BRb {
   margin: 0rem 0rem 0.9rem 0.2rem;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.3333333333;
   letter-spacing: -0.018rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-xw1d-G1o .card-zCh .tutorial-ZQD .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-HUd {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-xw1d-G1o
+  .card-zCh
+  .tutorial-ZQD
+  .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-HUd {
   margin-left: 0.2rem;
   max-width: 41.8rem;
   font-size: 1.7rem;
@@ -2268,9 +3484,13 @@ body {
   line-height: 1.4117647059;
   letter-spacing: -0.017rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-xw1d-G1o .group-tzD {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-xw1d-G1o
+  .group-tzD {
   opacity: 0;
   box-sizing: border-box;
   padding: 3.315rem 3.844rem 3.315rem 3.404rem;
@@ -2282,9 +3502,14 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/vector-7qK.png');
+  background-image: url("../assets/vector-7qK.png");
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-xw1d-G1o .group-tzD .vector-BTX {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-xw1d-G1o
+  .group-tzD
+  .vector-BTX {
   width: 1.548rem;
   height: 3.6168rem;
   object-fit: contain;
@@ -2297,7 +3522,11 @@ body {
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .card-Vz1 .nama-produk-harga-3Vj {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .card-Vz1
+  .nama-produk-harga-3Vj {
   width: 45.7rem;
   height: 35.5rem;
   position: absolute;
@@ -2306,7 +3535,11 @@ body {
   background-color: #3dbc3d;
   border-radius: 0.5rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .card-Vz1 .rectangle-167-yPP {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .card-Vz1
+  .rectangle-167-yPP {
   width: 45.6665rem;
   height: 30.7707rem;
   position: absolute;
@@ -2315,14 +3548,23 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .card-Vz1 .tutorial-hqB {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .card-Vz1
+  .tutorial-hqB {
   width: 42rem;
   height: 23.5rem;
   position: absolute;
   left: 1.8rem;
   top: 32.6rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .card-Vz1 .tutorial-hqB .tutorial-masak-lontong-balap-RWH {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .card-Vz1
+  .tutorial-hqB
+  .tutorial-masak-lontong-balap-RWH {
   margin-bottom: 1rem;
   width: 100%;
   text-align: center;
@@ -2331,20 +3573,30 @@ body {
   line-height: 0.9230769231;
   letter-spacing: -0.026rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .card-Vz1 .tutorial-hqB .september-30-2023-jWy {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .card-Vz1
+  .tutorial-hqB
+  .september-30-2023-jWy {
   margin: 0rem 0rem 0.9rem 0.2rem;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.3333333333;
   letter-spacing: -0.018rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .card-Vz1 .tutorial-hqB .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-e89 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .card-Vz1
+  .tutorial-hqB
+  .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-e89 {
   margin-left: 0.2rem;
   max-width: 41.8rem;
   font-size: 1.7rem;
@@ -2352,7 +3604,7 @@ body {
   line-height: 1.4117647059;
   letter-spacing: -0.017rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
 }
 .landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP {
   margin: 0rem 2.6rem 0.4rem 0rem;
@@ -2361,14 +3613,23 @@ body {
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-NTT {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-NTT {
   width: 45.7rem;
   height: 58.1rem;
   position: absolute;
   left: 0;
   top: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-NTT .nama-produk-harga-WJm {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-NTT
+  .nama-produk-harga-WJm {
   width: 45.7rem;
   height: 35.5rem;
   position: absolute;
@@ -2377,7 +3638,12 @@ body {
   background-color: #3dbc3d;
   border-radius: 0.5rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-NTT .rectangle-167-dPP {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-NTT
+  .rectangle-167-dPP {
   width: 45.6665rem;
   height: 30.7707rem;
   position: absolute;
@@ -2386,14 +3652,25 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-NTT .tutorial-xRf {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-NTT
+  .tutorial-xRf {
   width: 42rem;
   height: 23.5rem;
   position: absolute;
   left: 2.1rem;
   top: 32.6rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-NTT .tutorial-xRf .tutorial-masak-lontong-balap-625 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-NTT
+  .tutorial-xRf
+  .tutorial-masak-lontong-balap-625 {
   margin-bottom: 1rem;
   width: 100%;
   text-align: center;
@@ -2402,20 +3679,32 @@ body {
   line-height: 0.9230769231;
   letter-spacing: -0.026rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-NTT .tutorial-xRf .september-30-2023-uER {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-NTT
+  .tutorial-xRf
+  .september-30-2023-uER {
   margin: 0rem 0rem 0.9rem 0.2rem;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.3333333333;
   letter-spacing: -0.018rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-NTT .tutorial-xRf .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-o4u {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-NTT
+  .tutorial-xRf
+  .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-o4u {
   margin-left: 0.2rem;
   max-width: 41.8rem;
   font-size: 1.7rem;
@@ -2423,16 +3712,25 @@ body {
   line-height: 1.4117647059;
   letter-spacing: -0.017rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-2iM {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-2iM {
   width: 45.7rem;
   height: 58.1rem;
   position: absolute;
   left: 48.3rem;
   top: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-2iM .nama-produk-harga-ZTP {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-2iM
+  .nama-produk-harga-ZTP {
   width: 45.7rem;
   height: 35.5rem;
   position: absolute;
@@ -2441,7 +3739,12 @@ body {
   background-color: #3dbc3d;
   border-radius: 0.5rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-2iM .rectangle-167-5wX {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-2iM
+  .rectangle-167-5wX {
   width: 45.6665rem;
   height: 30.7707rem;
   position: absolute;
@@ -2450,14 +3753,25 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-2iM .tutorial-1qB {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-2iM
+  .tutorial-1qB {
   width: 42rem;
   height: 23.5rem;
   position: absolute;
   left: 1.8rem;
   top: 32.6rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-2iM .tutorial-1qB .tutorial-masak-lontong-balap-jWH {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-2iM
+  .tutorial-1qB
+  .tutorial-masak-lontong-balap-jWH {
   margin-bottom: 1rem;
   width: 100%;
   text-align: center;
@@ -2466,20 +3780,32 @@ body {
   line-height: 0.9230769231;
   letter-spacing: -0.026rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-2iM .tutorial-1qB .september-30-2023-2VP {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-2iM
+  .tutorial-1qB
+  .september-30-2023-2VP {
   margin: 0rem 0rem 0.9rem 0.2rem;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.3333333333;
   letter-spacing: -0.018rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .card-2iM .tutorial-1qB .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-KjP {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .card-2iM
+  .tutorial-1qB
+  .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-KjP {
   margin-left: 0.2rem;
   max-width: 41.8rem;
   font-size: 1.7rem;
@@ -2487,9 +3813,13 @@ body {
   line-height: 1.4117647059;
   letter-spacing: -0.017rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .group-MRB {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .group-MRB {
   box-sizing: border-box;
   padding: 3.009rem 3.599rem 3.009rem 4.064rem;
   width: 9.3rem;
@@ -2501,9 +3831,14 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../assets/vector-Vff.png');
+  background-image: url("../assets/vector-Vff.png");
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-cq9h-TbP .group-MRB .vector-337 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-cq9h-TbP
+  .group-MRB
+  .vector-337 {
   width: 1.6368rem;
   height: 3.2829rem;
   object-fit: contain;
@@ -2515,14 +3850,23 @@ body {
   position: relative;
   flex-shrink: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .card-t3j {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .card-t3j {
   width: 45.7rem;
   height: 58.1rem;
   position: absolute;
   left: 0;
   top: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .card-t3j .nama-produk-harga-RJZ {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .card-t3j
+  .nama-produk-harga-RJZ {
   width: 45.7rem;
   height: 35.5rem;
   position: absolute;
@@ -2531,7 +3875,12 @@ body {
   background-color: #3dbc3d;
   border-radius: 0.5rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .card-t3j .rectangle-167-YPB {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .card-t3j
+  .rectangle-167-YPB {
   width: 45.6665rem;
   height: 30.7707rem;
   position: absolute;
@@ -2540,14 +3889,23 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .card-TW9 {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .card-TW9 {
   width: 45.7rem;
   height: 58.1rem;
   position: absolute;
   left: 48.3rem;
   top: 0;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .card-TW9 .nama-produk-harga-noK {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .card-TW9
+  .nama-produk-harga-noK {
   width: 45.7rem;
   height: 35.5rem;
   position: absolute;
@@ -2556,7 +3914,12 @@ body {
   background-color: #3dbc3d;
   border-radius: 0.5rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .card-TW9 .rectangle-167-WzD {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .card-TW9
+  .rectangle-167-WzD {
   width: 45.6665rem;
   height: 30.7707rem;
   position: absolute;
@@ -2565,14 +3928,23 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .tutorial-S7B {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .tutorial-S7B {
   width: 176.3rem;
   height: 9.1rem;
   position: absolute;
   left: 1.8rem;
   top: 32.6rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .tutorial-S7B .tutorial-masak-lontong-balap-LyF {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .tutorial-S7B
+  .tutorial-masak-lontong-balap-LyF {
   margin-bottom: 1rem;
   width: 100%;
   text-align: center;
@@ -2581,37 +3953,56 @@ body {
   line-height: 0.9230769231;
   letter-spacing: -0.026rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .tutorial-S7B .september-30-2023-FqK {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .tutorial-S7B
+  .september-30-2023-FqK {
   margin: 0rem 0rem 0.9rem 0.2rem;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.3333333333;
   letter-spacing: -0.018rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .tutorial-S7B .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-N9F {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .tutorial-S7B
+  .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-N9F {
   margin-left: 0.2rem;
   font-size: 1.7rem;
   font-weight: 700;
   line-height: 1.4117647059;
   letter-spacing: -0.017rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .tutorial-okM {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .tutorial-okM {
   width: 176.3rem;
   height: 9.1rem;
   position: absolute;
   left: 50.1rem;
   top: 32.6rem;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .tutorial-okM .tutorial-masak-lontong-balap-XAZ {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .tutorial-okM
+  .tutorial-masak-lontong-balap-XAZ {
   margin-bottom: 1rem;
   width: 100%;
   text-align: center;
@@ -2620,26 +4011,168 @@ body {
   line-height: 0.9230769231;
   letter-spacing: -0.026rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .tutorial-okM .september-30-2023-pfT {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .tutorial-okM
+  .september-30-2023-pfT {
   margin: 0rem 0rem 0.9rem 0.2rem;
   font-size: 1.8rem;
   font-weight: 400;
   line-height: 1.3333333333;
   letter-spacing: -0.018rem;
   color: #000000;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
 }
-.landing-page-member-4RX .auto-group-er5v-dfo .blog--Z7P .auto-group-hng3-YkZ .tutorial-okM .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-viV {
+.landing-page-member-4RX
+  .auto-group-er5v-dfo
+  .blog--Z7P
+  .auto-group-hng3-YkZ
+  .tutorial-okM
+  .membuat-kuah-cambah-tauge-haluskan-bawang-putih-bawang-merahtumis-bumbu-halusmasukkan-air-kaldu-beri-garamladagula-kaldu-bubuk-masak-hingga-mendidih-masukkan-taugedaun-bawang-seledri-aduk-rata-kemudian-viV {
   margin-left: 0.2rem;
   font-size: 1.7rem;
   font-weight: 700;
   line-height: 1.4117647059;
   letter-spacing: -0.017rem;
   color: #ffffff;
-  font-family: Roboto, 'Source Sans Pro';
+  font-family: Roboto, "Source Sans Pro";
   white-space: nowrap;
+}
+
+/* CSS for Dropdown */
+.dropdown-member-pXo {
+  width: 100%;
+  height: 23.6rem;
+  margin-left: 1240px;
+  margin-top: 75px;
+}
+.dropdown-member-pXo .dropdown-9a5 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+.dropdown-member-pXo .dropdown-9a5 .polygon-1-hbb {
+  width: 2.625rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 16.59rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.dropdown-member-pXo .dropdown-9a5 .drop-menu-dk9 {
+  width: 20.055rem;
+  height: 22.7rem;
+  position: absolute;
+  left: 0;
+  top: 0.9rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+}
+.dropdown-member-pXo .dropdown-9a5 .logout-a9b {
+  box-sizing: border-box;
+  padding: 0.1rem 5.45rem;
+  width: 15rem;
+  height: 3rem;
+  position: absolute;
+  left: 2.56rem;
+  top: 19.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 900;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Arial, "Source Sans Pro";
+  white-space: nowrap;
+  background-color: #ff0000;
+  border-radius: 0.5rem;
+}
+.dropdown-member-pXo .dropdown-9a5 .keranjang-9ru {
+  width: 15rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.5rem;
+  top: 13.3rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Arial, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #049904;
+  border-radius: 0.5rem;
+}
+.dropdown-member-pXo .dropdown-9a5 .dasboard-cVb {
+  width: 15rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 2.5rem;
+  top: 8.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Arial, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #049904;
+  border-radius: 0.5rem;
+}
+.dropdown-member-pXo .dropdown-9a5 .profile-req {
+  width: 15rem;
+  height: 3rem;
+  position: absolute;
+  left: 2.56rem;
+  top: 3.4rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Arial, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #049904;
+  border-radius: 0.5rem;
+}
+
+.dropdown-member-pXo {
+  display: none;
+  /* Initially hide the dropdown */
+}
+
+/* Additional styles for better appearance */
+.profil-K6Z:hover .dropdown-member-pXo {
+  display: block;
+  /* Show the dropdown on hover */
+}
+
+/* CSS for Dropdown */
+.dropdown-user-CZF.active {
+  display: block;
+}
+
+.dropdown-user-CZF {
+  display: none;
 }

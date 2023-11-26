@@ -14,7 +14,14 @@ input {
 }
 body {
   width: 151.2rem;
-}.produk-page-member-8yw {
+}
+.fd img{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 65px;
+  width: 150px;
+}
+.produk-page-member-8yw {
   width: 100%;
   height: 199.5rem;
   position: relative;
