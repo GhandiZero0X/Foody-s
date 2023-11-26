@@ -14,16 +14,16 @@ input {
 }
 body {
   width: 20.055rem;
-}.dropdown-member-CwK {
+}.dropdown-member-pXo {
   width: 100%;
   height: 23.6rem;
 }
-.dropdown-member-CwK .dropdown-9Lm {
+.dropdown-member-pXo .dropdown-9a5 {
   width: 100%;
   height: 100%;
   position: relative;
 }
-.dropdown-member-CwK .dropdown-9Lm .polygon-1-tZF {
+.dropdown-member-pXo .dropdown-9a5 .polygon-1-hbb {
   width: 2.625rem;
   height: 1.6rem;
   position: absolute;
@@ -32,7 +32,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.dropdown-member-CwK .dropdown-9Lm .drop-menu-1ds {
+.dropdown-member-pXo .dropdown-9a5 .drop-menu-dk9 {
   width: 20.055rem;
   height: 22.7rem;
   position: absolute;
@@ -41,75 +41,26 @@ body {
   background-color: #ffffff;
   border-radius: 0.5rem;
 }
-.dropdown-member-CwK .dropdown-9Lm .logout-9VB {
+.dropdown-member-pXo .dropdown-9a5 .logout-a9b {
+  box-sizing: border-box;
+  padding: 0.1rem 5.45rem;
   width: 15rem;
   height: 3rem;
-  cursor: pointer;
   position: absolute;
   left: 2.56rem;
   top: 19.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 900;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
   background-color: #ff0000;
   border-radius: 0.5rem;
 }
-.dropdown-member-CwK .dropdown-9Lm .profil-Gph {
-  width: 15rem;
-  height: 3rem;
-  cursor: pointer;
-  position: absolute;
-  left: 2.56rem;
-  top: 3.4rem;
-  background-color: #049904;
-  border-radius: 0.5rem;
-}
-.dropdown-member-CwK .dropdown-9Lm .profile-PuK {
-  width: 4.1rem;
-  height: 2.4rem;
-  position: absolute;
-  left: 8.06rem;
-  top: 3.7rem;
-  text-align: center;
-  font-size: 1.4rem;
-  font-weight: 700;
-  line-height: 1.7142857143;
-  letter-spacing: -0.014rem;
-  color: #ffffff;
-  font-family: Arial, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.dropdown-member-CwK .dropdown-9Lm .dasboard-633 {
-  width: 15rem;
-  height: 5.1rem;
-  cursor: pointer;
-  position: absolute;
-  left: 2.5rem;
-  top: 8.2rem;
-  border-radius: 0.5rem;
-}
-.dropdown-member-CwK .dropdown-9Lm .dasboard-633 .profil-pUq {
-  width: 15rem;
-  height: 3rem;
-  position: absolute;
-  left: 0;
-  top: 0;
-  background-color: #049904;
-  border-radius: 0.5rem;
-}
-.dropdown-member-CwK .dropdown-9Lm .dasboard-633 .dasboard-MzZ {
-  width: 5.8rem;
-  height: 2.4rem;
-  position: absolute;
-  left: 4.7rem;
-  top: 0.3rem;
-  text-align: center;
-  font-size: 1.4rem;
-  font-weight: 700;
-  line-height: 1.7142857143;
-  letter-spacing: -0.014rem;
-  color: #ffffff;
-  font-family: Arial, 'Source Sans Pro';
-  white-space: nowrap;
-}
-.dropdown-member-CwK .dropdown-9Lm .dasboard-48H {
+.dropdown-member-pXo .dropdown-9a5 .keranjang-9ru {
   width: 15rem;
   height: 3rem;
   cursor: pointer;
@@ -130,18 +81,44 @@ body {
   background-color: #049904;
   border-radius: 0.5rem;
 }
-.dropdown-member-CwK .dropdown-9Lm .logout-Wky {
-  width: 4.1rem;
-  height: 2.4rem;
+.dropdown-member-pXo .dropdown-9a5 .dasboard-cVb {
+  width: 15rem;
+  height: 3rem;
+  cursor: pointer;
   position: absolute;
-  left: 8.01rem;
-  top: 19.2rem;
+  left: 2.5rem;
+  top: 8.2rem;
   text-align: center;
   font-size: 1.4rem;
-  font-weight: 900;
+  font-weight: 700;
   line-height: 1.7142857143;
   letter-spacing: -0.014rem;
   color: #ffffff;
   font-family: Arial, 'Source Sans Pro';
   white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #049904;
+  border-radius: 0.5rem;
+}
+.dropdown-member-pXo .dropdown-9a5 .profile-req {
+  width: 15rem;
+  height: 3rem;
+  position: absolute;
+  left: 2.56rem;
+  top: 3.4rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.7142857143;
+  letter-spacing: -0.014rem;
+  color: #ffffff;
+  font-family: Arial, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #049904;
+  border-radius: 0.5rem;
 }
