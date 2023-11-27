@@ -74,7 +74,7 @@
           <div class="drop-menu-dk9"></div>
           <div class="logout-a9b">logout</div>
           <div class="keranjang-9ru">Keranjang</div>
-          <div class="dasboard-cVb">Dasboard</div>
+          <div class="dasboard-cVb" onclick="window.location.href='user-admin-home.html'">Dasboard</div>
           <div class="profile-req">Profile</div>
         </div>
       </div>
@@ -639,17 +639,21 @@
           </div>
         </div>
       </div>
+      
     </div>
 
     <script>
-      // Get the profile element and the dropdown
-      const profileDropdown = document.getElementById("profileDropdown");
-      const dropdown = document.querySelector(".dropdown-member-pXo");
+       const profileDropdown = document.getElementById("profileDropdown");
+       const dropdown = document.querySelector(".dropdown-member-pXo");
+     
+     
+   
     
       // Toggle the dropdown visibility when clicking on the profile
       profileDropdown.addEventListener("click", function (event) {
         // Toggle the "active" class on the dropdown
-        dropdown.classList.toggle("active");
+        // dropdown.classList.toggle("active");
+        dropdown.style.display = (dropdown.style.display === 'none') ? 'block' : 'none';
     
         // Stop the event from propagating to the window click event
         event.stopPropagation();
@@ -658,7 +662,8 @@
       // Close the dropdown if the user clicks outside of it
       window.addEventListener("click", function () {
         // Remove the "active" class from the dropdown
-        dropdown.classList.remove("active");
+        // dropdown.classList.remove("active");
+        dropdown.style.display='none';
       });
     
       // Prevent the dropdown from closing when clicking inside it

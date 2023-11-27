@@ -248,6 +248,10 @@
       function showPopup() {
         var popup = document.getElementById("successPopup");
         popup.style.display = "block";
+        setTimeout(function(){
+          window.location.href = "landing-page-member.html";
+        },2000);
+       
       }
 
       function closePopup() {
