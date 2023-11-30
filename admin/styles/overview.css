@@ -13,8 +13,9 @@ input {
 	border: none;
 }
 body {
-  width: 144rem;
-}.overview-da9 {
+  width: 100%;
+}
+.overview-da9 {
   width: 100%;
   height: 314.3rem;
   position: relative;
@@ -2973,7 +2974,7 @@ body {
   flex-shrink: 0;
 }
 .overview-da9 .layout-navbar-admin-H85 {
-  width: 144rem;
+  width: 100%;
   height: 9.1rem;
   position: absolute;
   left: 0;
@@ -3023,14 +3024,11 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
-.overview-da9 .layout-navbar-admin-H85 .foodies-1-Gu7 {
-  width: 30.1rem;
-  height: 27.7rem;
-  position: absolute;
-  left: 2.1rem;
-  top: 0;
-  object-fit: cover;
-  vertical-align: top;
+.fd img{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 65px;
+  width: 150px;
 }
 .overview-da9 .layout-navbar-admin-H85 .dropdown-menu-cCH {
   box-sizing: border-box;
