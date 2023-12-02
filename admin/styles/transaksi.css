@@ -13,7 +13,7 @@ input {
 	border: none;
 }
 body {
-  width: 143.6rem;
+  width: 100%;
 }.transaksi-dNq {
   width: 100%;
   height: 102.4rem;
@@ -1054,7 +1054,7 @@ body {
   white-space: nowrap;
 }
 .transaksi-dNq .layout-navbar-admin-qxV {
-  width: 144rem;
+  width: 100%;
   height: 9.1rem;
   position: absolute;
   left: 0;
