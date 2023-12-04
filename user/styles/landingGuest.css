@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* NAVBAR */
+
+
+.nav-link {
+    color: white;
+    transition: color 0.3s;
+    font-weight: 700;
+  }
+  .nav-link:hover {
+    color: rgb(225, 255, 0);
+  }
+
+  .nav-link.active {
+    color: rgb(225, 255, 0) !important;
+}
+.custom-button {
+    color: white;
+    font-size: 20px;
+    padding: 5px 20px;
+    font-weight: 700;
+  }
+
+  .nav-item a, .nav-item button {
+    margin-right: 10px;
+  }
+
+  .nav-item{
+    margin-left: 10px;
+  }
+
+
+
+/* hero*/
+
+.hero{
+    height: 100%;
+    width: 100%;
+    margin-top: 70px;
+    background-color: #CEFF9D;
+    padding: 80px 0;
+}
+
+
+
+/* GAMBAR */
+.img-fluid {
+    position: relative;
+}
+
+.img-elips {
+    position: absolute;
+    top: 0;
+   
+    left: 200px;
+    /* margin-left: 80px; */
+    width: 22rem;
+    height: 18rem;
+    z-index: 1;
+}
+
+.img-gambar {
+    position: absolute;
+    top: -80px;
+    left: 0;
+    width: 35rem;
+    height: 25rem;
+    z-index: 2;
+    padding: 30px 15px;
+    /* margin-left: 30px; */
+}
+
+
+/* Tulisan */
+.text-custom h2{
+    font-weight:lighter;
+   
+    font-style: italic;
+    font-family:Poppins, 'Source Sans Pro';
+
+
+}
+
+.text-custom h1{
+    font-size: 30px;
+    font-weight: bold;
+    
+
+}
+
+.text-custom h3{
+    color: #049904;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.text-custom p{
+    font-weight: 800;
+}
+
+/* BUTTON */
+
+.button .btn-custom{
+    padding: 20px 20px;
+    background-color:#049904;
+    color: white;
+}
+
+.btn-custom:hover{
+    background-color: #00ff00;
+}
+
+/* END HERO */
+
+/* kendalaa frame*/
+
+ #kendala{
+    background-color: #F9F5F5 ;
+   padding: 80px 0;
+}
+
+#kendala h2 {
+    border-bottom: 10px solid #049904; /* Ubah warna dan ketebalan sesuai kebutuhan */
+    padding-bottom: 10px; /* Sesuaikan jarak antara teks dan garis bawah */
+    display: inline-block; /* Membuat garis bawah hanya sepanjang teks */
+    color: #049904;
+    margin-bottom: 30px;
+    
+}
+
+.card{
+    background-color:#049904 ;
+    border-radius: 20px;
+}
+
+.text h3{
+    font-size: 25px;
+    font-weight: 700;
+
+}
+
+.textbottom p{
+    font-size: 20px;
+    color: #049904;
+}
+
+.textbottom h5{
+    font-size: 30px;
+    font-weight: 700;
+    color: #049904;
+
+}
+
+/* END KENDALA FRAME */
+
+/* Kenapa Frame */
+#kenapa{
+    background-color:#CEFF9D;
+    padding: 80px 0px;
+   
+}
+
+#kenapa h2{
+    border-bottom: 10px solid #049904; /* Ubah warna dan ketebalan sesuai kebutuhan */
+    padding-bottom: 10px; /* Sesuaikan jarak antara teks dan garis bawah */
+    display: inline-block; /* Membuat garis bawah hanya sepanjang teks */
+    color: #049904;
+    margin-bottom: 50px;
+    font-weight: 600;
+}
+
+.judul h4{
+    font-size: 25px ;
+    color: yellow;
+}
+
+.deskripsi p{
+    margin: 20pxpx 15px;
+}
+
+/* END KENAPA */
+
+/* pilihan */
+
+#pilihan{
+    background-color: #90FF74;
+    padding: 30px 0px;
+}
+
+.button .btn-success{
+    padding: 20px 40px;
+    margin: 0px 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.judul h3{
+    font-size: 35px;
+}
+
+#produk{
+    padding: 80px 0px;
+    background-color: #F9F5F5 ;
+
+}
+
+
+
+#bergabung {
+    padding: 80px 0px;
+    background-color:#CEFF9D;
+}
+
+.deskripsiBergabung h2{
+    color:#049904;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 70px;
+}
+
+.deskripsiBergabung p{
+    color:#049904;
+    font-size: 20px;
+    
+}
+
+.deskripsiBergabung .btn-success{
+    margin-top: 10px;
+    padding: 15px 20px;
+    background-color:#049904;
+    color: white;
+    
+}
+
+
+#footer {
+    padding:  80px 0px;
+    background-color: #049904;
+}
+
+.tengah .deskrisifooter {
+    font-size: 10px;
+    font-style: italic;
+}
+
+.tengah .deskrisifooter img{
+    width: 15px;
+    height: 15px;
+    margin-left: 20px;
+    margin-right: 10px;
+   
+}
