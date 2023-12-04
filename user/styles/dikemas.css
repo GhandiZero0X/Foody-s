@@ -14,7 +14,14 @@ input {
 }
 body {
   width: 151.2rem;
-}.dikemas-kS5 {
+}
+.fd img{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 65px;
+  width: 150px;
+}
+.dikemas-kS5 {
   width: 100%;
   height: 138.1rem;
   position: relative;

@@ -14,7 +14,14 @@ input {
 }
 body {
   width: 151.2rem;
-}.checkout-page-WEM {
+}
+.fd img{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 65px;
+  width: 150px;
+}
+.checkout-page-WEM {
   width: 100%;
   height: 182.5rem;
   position: relative;
@@ -41,6 +48,8 @@ body {
   color: #049904;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
+  justify-content: left; 
+  text-align: left;
 }
 .checkout-page-WEM .auto-group-r9dm-d45 .group-25-PBf {
   margin: 0rem 0rem 5.7rem 0.35rem;
@@ -91,7 +100,8 @@ body {
 .checkout-page-WEM .auto-group-r9dm-d45 .group-25-PBf .auto-group-ehtq-oPo .auto-group-k3xh-gyP .pregorian-purwacahyani-Rg5 {
   margin-bottom: 2.4rem;
   width: 100%;
-  text-align: center;
+  justify-content: left; 
+  text-align: left;
   font-size: 3rem;
   font-weight: 400;
   line-height: 0.8;
@@ -102,7 +112,8 @@ body {
 }
 .checkout-page-WEM .auto-group-r9dm-d45 .group-25-PBf .auto-group-ehtq-oPo .auto-group-k3xh-gyP .item-6283123456789-8Kb {
   width: 100%;
-  text-align: center;
+  justify-content: left; 
+  text-align: left;
   font-size: 3rem;
   font-weight: 400;
   line-height: 0.8;
@@ -122,7 +133,9 @@ body {
 }
 .checkout-page-WEM .auto-group-r9dm-d45 .group-25-PBf .jalani-aja-dulu-gak-sih-rt-08-rw-01-gubeng-60123-xZX {
   width: 100%;
-  text-align: center;
+  justify-content: left; 
+  text-align: left;
+  padding-left: 4rem;
   font-size: 3rem;
   font-weight: 400;
   line-height: 0.8;
@@ -130,6 +143,7 @@ body {
   color: #000000;
   font-family: Arial, 'Source Sans Pro';
   white-space: nowrap;
+  
 }
 .checkout-page-WEM .auto-group-r9dm-d45 .group-28-EG9 {
   margin: 0rem 0rem 2.8rem 0.35rem;
@@ -368,21 +382,21 @@ body {
   flex-shrink: 0;
 }
 .checkout-page-WEM .auto-group-r9dm-d45 .group-27-wvZ .auto-group-e4nw-Kpd .auto-group-hyvu-Vcd {
-  margin-right: 44.3rem;
+  margin-right: 45rem;
   width: 12.6rem;
   height: 100%;
   font-size: 2rem;
-  font-weight: 700;
-  line-height: 1.2575;
-  color: #000000;
-  font-family: Arial, 'Source Sans Pro';
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
   display: flex;
   align-items: center;
   justify-content: center;
   border: solid 0.1rem #000000;
   box-sizing: border-box;
-  background-color: #ffffff;
+  background-color: #049904;
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
@@ -454,6 +468,7 @@ body {
   justify-content: center;
   background-color: #049904;
   flex-shrink: 0;
+  text-decoration: none;
 }
 .checkout-page-WEM .footer-SCR {
   width: 151.2rem;
