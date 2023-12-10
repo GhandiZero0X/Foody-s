@@ -13,8 +13,9 @@ input {
 	border: none;
 }
 body {
-  width: 151.2rem;
-}.from-edit-FTP {
+  width: 100%;
+}
+.from-edit-FTP {
   width: 100%;
   height: 98.2rem;
   position: relative;
@@ -375,7 +376,7 @@ body {
   border-radius: 0.5rem;
 }
 .from-edit-FTP .layout-navbar-admin-sn9 {
-  width: 144rem;
+  width: 100%;
   height: 9.1rem;
   position: absolute;
   left: 0;
@@ -417,20 +418,29 @@ body {
   white-space: nowrap;
 }
 .from-edit-FTP .layout-navbar-admin-sn9 .search-bro-KXf {
-  width: 42.2rem;
-  height: 4rem;
+  width: 35rem;
+  height: 2.5rem;
   position: absolute;
-  left: 67.4rem;
-  top: 2.7rem;
+  left: 72rem;
+  top: 3rem;
   object-fit: contain;
   vertical-align: top;
+  padding: 5px 20px 5px 35px;
+  font-size: 16px;
+  border-radius: 20px;
+  background-image: url('/admin/assets/icons8-search-50.png');
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  background-position: 10px center;
+  background-color: #049904;
+  border: rgb(0, 0, 0) solid 1px;
 }
 .from-edit-FTP .layout-navbar-admin-sn9 .foodies-1-ScH {
-  width: 30.1rem;
-  height: 27.7rem;
+  width: 70pxx;
+  height: 50px;
   position: absolute;
-  left: 2.1rem;
-  top: 0;
+  left: 7.5rem;
+  top: 1.5rem;
   object-fit: cover;
   vertical-align: top;
 }

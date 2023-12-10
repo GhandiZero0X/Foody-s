@@ -57,6 +57,9 @@ body {
   display: flex;
   align-items: baseline;
 }
+.overview-aLZ a {
+  text-decoration: none;
+}
 .produk--rX3 .group-380-z7T .overview-aLZ .overview-aLZ-sub-0 {
   font-size: 1.6rem;
   font-weight: 700;
