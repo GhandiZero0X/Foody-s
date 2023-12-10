@@ -729,6 +729,9 @@ body {
   object-fit: cover;
   vertical-align: center;
 }
+.overview-MJR a {
+  text-decoration: none;
+}
 .statistik-per-bulan-F6y .layout-navbar-admin-9hK .dropdown-menu-cMw {
   box-sizing: border-box;
   padding: 1.2rem 1.38rem 1.2rem 1.472rem;

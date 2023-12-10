@@ -244,6 +244,10 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
+.no-underline {
+  text-decoration: none;
+}
 .transaksi-dNq .group-410-L1f .auto-group-27yv-phX .item-18000-UZ7 {
   margin-top: 0.6274rem;
   font-size: 1.2rem;

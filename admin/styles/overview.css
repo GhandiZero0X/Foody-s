@@ -63,6 +63,9 @@ body {
   display: flex;
   align-items: baseline;
 }
+.overview-UUH a {
+  text-decoration: none;
+}
 .overview-da9
   .sidebar-variant2-jNH
   .side-nav-F5j
