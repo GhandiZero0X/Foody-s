@@ -14,7 +14,14 @@ input {
 }
 body {
   width: 151.2rem;
-}.form-alamat-page-PJH {
+}
+.fd img{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 65px;
+  width: 150px;
+}
+.form-alamat-page-PJH {
   width: 100%;
   height: 182.5rem;
   position: relative;
@@ -265,9 +272,10 @@ body {
   flex-shrink: 0;
 }
 .form-alamat-page-PJH .group-25-vRw .item-6283123456789-NKs {
-  margin-bottom: 2.4rem;
   width: 100%;
-  text-align: center;
+  justify-content: left; 
+  text-align: left;
+  padding-left: 4rem;
   font-size: 3rem;
   font-weight: 400;
   line-height: 0.8;
@@ -275,10 +283,13 @@ body {
   color: #000000;
   font-family: Arial, 'Source Sans Pro';
   white-space: nowrap;
+  padding-bottom: 15px;
 }
 .form-alamat-page-PJH .group-25-vRw .jalani-aja-dulu-gak-sih-rt-08-rw-01-gubeng-60123-UNu {
   width: 100%;
-  text-align: center;
+  justify-content: left; 
+  text-align: left;
+  padding-left: 4rem;
   font-size: 3rem;
   font-weight: 400;
   line-height: 0.8;
@@ -286,6 +297,7 @@ body {
   color: #000000;
   font-family: Arial, 'Source Sans Pro';
   white-space: nowrap;
+  
 }
 .form-alamat-page-PJH .group-28-NUH {
   width: 130rem;
