@@ -14,7 +14,14 @@ input {
 }
 body {
   width: 151.2rem;
-}.edit-profile-page-member--KB7 {
+}
+.fd img{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 65px;
+  width: 150px;
+}
+.edit-profile-page-member--KB7 {
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -22,13 +29,6 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #f9f5f5;
-}
-
-.fd img{
-  height: 60px;
-  margin-top: 10px;
-  margin-left: 65px;
-  width: 150px;
 }
 
 .edit-profile-page-member--KB7 .navbar-user-SWd {

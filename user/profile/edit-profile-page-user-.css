@@ -14,7 +14,14 @@ input {
 }
 body {
   width: 151.2rem;
-}.edit-profile-page-user--W6M {
+}
+.fd img{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 65px;
+  width: 150px;
+}
+.edit-profile-page-user--W6M {
   width: 100%;
   overflow: hidden;
   position: relative;
