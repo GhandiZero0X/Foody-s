@@ -140,7 +140,19 @@ body{
 #produk #carouselExampleControls .card{
     margin: 0 .5em;
     width: calc(100%/3);
+    background-color: #3EBC3E;
 }
+
+#produk #carouselExampleControls .card .card-title{
+  font-weight: 700;
+}
+
+#produk #carouselExampleControls .card .card-text{
+   color: white;
+  }
+
+
+
 
 
 
@@ -154,7 +166,18 @@ body{
 #outlet #carouselExampleControls2 .card{
     margin: 0 .5em;
     width: calc(100%/3);
+    background-color: #3EBC3E;
 }
+
+#outlet #carouselExampleControls2 .card .card-title{
+    font-weight: 700;
+}
+
+#outlet #carouselExampleControls2 .card .card-text{
+  color: white;
+}
+
+
 /* #carouselExample .cards-wrapper2{
     display: flex;
 }
@@ -174,6 +197,16 @@ background: linear-gradient(180deg, rgba(206,255,157,1) 70%, rgba(255,255,255,1)
 #blog #carouselExampleControls3 .card{
     margin: 0 .5em;
     width: calc(100%/3);
+    background-color: #3EBC3E;
+}
+
+#blog #carouselExampleControls3 .card .card-title{
+    font-weight: 700;
+}
+
+#blog #carouselExampleControls3 .card .card-text{
+  color: white;
+  font-size: 13px;
 }
 
 #footer {
