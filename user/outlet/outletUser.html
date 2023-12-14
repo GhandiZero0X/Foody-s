@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outlet User</title>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="outletUser.css">
+</head>
+<body>
+      <!-- NAVBAR -->
+      <nav class="navbar navbar-expand-lg  fixed-top" style="background-color: #049904; ">
+        <div class="container">
+            <a class="navbar-brand" href="">
+                <img src="img/Foodies.png" alt="logo_foodys" style="width:140px; height:50px">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar"
+                aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
+                aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Offcanvas</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Outlet</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Contact</a>
+                        </li>
+
+                     
+    
+                        <li class="nav-item" style="margin-left: 30px; margin-right: -20px;">
+                            <a class="nav-link active" href="#">Andi Akhsanul </a>
+                        </li>
+    
+                        <li class="nav-item dropdown" style="margin-right: -70px;">
+                          <div class="profile-image-wrapper dropdown" href="#" role="button" data-bs-toggle="dropdown"
+                          aria-expanded="false">
+                          <img src="img/profil-2zd.png" alt="">
+                      </div>
+                                <ul class="dropdown-menu" style="left: -150px;" >
+                                    <li><a class="dropdown-item text-center" href="#"><button class="btn btn-success" style="padding: 5px 40px;">Profile</button></a></li>
+                                    <li><a class="dropdown-item text-center" href="#"><button class="btn btn-success" style="padding: 5px 33px;">Dashboard</button></a></li>
+                                    <li><a class="dropdown-item text-center" href="#"><button class="btn btn-success" style="padding: 5px 35px;">Keranjang</button></a></li>
+                                    <li><a class="dropdown-item text-center mt-4" href="#"><button class="btn btn-danger" style="padding: 5px 30px;">Log Out</button></a></li>
+                                
+                                </ul>
+                        </li>
+
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!--TUTUP NAVBAR -->
+
+    <section id="dropdown">
+        <div class="container">
+            <div class="row">
+                <div class="col-4">
+                    <div class="dropdown text-center">
+                        <button class="btn btn-warning dropdown-toggle text-white" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                          Lokasi Outlet
+                        </button>
+                        <ul class="dropdown-menu" >
+                          <li><a style="color:#FFB534" class="dropdown-item" href="#">Surabaya Utara</a></li>
+                          <li><a style="color:#FFB534" class="dropdown-item" href="#">Surabaya Selatan</a></li>
+                          <li><a style="color:#FFB534" class="dropdown-item" href="#">Surabaya Barat</a></li>
+                          <li><a style="color:#FFB534"  class="dropdown-item" href="#">Surabaya Barat</a></li>
+                          <li><a style="color:#FFB534" class="dropdown-item" href="#">Surabaya Pusat</a></li>
+                        </ul>
+                      </div>
+                </div>
+
+                <div class="col-4">
+                    <div class="dropdown text-center">
+                        <button class="btn btn-warning dropdown-toggle text-white" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                          Rating Outlet
+                        </button>
+                        <ul class="dropdown-menu">
+                          <li><a style="color:#049904;" class="dropdown-item" href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                            <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+                          </svg> 5.0</a></li>
+                          <li><a style="color:#049904;" class="dropdown-item" href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                            <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+                          </svg> 4.5</a></li>
+                          <li><a style="color:#049904;" class="dropdown-item" href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                            <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+                          </svg> 4.0</a></li>
+                          <li><a style="color:#049904;" class="dropdown-item" href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                            <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+                          </svg> 3.5</a></li>
+                          <li><a style="color:#049904;" class="dropdown-item" href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                            <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+                          </svg> 3.0</a></li>
+                        </ul>
+                      </div>
+                </div>
+                
+                <div class="col-4">
+                    <div class="dropdown text-center">
+                        <button class="btn btn-warning dropdown-toggle text-white" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                          Status Outlet
+                        </button>
+                        <ul class="dropdown-menu">
+                          <li><a style="color:#FFB534" class="dropdown-item" href="#">Outlet Lama</a></li>
+                          <li><a style="color:#FFB534" class="dropdown-item" href="#">Outlet Baru</a></li>
+                        </ul>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="outlet">
+        <div class="container">
+
+            <h3 style="font-weight: 700; font-size: 40px;" class="text-success mb-5">Outlet</h3>
+          <div class="row">
+            <div class="card " >
+            <div class="col-12">
+            
+                <div class="d-flex justify-content-start">
+                <img src="img/rectangle-90-Wzu.png" alt="" >
+                <div class="d-flex justify-content-center flex-column align-items-start ms-5">
+                    <div class="d-flex mb-2 text-white  ">
+                        <svg  style="color: white; height:25px; margin-right : 10px"   xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt" viewBox="0 0 16 16">
+                            <path d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A31.493 31.493 0 0 1 8 14.58a31.481 31.481 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10"/>
+                            <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4m0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/>
+                          </svg>
+                        <h5>Surabaya Barat</h5>
+                    </div>
+                    
+                    <h3 style="font-weight: 700; color:black;">Outlet Pak Hasan</h3>
+                    <p class="text-white"  style="font-size: 20px;">Jual Makanan Tradisional Surabaya</p>
+                    <div class="d-flex justify-content-end" >
+                      <svg style="color: #FFB534; " xmlns="http://www.w3.org/2000/svg" width="25" height="30" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                        <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+                      </svg>
+                      <h3 class="text-end" style="color:#FFB534">5.00</h3>
+                    </div>
+                    
+                   </div>
+            </div>      
+            </div>
+            </div>
+
+            
+          </div>
+
+          <div class="row mt-5">
+            <div class="card " >
+            <div class="col-12">
+            
+                <div class="d-flex justify-content-start">
+                <img src="img/rectangle-90-Wzu.png" alt="" >
+                <div class="d-flex justify-content-center flex-column align-items-start ms-5">
+                    <div class="d-flex mb-2 text-white  ">
+                        <svg  style="color: white; height:25px; margin-right : 10px"   xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt" viewBox="0 0 16 16">
+                            <path d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A31.493 31.493 0 0 1 8 14.58a31.481 31.481 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10"/>
+                            <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4m0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/>
+                          </svg>
+                        <h5>Surabaya Barat</h5>
+                    </div>
+                    
+                    <h3 style="font-weight: 700; color:black;">Outlet Pak Hasan</h3>
+                    <p class="text-white"  style="font-size: 20px;">Jual Makanan Tradisional Surabaya</p>
+                    <div class="d-flex justify-content-end" >
+                      <svg style="color: #FFB534; " xmlns="http://www.w3.org/2000/svg" width="25" height="30" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                        <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+                      </svg>
+                      <h3 class="text-end" style="color:#FFB534">5.00</h3>
+                    </div>
+                    
+                   </div>
+            </div>      
+            </div>
+            </div>
+
+            
+          </div>
+
+          <div class="row mt-5">
+            <div class="card " >
+            <div class="col-12">
+            
+                <div class="d-flex justify-content-start">
+                <img src="img/rectangle-90-Wzu.png" alt="" >
+                <div class="d-flex justify-content-center flex-column align-items-start ms-5">
+                    <div class="d-flex mb-2 text-white  ">
+                        <svg  style="color: white; height:25px; margin-right : 10px"   xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt" viewBox="0 0 16 16">
+                            <path d="M12.166 8.94c-.524 1.062-1.234 2.12-1.96 3.07A31.493 31.493 0 0 1 8 14.58a31.481 31.481 0 0 1-2.206-2.57c-.726-.95-1.436-2.008-1.96-3.07C3.304 7.867 3 6.862 3 6a5 5 0 0 1 10 0c0 .862-.305 1.867-.834 2.94M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10"/>
+                            <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4m0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6"/>
+                          </svg>
+                        <h5>Surabaya Barat</h5>
+                    </div>
+                    
+                    <h3 style="font-weight: 700; color:black;">Outlet Pak Hasan</h3>
+                    <p class="text-white"  style="font-size: 20px;">Jual Makanan Tradisional Surabaya</p>
+                    <div class="d-flex justify-content-end" >
+                      <svg style="color: #FFB534; " xmlns="http://www.w3.org/2000/svg" width="25" height="30" fill="currentColor" class="bi bi-star-fill" viewBox="0 0 16 16">
+                        <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+                      </svg>
+                      <h3 class="text-end" style="color:#FFB534">5.00</h3>
+                    </div>
+                    
+                   </div>
+            </div>      
+            </div>
+            </div>
+
+            
+          </div>
+        </div>
+          
+      </section>
+
+      <footer id="footer">
+        <div class="container">
+           <div class="row" style="border-bottom: 1px solid black;">
+           <div class="col-md-12">
+                <div class="img-fluid mb-4">
+                    <img src="img/Foodies.png" alt="" style="width: 10rem;">   
+                </div>
+           </div>
+            </div>
+
+            <div class="row mt-4 tengah" style="border-bottom: 1px solid black;">
+
+                <div class="col-md-3">
+                    <div class="text judulfooter" >
+                        <h3 class="text-center text-white"> <span class="text-warning"> Tag</span> Line</h3>
+                    </div>
+
+                    <div class="text text-white deskrisifooter">
+                        <p>“Tujuan kami bukan menciptakan bisnis yang besar, tetapi membangun sesuatu yang membuat perubahan besar.”</p>
+                        <p> “Semua impian kita menjadi kanyataan, jika kita mempunyai keberanian unutk mengerjakannya.” - Walt Disney</p>
+                        <p>“Wirausahawan sejadi meciptakan peluang bisnis, sedangkan wirausahawan bisa fokus mengejar uang”</p>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="text judulfooter">
+                        <h3 class="text-center text-white"> <span class="text-warning"> About</span> Us</h3>
+                    </div>
+
+                    <div class="text text-white deskrisifooter">
+                        <div class="text d-flex ">
+                            <img src="img/location-HPP.png" alt="" >
+                            <p>Jl. Dharmawangsa No.138 D, Airlangga, Kec. Gubeng, Surabaya, Jawa Timur 60282</p>
+                        </div>
+
+                        <div class="text d-flex">
+                            <img src="img/icon-envelope-closed-6U9.png" alt="" >
+                            <p>foodyS.Bussines@gmail.com</p>
+                        </div>
+
+                        <div class="text d-flex">
+                            <img src="img/calling-AfT.png" alt="" >
+                            <p>0274-2885822</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="text judulfooter">
+                        <h3 class="text-center text-white"> <span class="text-warning"> Communi</span> ty</h3>
+                    </div>
+
+                    <div class="img-fluid media text-center">
+                        <img src="img/group-266-kpR.png"  style="width: 5rem;" alt="">
+                    </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="text judulfooter">
+                        <h3 class="text-center text-white"> <span class="text-warning"> Social</span>Media</h3>
+                    </div>
+
+                    <div class="img-fluid media text-center">
+                        <img src="img/list-sosmed-Ks7.png"  style="width: 10rem;" alt="">
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mt-5">
+                <div class="col-lg-12">
+                    <div class="text-center text-white">
+                        <p>Copyright © 2023 by Foody’S. All Rights Reserved.</p>
+                        <p>Terima kasih telah mengunjungi Foody’S. Jangan ragu untuk menghubungi kami jika Anda memiliki pertanyaan atau saran.</p>
+                    </div>
+                </div>
+            </div>
+           </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>
