@@ -32,6 +32,13 @@ body {
   background: linear-gradient(120.37deg, #42ff00 31.52%, #dfff1b 72.66%);
   border-radius: 1.5rem;
 }
+
+.fd img{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 65px;
+  width: 150px;
+}
 .user-admin-transaksi-d9j .section1-XW1 .credit-debit-card-c1f {
   margin-bottom: 1.6rem;
   width: 100%;

@@ -21,6 +21,13 @@ body {
   overflow: hidden;
   background-color: #ffffff;
 }
+
+.fd img{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 65px;
+  width: 150px;
+}
 .user-admin-product-erd .rectangle-146-Yh7 {
   width: 40.4rem;
   height: 1.7rem;

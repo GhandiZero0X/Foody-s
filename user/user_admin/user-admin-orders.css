@@ -21,6 +21,13 @@ body {
   overflow: hidden;
   background-color: #ffffff;
 }
+
+.fd img{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 65px;
+  width: 150px;
+}
 .user-admin-orders-iV7 .section1-cqP {
   box-sizing: border-box;
   padding: 2.6rem 4.7rem 3.8rem 3.5rem;

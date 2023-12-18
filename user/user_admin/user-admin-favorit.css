@@ -21,6 +21,13 @@ body {
   overflow: hidden;
   background-color: #ffffff;
 }
+
+.fd img{
+  height: 60px;
+  margin-top: 10px;
+  margin-left: 65px;
+  width: 150px;
+}
 .user-admin-favorit-i1P .footer-paD {
   width: 151.2rem;
   height: 62.6rem;
