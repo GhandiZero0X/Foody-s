@@ -14,6 +14,26 @@ input {
 body {
   width: 151.2rem;
 }
+
+#dropdown{
+  background-color: #EFEAEA;
+ margin-top: 7rem;
+  
+}
+
+#dropdown .container{
+  background-color: white;
+  padding: 30px 0;
+  border-radius: 30px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+#dropdown .dropdown button{
+  width: 15rem;
+  height: 3rem;
+  font-size: 20px;
+}
+
 .fd img{
   height: 60px;
   margin-top: 10px;
@@ -545,16 +565,7 @@ body {
   background-color: #ffb000;
   flex-shrink: 0;
 }
-.produk-page-member-8yw .auto-group-af71-3N1 .search-produk-jEq .search-opsi-eMo .kategori-3uj {
-  margin-right: 7rem;
-  box-sizing: border-box;
-  padding: 1.3rem 1.4rem 1.1rem 1.8rem;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffb000;
-  flex-shrink: 0;
-}
+
 .produk-page-member-8yw .auto-group-af71-3N1 .search-produk-jEq .search-opsi-eMo .kategori-3uj .kategori-maq {
   margin-right: 3.4rem;
   display: flex;
@@ -578,15 +589,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.produk-page-member-8yw .auto-group-af71-3N1 .search-produk-jEq .search-opsi-eMo .harga-Acy {
-  box-sizing: border-box;
-  padding: 1.1rem 1.5rem 1.3rem 2.3rem;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  background-color: #ffb000;
-  flex-shrink: 0;
-}
+
 .produk-page-member-8yw .auto-group-af71-3N1 .search-produk-jEq .search-opsi-eMo .harga-Acy .harga-h77 {
   margin-right: 5.4rem;
   display: flex;

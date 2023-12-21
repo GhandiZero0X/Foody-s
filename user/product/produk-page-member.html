@@ -22,6 +22,7 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css?family=Inter%3A700" />
     <link rel="stylesheet" href="./produk-page-member.css" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   </head>
   <body>
     <div class="produk-page-member-8yw">
@@ -131,25 +132,48 @@
           <div class="line-22-KS1"></div>
         </div>
       </div>
+
       <div class="auto-group-af71-3N1">
         <div class="search-produk-jEq">
           <div class="search-opsi-eMo">
-            <div class="terlaris-ZzZ">Terlaris</div>
+            <div class="dropdown text-center">
+              <button class="btn btn-warning dropdown text-white" type="button" data-bs-toggle="dropdown" aria-expanded="false" style="margin-right: 40px; height: 4rem; width: 13rem;">
+                <h2>Terlaris</h2>
+              </button>
+            </div>
             <div class="kategori-3uj">
-              <div class="kategori-maq">Kategori</div>
-              <img
-                class="iconly-light-arrow-down-2-GGh"
-                src="./img/icon-A5f.png" />
+              <div class="dropdown text-center" style="margin-right: 40px;">
+                <button class="btn btn-warning dropdown-toggle text-white" type="button" data-bs-toggle="dropdown" aria-expanded="false" style="height: 4rem; width: 13rem;">
+                  <h2>Kategori</h2>
+                </button>
+                <ul class="dropdown-menu">
+                  <li><a style="color:#FFB534" class="dropdown-item" href="#"><h4>Lontong Balap</h4></a></li>
+                  <li><a style="color:#FFB534" class="dropdown-item" href="#"><h4>Rujak Cingur</h4></a></li>
+                  <li><a style="color:#FFB534" class="dropdown-item" href="#"><h4>Tahu Tek</h4></a></li>
+                  <li><a style="color:#FFB534" class="dropdown-item" href="#"><h4>Pecel</h4></a></li>
+                  <li><a style="color:#FFB534" class="dropdown-item" href="#"><h4>Semanggi</h4></a></li>
+                </ul>
+              </div>
             </div>
             <div class="harga-Acy">
-              <div class="harga-h77">Harga</div>
-              <img
-                class="iconly-light-arrow-down-2-QXK"
-                src="./img/icon-A5f.png" />
+              <div class="col-4">
+                    <div class="dropdown text-center" style="margin-right: 150px;">
+                        <button class="btn btn-warning dropdown-toggle text-white" type="button" data-bs-toggle="dropdown" aria-expanded="false" style="height: 4rem; width: 13rem;">
+                          <h2>Harga</h2>
+                        </button>
+                        <ul class="dropdown-menu">
+                          <li><a style="color:#FFB534" class="dropdown-item" href="#"><h3>Terendah</h3></a></li>
+                          <li><a style="color:#FFB534" class="dropdown-item" href="#"><h3>Tertinggi</h3></a></li>
+                        </ul>
+                      </div>
+                </div>
             </div>
           </div>
-          <a href="../product/cart-page.html"><img class="keranjang-gzd" src="./img/keranjang.png" /></a>
+          <a href="../product/cart-page.html"><img class="keranjang-gzd" src="./img/keranjang.png"></a>
         </div>
+
+
+
         <div class="list-barang-QQq">
           <div class="auto-group-qj9y-97X">
             <div class="daun-semanggi-epy">
@@ -293,5 +317,7 @@
         </div>
       </div>
     </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
   </body>
 </html>
